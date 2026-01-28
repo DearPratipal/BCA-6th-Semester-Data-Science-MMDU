@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proposal: Google Cloud Arcade 2026</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Google+Sans:wght@400;500;700&family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <style>
+        :root {
+            --google-blue: #4285F4;
+            --google-red: #EA4335;
+            --google-yellow: #FBBC05;
+            --google-green: #34A853;
+            --text-dark: #202124;
+            --text-gray: #5f6368;
+            --bg-light: #f8f9fa;
+        }
+
+        body {
+            font-family: 'Roboto', sans-serif;
+            line-height: 1.6;
+            color: var(--text-dark);
+            background: #e0e0e0;
+            margin: 0;
+            padding: 40px 0;
+        }
+
+        /* A4 Paper Style */
+        .page {
+            background: white;
+            width: 210mm;
+            min-height: 297mm;
+            margin: 0 auto 40px auto;
+            padding: 20mm;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+            position: relative;
+            overflow: hidden;
+        }
+
+        /* Typography */
+        h1, h2, h3, h4 {
+            font-family: 'Google Sans', sans-serif;
+            color: var(--text-dark);
+            margin-top: 0;
+        }
+
+        h1 { font-size: 32px; font-weight: 700; margin-bottom: 10px; }
+        h2 { font-size: 24px; color: var(--google-blue); border-bottom: 2px solid #eee; padding-bottom: 10px; margin-top: 30px; }
+        h3 { font-size: 18px; font-weight: 600; margin-top: 20px; }
+        p { font-size: 14px; color: var(--text-gray); margin-bottom: 15px; }
+
+        /* BRANDING HEADER */
+        .brand-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 4px solid var(--google-blue);
+            padding-bottom: 20px;
+            margin-bottom: 40px;
+        }
+        .brand-logo {
+            font-size: 24px;
+            font-family: 'Google Sans', sans-serif;
+            font-weight: bold;
+            color: var(--text-gray);
+        }
+        .brand-logo span { color: var(--google-blue); }
+        .date { font-size: 14px; color: var(--text-gray); }
+
+        /* HERO SECTION */
+        .hero {
+            background: linear-gradient(135deg, rgba(66, 133, 244, 0.1) 0%, rgba(52, 168, 83, 0.1) 100%);
+            padding: 40px;
+            border-radius: 12px;
+            margin-bottom: 30px;
+            position: relative;
+        }
+        .hero::after {
+            content: '';
+            position: absolute;
+            top: 0; right: 0;
+            width: 100px;
+            height: 100px;
+            background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="%234285F4"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96z"/></svg>') no-repeat center;
+            opacity: 0.1;
+        }
+
+        /* GRID LAYOUTS */
+        .grid-2 {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+            margin-bottom: 20px;
+        }
+        .grid-3 {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+
+        /* CARDS */
+        .card {
+            background: #fff;
+            border: 1px solid #e0e0e0;
+            border-radius: 8px;
+            padding: 20px;
+            transition: transform 0.2s;
+        }
+        .card:hover { transform: translateY(-2px); border-color: var(--google-blue); }
+        .card-icon { font-size: 24px; margin-bottom: 10px; }
+        
+        .blue-card { border-top: 4px solid var(--google-blue); }
+        .red-card { border-top: 4px solid var(--google-red); }
+        .yellow-card { border-top: 4px solid var(--google-yellow); }
+        .green-card { border-top: 4px solid var(--google-green); }
+
+        /* TIMELINE */
+        .timeline { margin: 30px 0; }
+        .timeline-item {
+            display: flex;
+            margin-bottom: 20px;
+        }
+        .timeline-date {
+            min-width: 100px;
+            font-weight: bold;
+            color: var(--google-blue);
+            padding-right: 20px;
+            text-align: right;
+            border-right: 2px solid #e0e0e0;
+        }
+        .timeline-content { padding-left: 20px; }
+
+        /* CONTACT BOX */
+        .contact-box {
+            background: var(--text-dark);
+            color: white;
+            padding: 30px;
+            border-radius: 12px;
+            margin-top: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .contact-box p { color: #aaa; margin: 0; }
+        .contact-box h3 { color: white; margin: 0 0 5px 0; }
+
+        /* GRAPHICS COLLAGE STYLES */
+        .tech-pill {
+            display: inline-block;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 12px;
+            font-weight: 500;
+            margin-right: 5px;
+            margin-bottom: 5px;
+            background: #e8f0fe; color: var(--google-blue);
+        }
+
+        @media print {
+            body { background: white; padding: 0; }
+            .page { margin: 0; box-shadow: none; width: 100%; height: auto; page-break-after: always; }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- PAGE 1: EXECUTIVE SUMMARY -->
+    <div class="page">
+        <div class="brand-header">
+            <div class="brand-logo"><i class="fa-brands fa-google"></i> Cloud <span>Skills Boost</span></div>
+            <div class="date">January 10, 2026</div>
+        </div>
+
+        <div class="hero">
+            <p style="text-transform: uppercase; letter-spacing: 1px; font-weight: 600; color: var(--google-blue); margin-bottom: 5px;">Formal Proposal</p>
+            <h1 style="color: var(--google-blue);">Establishment of Google Cloud Arcade 2026 Cohort</h1>
+            <p style="font-size: 16px; color: var(--text-dark);">A strategic initiative to empower students with Industry-Standard Cloud Computing & Generative AI skills at zero cost to the institution.</p>
+            
+            <div style="margin-top: 20px;">
+                <span class="tech-pill">Generative AI</span>
+                <span class="tech-pill">Cloud Infrastructure</span>
+                <span class="tech-pill">Big Data</span>
+                <span class="tech-pill">Kubernetes</span>
+            </div>
+        </div>
+
+        <div class="grid-2">
+            <div>
+                <h3><i class="fa-solid fa-bullseye" style="color: var(--google-red);"></i> Objective</h3>
+                <p>To integrate practical, hands-on cloud learning into the student curriculum through the <strong>Google Cloud Arcade Program (Session Jan-July 2026)</strong>. This initiative aims to bridge the gap between academic theory and industry requirements.</p>
+            </div>
+            <div>
+                <h3><i class="fa-solid fa-users-viewfinder" style="color: var(--google-green);"></i> Target Audience</h3>
+                <p>Students from <strong>BCA, B.Sc., and B.Tech</strong> streams who demonstrate an aptitude for technology and a willingness to commit 3-5 hours per week for self-paced learning.</p>
+            </div>
+        </div>
+
+        <h2>Strategic Value for the Institute</h2>
+        <div class="grid-3">
+            <div class="card blue-card">
+                <div class="card-icon"><i class="fa-solid fa-certificate" style="color: var(--google-blue);"></i></div>
+                <h3>Accreditation</h3>
+                <p>Students earn globally recognized skill badges that enhance the institution's technical profile during audits/placements.</p>
+            </div>
+            <div class="card red-card">
+                <div class="card-icon"><i class="fa-solid fa-money-bill-wave" style="color: var(--google-red);"></i></div>
+                <h3>Zero Cost</h3>
+                <p>The program provides $200+ worth of monthly lab credits per student for FREE. No financial investment required.</p>
+            </div>
+            <div class="card yellow-card">
+                <div class="card-icon"><i class="fa-solid fa-rocket" style="color: var(--google-yellow);"></i></div>
+                <h3>Placement</h3>
+                <p>Cloud skills are currently the #1 demand in IT. A verified portfolio increases hiring chances by 40%.</p>
+            </div>
+        </div>
+
+        <div style="margin-top: 40px; border-left: 4px solid var(--text-dark); padding-left: 20px; background: #f1f3f4; padding: 20px;">
+            <h3><i class="fa-solid fa-quote-left"></i> Note from the Facilitator</h3>
+            <p style="font-style: italic; color: var(--text-dark);">"As a selected Mentor for this cohort, I will personally ensure that students stay on track. My goal is to help our college achieve the highest badge completion rate in the region."</p>
+            <p style="margin-top: 10px; font-weight: bold;">- Pratipal Kumar Singh</p>
+        </div>
+    </div>
+
+    <!-- PAGE 2: EXECUTION PLAN -->
+    <div class="page">
+        <div class="brand-header">
+            <div class="brand-logo">Program <span>Curriculum & Timeline</span></div>
+            <div class="date">Arcade Session 2026</div>
+        </div>
+
+        <h2>Curriculum Matrix</h2>
+        <p>The program is divided into monthly "Levels" or "Games". Each level focuses on a specific technology stack.</p>
+
+        <div class="grid-2">
+            <!-- Tech Stack 1 -->
+            <div class="card green-card" style="display: flex; gap: 15px;">
+                <div style="font-size: 30px; color: var(--google-green);"><i class="fa-solid fa-brain"></i></div>
+                <div>
+                    <h3>GenAI & Machine Learning</h3>
+                    <p>Vertex AI, Prompt Engineering, Gemini API Integration, Natural Language Processing.</p>
+                </div>
+            </div>
+            <!-- Tech Stack 2 -->
+            <div class="card blue-card" style="display: flex; gap: 15px;">
+                <div style="font-size: 30px; color: var(--google-blue);"><i class="fa-solid fa-server"></i></div>
+                <div>
+                    <h3>Infrastructure & DevOps</h3>
+                    <p>Compute Engine, Cloud Storage, Load Balancing, IAM Security, Terraform.</p>
+                </div>
+            </div>
+        </div>
+
+        <h2>Implementation Roadmap (Jan - July 2026)</h2>
+        <div class="timeline">
+            <div class="timeline-item">
+                <div class="timeline-date">Phase 1<br>Jan 10 - Jan 30</div>
+                <div class="timeline-content">
+                    <strong>Awareness & Registration</strong>
+                    <p>Circulate "Showcase Docs" to students. Complete Google Forms registration. Verify Public Profiles.</p>
+                </div>
+            </div>
+            <div class="timeline-item">
+                <div class="timeline-date">Phase 2<br>Feb - March</div>
+                <div class="timeline-content">
+                    <strong>Onboarding & Level 1</strong>
+                    <p>First set of labs released. Facilitator conducts a workshop to solve common errors. Initial badge earning begins.</p>
+                </div>
+            </div>
+            <div class="timeline-item">
+                <div class="timeline-date">Phase 3<br>April - June</div>
+                <div class="timeline-content">
+                    <strong>Advanced Tracks & Trivia</strong>
+                    <p>Students move to complex GenAI projects. "Trivia" weeks allow for rapid point accumulation.</p>
+                </div>
+            </div>
+            <div class="timeline-item">
+                <div class="timeline-date">Phase 4<br>July</div>
+                <div class="timeline-content">
+                    <strong>Closure & Rewards</strong>
+                    <p>Prize counter opens. Top performers redeem Swags. Final report submitted to HOD.</p>
+                </div>
+            </div>
+        </div>
+
+        <h2>Resource Requirements</h2>
+        <p>To execute this program successfully, we request the following support from the department:</p>
+        <ul style="color: var(--text-gray); font-size: 14px;">
+            <li><strong style="color: var(--text-dark);">Computer Lab Access:</strong> Permission for students to use the lab for 1-2 hours/week for heavy practicals.</li>
+            <li><strong style="color: var(--text-dark);">Official Communication:</strong> Permission to circulate the registration links via official WhatsApp groups.</li>
+        </ul>
+
+        <div class="contact-box">
+            <div>
+                <h3>Ready to Launch?</h3>
+                <p>Facilitator: Pratipal Kumar Singh</p>
+                <p>Phone: +91 73240 10867</p>
+            </div>
+            <div style="text-align: right;">
+                <div style="font-size: 12px; opacity: 0.8;">SCAN TO JOIN</div>
+                <i class="fa-solid fa-qrcode" style="font-size: 40px;"></i>
+            </div>
+        </div>
+        
+        <div style="margin-top: 20px; font-size: 12px; text-align: center; color: #999;">
+            This proposal is prepared by Pratipal Kumar Singh for the approval of the Head of Department.<br>
+            All trademarks belong to Google LLC.
+        </div>
+    </div>
+
+</body>
+</html>

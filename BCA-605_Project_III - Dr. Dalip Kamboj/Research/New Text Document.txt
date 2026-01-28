@@ -1,0 +1,14 @@
+Title
+
+Introduction -> 
+Literature -> Reference Author Point-of view about Research
+Existing Work/System/Model ->
+Purposed System ->
+Result & Discussion ->
+References ->
+Abstract -> What, Why and How?
+Conclusion
+
+
+{Publisher : IEEE, Springer, }
+

@@ -1,0 +1,94 @@
+Sub Code,Subject,Grade,Grade Points,Credit
+BCA-101,Programming in C,B+,21,3
+BCA-102,Computer Fundamentals & MS Office,A,24,3
+BCA-103,Digital Electronics,B+,28,4
+BCA-104,Introduction to Information Technology,B,24,4
+BHUM-011,English,B+,21,3
+HSMC-051,Universal Human Values,B,18,3
+BCA-105,C Lab,A+,9,1
+BCA-106,MS Office Lab,A+,9,1
+TOTAL,,,154,22
+SGPA: ✅ 7.,,,,
+Result: PASS,,,,
+,,,,
+,,,,
+Sub Code,Subject,Grade,Grade Points,Credit
+BCA-201,OOP Using C++,B,24,4
+BCA-202,Data Structure,A,32,4
+BCA-203,System Analysis & Design,A+,36,4
+BHUM-013,Hindi,A+,27,3
+ENE-101,Environmental Education,B+,21,3
+BCA-204,C++ Lab,A+,9,1
+BCA-205,Data Structure Lab,A+,9,1
+BCA-206,Seminar-I,O,10,1
+SPO-001,Sports,A+,9,1
+TOTAL,,,177,22
+SGPA: ✅ 8.,,,,
+Result: PASS,,,,
+,,,,
+,,,,
+Sub Code,Subject,Grade,Grade Points,Credit
+BCA-301,Database Management System,A+,27,3
+BCA-302,Web Designing Fundamentals,A,24,3
+BCA-303,Computer System Architecture,A+,36,4
+BCA-304,Operating Systems,A+,36,4
+BCA-305,Data Communication & Networking,A+,36,4
+BCA-306,DBMS Lab,O,10,1
+BCA-307,Web Designing Lab,O,10,1
+BCA-308,Project-I,O,10,1
+NSS-001/NCC-001,NSS / NCC,O,10,1
+TOTAL,,,199,22
+SGPA: ✅ 9.,,,,
+Result: PASS,,,,
+,,,,
+,,,,
+Sub Code,Subject,Grade,Grade Points,Credit
+BCA-401,Java Programming,A+,27,3
+BCA-402,Python Programming,A+,27,3
+BCA-403,Mathematical Foundation,C,20,4
+BCA-404,Software Engineering,B+,21,3
+BCA-405,Java Programming Lab,A+,9,1
+BCA-406,Python Programming Lab,O,10,1
+BHUM-022,English Communication Lab,A+,9,1
+BCIV-180,Disaster Management,A,24,3
+MAN-001,Indian Constitution,C,15,3
+TOTAL,,,162,22
+SGPA: ✅ 7.,,,,
+Result: PASS,,,,
+,,,,
+,,,,
+Sub Code,Subject Name,Grade,Grade Points,Credit
+BCA-503,Statistical Methods,,,
+BCA-504,Open Source Programming Lab,,,
+BCA-505,Mobile Application Development Lab,,,
+BCA-506,Project – ,,,
+BCA-507,Training Viva-Voce,,,
+BCA-508,Artificial Intelligence,,,
+BCA-509,Artificial Intelligence Lab,,,
+BCA-510,Big Data Analysis,,,
+BCA-511,Big Data Analysis Lab,,,
+BCA-512,Data Science,,,
+BCA-513,Data Science Lab,,,
+BCA-514,Internet of Things,,,
+BCA-515,E-Commerce,,,
+BCA-516,Software Quality & Testing,,,
+BCA-517,Theory of Computation,,,
+BCA-518,Neural Network & Fuzzy Logic,,,
+BCA-519,Data Warehousing & Data Mining,,,
+BCA-520,Soft Computing,,,
+BCA-521,Natural Language Processing,,,
+BCA-522,NoSQL Database,,,
+BCA-523,Industrial Project,,,
+BCAT-I,Cognitive Skills Training –,,,
+BHUM-003,Entrepreneurship Development & Management,,,
+TOTAL,,,,
+SGPA:,,,,
+Result:,,,,
+,,,,
+Semester,SGPA,Result,,
+Sem 1,7,,,
+Sem 2,8.05,,,
+Sem 3,9.05,,,
+Sem 4,7.36,,,
+Sem 5,,,,
+CGPA (Till Sem 5),,,,

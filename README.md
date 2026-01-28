@@ -6,12 +6,10 @@ Maharishi Markandeshwar Institute of Computer Technology & Business Management<b
 Maharishi Markandeshwar (Deemed to be University), Mullana–Ambala
 </h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Program-BCA-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Semester-6th-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Specialization-Data%20Science-purple?style=for-the-badge">
-  <img src="https://img.shields.io/badge/University-MMDU-red?style=for-the-badge">
-</p>
+![Program-BCA](https://img.shields.io/badge/Program-BCA-blue?style=for-the-badge)
+![Semester-6th](https://img.shields.io/badge/Semester-6th-green?style=for-the-badge)
+![Specialization-Data Science](https://img.shields.io/badge/Specialization-Data%20Science-purple?style=for-the-badge)
+![University-MMDU](https://img.shields.io/badge/University-MMDU-red?style=for-the-badge)
 
 ---
 <!-- ===================== PROFILE ===================== -->
@@ -28,9 +26,7 @@ Maharishi Markandeshwar (Deemed to be University), Mullana–Ambala
 📍 MMICT&BM, Maharishi Markandeshwar (Deemed to be University), Mullana–Ambala  
 </p>
 
-
 ---
-
 
 ## 👨‍🎓 About Me
 
@@ -65,6 +61,7 @@ This repository is structured to be **industry-aligned and interview-ready**.
 > 📌 *This repository also serves as a verified academic record and a personal technical portfolio.*
 
 ---
+
 ## 📘 Semester Overview
 
 <p align="center">

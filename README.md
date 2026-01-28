@@ -14,6 +14,23 @@ Maharishi Markandeshwar (Deemed to be University), Mullana–Ambala
 </p>
 
 ---
+<!-- ===================== PROFILE ===================== -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Author-Pratipal%20Kumar%20Singh-blue?style=for-the-badge">
+  <a href="https://github.com/DearPratipal">
+    <img src="https://img.shields.io/badge/GitHub-DearPratipal-black?style=for-the-badge&logo=github">
+  </a>
+  <img src="https://img.shields.io/badge/Role-BCA%20(Data%20Science)%20Student-success?style=for-the-badge">
+</p>
+
+<p align="center">
+📍 MMICT&BM, Maharishi Markandeshwar (Deemed to be University), Mullana–Ambala  
+</p>
+
+
+---
+
 
 ## 👨‍🎓 About Me
 
@@ -26,6 +43,28 @@ I am a **BCA 6th Semester student** specializing in **Data Science** at **MMICT&
 
 ---
 
+## 💼 Portfolio & Placement Readiness
+
+This repository is structured to be **industry-aligned and interview-ready**.
+
+### ✔ What Recruiters Can See Here
+
+- Strong foundation in **Data Science & Analytics**
+- Hands-on exposure to **Cloud, ML, Cyber Security**
+- Well-organized **code, labs, notes & projects**
+- Clean Git workflow & documentation
+- Academic + practical balance
+
+### 🎯 Career Focus Areas
+
+- Data Analyst / Junior Data Scientist  
+- Cloud & Security Fundamentals  
+- Machine Learning Practitioner  
+- Visualization & Reporting  
+
+> 📌 *This repository also serves as a verified academic record and a personal technical portfolio.*
+
+---
 ## 📘 Semester Overview
 
 <p align="center">
@@ -147,6 +186,7 @@ BCA-6th-Semester/
 │
 └── README.md
 ```
+
 ## 🏅 Certifications & Learning Path
 
 <p align="center">

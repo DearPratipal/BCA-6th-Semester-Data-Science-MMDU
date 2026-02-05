@@ -2,7 +2,7 @@
 # Step 1: Install R
 # Open a web browser.
 # Go to CRAN R official website.
-# Download the latest version of R according to your operating system (Windows / macOS / Linux).
+# Download the latest version of R according to your operating system.
 # Run the installer and complete the installation using default settings.
 
 # Step 2: Install RStudio
@@ -19,8 +19,7 @@
 # Plots / Files / Help – Displays outputs and help
 
 # Step 4: Run Basic R Commands
-# In the Console, type:
-# 2 + 3
+# In the Console, type: 2 + 3
 # Press Enter to see the output.
 
 # Step 5: Write and Execute the Program

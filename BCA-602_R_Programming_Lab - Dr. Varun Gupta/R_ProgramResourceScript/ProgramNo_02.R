@@ -17,7 +17,7 @@ cat("Product =", product, "\n")
 cat("Division =", division, "\n")
 
 # Output:
-# Sum = 15
-# Difference = 5
-# Product = 50
-# Division = 2
+# Sum = 15 # nolint
+# Difference = 5 # nolint
+# Product = 50 # nolint
+# Division = 2 # nolint

@@ -74,16 +74,16 @@ This repository is structured to be **industry-aligned and interview-ready**.
 
 ## 🧠 Course Curriculum Structure
 
-| Category | Code | Course Title | Credits | Marks |
-|--------|------|-------------|--------|-------|
-| Core | BCA-601 | R Programming | 3.0 | 100 |
-| Core Lab | BCA-602 | R Programming Lab | 1.0 | 100 |
-| Elective-III | BCA-603 / 606 / 610 | Cloud / ML / Cyber | 4.0 | 100 |
-| Specialization | BCA-605 | Project-III | 1.0 | 100 |
-| Specialization | BCA-608 | Data Visualization | 3.0 | 100 |
-| Specialization Lab | BCA-609 | Data Visualization Lab | 1.0 | 100 |
-| Activity | SPO-002 | Sports / Cultural / Yoga | 1.0 | 100 |
-| Mandatory | BCT-II | Cognitive Skills Training-II | 0.0 | 100 |
+| Category | Code | Course Title | Professor | Credits | Marks |
+|--------|------|-------------|-------------|--------|-------|
+| Core | BCA-601 | R Programming | Mr. Varun Gupta | 3.0 | 100 |
+| Core Lab | BCA-602 | R Programming Lab | Mr. Varun Gupta | 1.0 | 100 |
+| Elective-III | BCA-603 / 606 / 610 | Cloud / ML / Cyber | Dr. Tejinder Kaur | 4.0 | 100 |
+| Specialization | BCA-605 | Project-III | Dr. Dalip Kamboj | 1.0 | 100 |
+| Specialization | BCA-608 | Data Visualization | Ms. Chetna Thakur | 3.0 | 100 |
+| Specialization Lab | BCA-609 | Data Visualization Lab | Ms. Chetna Thakur | 1.0 | 100 |
+| Activity | SPO-002 | Sports / Cultural / Yoga | Mr. Aashish | 1.0 | 100 |
+| Mandatory | BCT-II | Cognitive Skills Training-II | Mr. Rahul Saini | 0.0 | 100 |
 
 ---
 

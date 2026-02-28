@@ -1,0 +1,2001 @@
+User_ID,Age_Group,Gender,Location,Daily_Usage_Hours,Primary_App_Category,Screen_Time_Minutes,Data_Usage_GB_per_Month,Battery_Usage_Percentage,Addiction_Score_(1-10)
+U1000,41-50,Other,Semi-Urban,4.05,Social Media,68,10.7,81,5
+U1001,50+,Other,Urban,3.96,Streaming,134,6.3,72,1
+U1002,31-40,Female,Urban,3.65,Productivity,353,12.1,43,6
+U1003,50+,Male,Rural,3.35,Education,443,8.17,75,7
+U1004,50+,Female,Rural,3.0,Social Media,458,19.72,81,8
+U1005,21-30,Male,Rural,4.6,Social Media,664,10.7,53,2
+U1006,31-40,Male,Semi-Urban,3.9,Gaming,90,8.66,41,7
+U1007,31-40,Male,Semi-Urban,5.6,Productivity,641,21.87,87,6
+U1008,31-40,Female,Rural,5.22,Shopping,336,15.69,76,9
+U1009,50+,Male,Semi-Urban,3.11,Education,383,7.52,29,8
+U1010,41-50,Female,Rural,4.66,Streaming,422,8.05,85,4
+U1011,31-40,Other,Semi-Urban,3.87,Gaming,233,14.37,27,9
+U1012,50+,Other,Urban,3.01,Education,287,12.22,57,1
+U1013,21-30,Male,Urban,5.53,Productivity,515,16.45,81,6
+U1014,41-50,Female,Rural,4.32,Education,546,8.69,47,8
+U1015,21-30,Other,Semi-Urban,3.89,Social Media,475,15.51,29,4
+U1016,41-50,Female,Semi-Urban,3.22,Social Media,209,1.0,64,2
+U1017,50+,Female,Urban,2.96,Gaming,371,11.23,84,2
+U1018,15-20,Male,Urban,7.48,Productivity,162,8.91,86,10
+U1019,41-50,Other,Rural,5.0,Productivity,472,9.72,28,1
+U1020,21-30,Male,Urban,2.86,Education,282,11.49,24,5
+U1021,50+,Male,Rural,4.93,Gaming,294,17.69,29,6
+U1022,41-50,Other,Urban,6.09,Productivity,122,6.23,31,4
+U1023,15-20,Other,Urban,4.75,Shopping,691,1.06,77,4
+U1024,15-20,Female,Semi-Urban,6.56,Shopping,440,6.81,40,5
+U1025,31-40,Other,Urban,2.19,Social Media,167,17.11,40,5
+U1026,31-40,Female,Urban,1.51,Education,237,3.78,84,9
+U1027,21-30,Female,Rural,4.89,Streaming,666,9.14,22,8
+U1028,41-50,Female,Urban,4.91,Social Media,602,16.2,88,9
+U1029,41-50,Other,Rural,0.5,Gaming,336,11.71,83,3
+U1030,31-40,Male,Urban,3.56,Productivity,295,17.64,68,3
+U1031,41-50,Female,Urban,2.99,Social Media,675,1.83,91,1
+U1032,41-50,Male,Rural,2.41,Streaming,347,10.39,36,10
+U1033,15-20,Male,Semi-Urban,2.98,Streaming,142,18.69,92,6
+U1034,31-40,Other,Rural,5.39,Shopping,407,6.37,51,4
+U1035,50+,Male,Rural,2.97,Gaming,483,17.17,89,8
+U1036,31-40,Male,Rural,3.03,Social Media,220,10.82,40,2
+U1037,50+,Other,Semi-Urban,2.07,Education,469,14.17,26,2
+U1038,15-20,Female,Urban,6.4,Social Media,216,18.32,26,7
+U1039,21-30,Male,Rural,5.15,Shopping,396,14.15,46,5
+U1040,41-50,Other,Rural,0.76,Streaming,118,9.04,27,1
+U1041,15-20,Male,Semi-Urban,3.03,Gaming,216,14.81,92,7
+U1042,41-50,Male,Rural,5.29,Gaming,161,8.69,47,7
+U1043,21-30,Female,Urban,6.42,Education,664,13.37,98,10
+U1044,21-30,Male,Semi-Urban,5.76,Gaming,589,5.74,85,6
+U1045,15-20,Other,Urban,3.97,Shopping,405,12.15,90,4
+U1046,21-30,Male,Urban,1.6,Shopping,128,17.95,66,8
+U1047,50+,Female,Semi-Urban,5.81,Shopping,63,10.51,29,2
+U1048,21-30,Female,Rural,4.05,Gaming,611,17.47,52,2
+U1049,41-50,Other,Urban,4.6,Gaming,200,27.47,26,2
+U1050,41-50,Female,Urban,4.23,Shopping,395,11.86,22,3
+U1051,41-50,Male,Urban,2.47,Gaming,88,15.07,33,6
+U1052,41-50,Female,Urban,5.05,Gaming,210,14.38,63,1
+U1053,50+,Other,Semi-Urban,4.84,Streaming,48,13.13,65,2
+U1054,31-40,Female,Semi-Urban,3.86,Social Media,255,15.94,80,10
+U1055,15-20,Female,Urban,5.21,Productivity,502,10.76,55,2
+U1056,41-50,Female,Rural,2.44,Gaming,124,8.69,32,1
+U1057,21-30,Other,Urban,4.1,Productivity,326,4.37,35,3
+U1058,41-50,Female,Rural,4.54,Productivity,622,10.29,99,10
+U1059,21-30,Female,Urban,1.9,Streaming,204,16.51,24,7
+U1060,21-30,Male,Rural,4.41,Gaming,251,7.3,57,1
+U1061,41-50,Other,Urban,5.6,Shopping,644,13.23,69,7
+U1062,50+,Female,Rural,4.05,Productivity,83,11.38,57,5
+U1063,21-30,Other,Urban,4.45,Gaming,432,8.9,75,9
+U1064,21-30,Female,Urban,5.34,Education,347,2.73,82,2
+U1065,41-50,Female,Rural,3.92,Shopping,378,18.81,67,1
+U1066,21-30,Female,Semi-Urban,4.05,Education,472,14.59,78,9
+U1067,21-30,Male,Rural,2.73,Education,609,25.33,96,8
+U1068,41-50,Male,Semi-Urban,4.48,Productivity,569,17.4,63,10
+U1069,41-50,Male,Urban,4.0,Education,311,18.7,74,6
+U1070,15-20,Other,Rural,5.25,Streaming,389,3.25,74,5
+U1071,50+,Other,Rural,5.35,Streaming,660,3.17,20,8
+U1072,50+,Male,Rural,5.69,Productivity,675,12.21,27,8
+U1073,21-30,Other,Semi-Urban,3.74,Gaming,670,6.26,23,5
+U1074,50+,Female,Semi-Urban,1.24,Social Media,37,8.59,72,7
+U1075,21-30,Female,Urban,5.61,Gaming,592,24.63,77,1
+U1076,15-20,Female,Semi-Urban,5.15,Gaming,520,17.95,56,4
+U1077,41-50,Male,Semi-Urban,3.55,Gaming,370,7.32,68,2
+U1078,41-50,Other,Urban,5.33,Gaming,501,1.0,86,10
+U1079,41-50,Male,Rural,2.33,Shopping,716,6.9,38,3
+U1080,50+,Other,Rural,6.05,Social Media,278,9.21,20,1
+U1081,15-20,Female,Urban,4.0,Shopping,264,10.39,48,2
+U1082,50+,Male,Rural,3.26,Education,112,5.6,52,1
+U1083,50+,Other,Semi-Urban,3.57,Gaming,122,17.65,71,8
+U1084,15-20,Other,Urban,4.15,Streaming,423,8.44,60,4
+U1085,15-20,Female,Urban,4.48,Productivity,297,15.24,42,3
+U1086,15-20,Male,Urban,4.57,Productivity,446,12.27,24,1
+U1087,15-20,Male,Rural,3.86,Shopping,661,16.69,90,2
+U1088,41-50,Male,Urban,4.8,Shopping,612,10.81,76,3
+U1089,31-40,Female,Urban,4.51,Streaming,558,7.38,25,3
+U1090,31-40,Male,Urban,3.53,Gaming,282,9.01,68,6
+U1091,15-20,Female,Rural,3.3,Social Media,151,9.08,41,10
+U1092,31-40,Female,Semi-Urban,5.41,Education,39,22.32,96,8
+U1093,31-40,Female,Urban,5.29,Productivity,345,12.38,95,6
+U1094,15-20,Other,Semi-Urban,4.59,Education,302,12.02,23,2
+U1095,31-40,Male,Rural,5.89,Social Media,335,16.41,91,2
+U1096,50+,Male,Rural,1.56,Shopping,239,12.0,83,7
+U1097,21-30,Female,Rural,3.65,Productivity,493,17.61,56,1
+U1098,21-30,Female,Rural,2.77,Education,445,10.14,50,1
+U1099,15-20,Male,Semi-Urban,7.88,Shopping,245,9.63,56,7
+U1100,41-50,Female,Urban,5.57,Social Media,109,7.1,64,9
+U1101,15-20,Male,Rural,4.38,Education,509,21.25,27,5
+U1102,41-50,Other,Rural,5.68,Gaming,576,11.65,59,1
+U1103,21-30,Female,Semi-Urban,6.17,Shopping,47,6.13,24,5
+U1104,15-20,Male,Semi-Urban,6.16,Social Media,194,12.98,47,1
+U1105,50+,Female,Rural,5.88,Education,554,8.75,28,10
+U1106,31-40,Male,Urban,4.11,Gaming,231,10.05,21,9
+U1107,41-50,Male,Urban,3.75,Gaming,375,13.55,82,4
+U1108,31-40,Female,Rural,3.06,Social Media,395,19.6,70,9
+U1109,31-40,Other,Semi-Urban,5.25,Streaming,477,12.51,50,2
+U1110,15-20,Male,Rural,4.26,Productivity,542,8.44,26,7
+U1111,31-40,Male,Rural,3.87,Social Media,348,9.48,49,2
+U1112,50+,Male,Semi-Urban,3.79,Gaming,246,15.28,77,4
+U1113,31-40,Other,Rural,6.68,Gaming,63,2.21,22,6
+U1114,15-20,Other,Rural,5.93,Social Media,295,6.79,70,2
+U1115,50+,Female,Rural,7.25,Streaming,669,13.06,75,2
+U1116,21-30,Other,Semi-Urban,5.29,Productivity,109,3.47,92,2
+U1117,31-40,Female,Urban,4.59,Education,706,10.44,29,3
+U1118,15-20,Female,Urban,4.46,Social Media,442,9.61,80,5
+U1119,21-30,Other,Semi-Urban,2.97,Productivity,281,16.39,69,9
+U1120,21-30,Female,Urban,2.61,Productivity,41,10.75,66,6
+U1121,41-50,Other,Rural,5.26,Shopping,430,17.93,20,9
+U1122,50+,Female,Urban,3.1,Gaming,311,12.39,76,10
+U1123,31-40,Other,Rural,4.82,Education,141,20.88,57,5
+U1124,15-20,Other,Urban,6.17,Social Media,407,5.06,81,6
+U1125,41-50,Female,Semi-Urban,3.5,Gaming,297,20.09,98,10
+U1126,50+,Male,Urban,7.52,Shopping,327,9.94,89,8
+U1127,41-50,Female,Urban,3.01,Shopping,346,19.37,84,3
+U1128,50+,Other,Urban,5.99,Gaming,599,17.93,81,2
+U1129,50+,Male,Semi-Urban,5.14,Streaming,538,1.0,75,3
+U1130,31-40,Female,Urban,6.29,Productivity,575,14.4,86,9
+U1131,50+,Female,Semi-Urban,2.83,Social Media,394,16.99,36,6
+U1132,41-50,Female,Rural,7.96,Social Media,576,18.64,27,10
+U1133,50+,Male,Urban,4.23,Social Media,300,6.12,79,4
+U1134,31-40,Other,Semi-Urban,5.51,Gaming,503,14.95,59,10
+U1135,31-40,Female,Semi-Urban,6.67,Streaming,566,12.98,81,3
+U1136,41-50,Female,Urban,3.59,Education,263,14.16,60,2
+U1137,21-30,Female,Rural,5.74,Shopping,88,16.99,31,4
+U1138,21-30,Female,Semi-Urban,3.34,Gaming,280,17.78,73,9
+U1139,50+,Female,Urban,6.6,Education,115,8.72,30,4
+U1140,15-20,Other,Rural,3.36,Shopping,419,13.33,79,5
+U1141,50+,Other,Semi-Urban,4.56,Shopping,209,12.21,87,8
+U1142,41-50,Female,Semi-Urban,4.96,Streaming,178,10.8,97,2
+U1143,41-50,Male,Rural,5.68,Productivity,612,11.28,65,3
+U1144,41-50,Other,Rural,7.45,Social Media,150,12.98,57,6
+U1145,41-50,Male,Urban,3.82,Education,634,8.99,80,7
+U1146,41-50,Other,Urban,6.21,Gaming,285,16.42,36,4
+U1147,31-40,Female,Semi-Urban,7.46,Education,338,18.35,85,1
+U1148,21-30,Other,Rural,4.75,Productivity,88,7.9,91,7
+U1149,41-50,Female,Rural,3.67,Social Media,98,18.59,55,9
+U1150,15-20,Other,Rural,1.9,Education,475,7.91,93,1
+U1151,15-20,Female,Semi-Urban,7.32,Productivity,417,16.49,26,1
+U1152,15-20,Female,Rural,4.13,Gaming,115,18.58,35,1
+U1153,15-20,Female,Rural,3.0,Streaming,256,11.53,33,10
+U1154,31-40,Female,Semi-Urban,2.46,Shopping,622,7.95,99,7
+U1155,15-20,Male,Urban,3.0,Gaming,655,9.06,44,9
+U1156,41-50,Female,Urban,5.88,Social Media,213,13.81,23,3
+U1157,50+,Male,Semi-Urban,6.09,Shopping,351,21.82,48,8
+U1158,15-20,Male,Rural,5.48,Gaming,347,3.54,75,9
+U1159,31-40,Female,Semi-Urban,4.7,Gaming,595,12.5,25,3
+U1160,31-40,Male,Urban,2.63,Gaming,428,11.56,20,3
+U1161,15-20,Other,Urban,3.41,Gaming,322,9.72,58,1
+U1162,50+,Female,Semi-Urban,2.84,Shopping,322,11.6,20,2
+U1163,15-20,Male,Semi-Urban,5.36,Social Media,514,9.29,82,7
+U1164,31-40,Female,Urban,2.91,Productivity,476,18.22,76,3
+U1165,21-30,Female,Semi-Urban,3.43,Education,441,18.71,86,7
+U1166,41-50,Female,Urban,4.22,Streaming,537,12.44,84,5
+U1167,31-40,Male,Semi-Urban,2.0,Education,273,11.29,84,10
+U1168,15-20,Other,Semi-Urban,4.57,Education,449,9.53,40,8
+U1169,41-50,Other,Semi-Urban,4.34,Streaming,183,12.45,49,5
+U1170,15-20,Male,Urban,6.28,Shopping,453,21.24,52,3
+U1171,15-20,Female,Semi-Urban,3.27,Social Media,302,11.48,67,9
+U1172,21-30,Male,Urban,2.55,Streaming,676,7.8,41,7
+U1173,41-50,Male,Urban,3.94,Social Media,549,10.01,73,5
+U1174,41-50,Male,Semi-Urban,2.85,Shopping,157,15.77,23,7
+U1175,21-30,Female,Semi-Urban,4.56,Education,402,8.41,74,10
+U1176,31-40,Male,Urban,1.71,Social Media,597,11.83,63,9
+U1177,15-20,Female,Urban,3.59,Shopping,667,14.36,31,5
+U1178,50+,Male,Rural,3.11,Shopping,188,8.79,98,7
+U1179,15-20,Other,Urban,5.35,Productivity,600,3.18,93,9
+U1180,15-20,Male,Rural,3.28,Streaming,599,6.64,71,1
+U1181,31-40,Male,Rural,1.9,Productivity,681,7.71,95,4
+U1182,15-20,Other,Rural,4.2,Education,205,10.86,84,1
+U1183,21-30,Female,Semi-Urban,4.98,Streaming,649,12.22,84,8
+U1184,21-30,Female,Semi-Urban,4.09,Education,240,16.12,29,3
+U1185,41-50,Male,Urban,3.58,Productivity,476,5.86,37,2
+U1186,50+,Other,Rural,3.49,Shopping,615,15.39,66,4
+U1187,15-20,Female,Semi-Urban,4.67,Education,196,10.15,85,3
+U1188,15-20,Male,Semi-Urban,3.17,Streaming,489,3.07,68,5
+U1189,31-40,Other,Semi-Urban,4.01,Streaming,386,12.07,91,8
+U1190,21-30,Female,Semi-Urban,5.63,Education,333,18.58,41,10
+U1191,50+,Female,Semi-Urban,2.55,Streaming,262,16.42,45,8
+U1192,41-50,Other,Rural,4.43,Shopping,356,11.62,28,7
+U1193,21-30,Other,Rural,1.82,Shopping,211,17.63,40,8
+U1194,41-50,Other,Rural,4.84,Streaming,663,12.96,82,5
+U1195,31-40,Other,Rural,3.03,Education,363,16.91,25,10
+U1196,31-40,Male,Urban,6.03,Productivity,58,3.69,33,10
+U1197,15-20,Other,Rural,2.28,Streaming,122,5.75,52,6
+U1198,50+,Female,Semi-Urban,5.16,Streaming,717,15.65,90,8
+U1199,41-50,Female,Rural,6.33,Streaming,359,19.7,43,1
+U1200,21-30,Male,Urban,2.95,Streaming,213,14.09,92,6
+U1201,31-40,Female,Semi-Urban,3.21,Education,124,9.51,94,6
+U1202,15-20,Female,Rural,3.08,Productivity,678,7.75,70,5
+U1203,15-20,Other,Rural,3.77,Productivity,382,10.42,21,4
+U1204,41-50,Female,Rural,5.28,Social Media,294,18.07,34,1
+U1205,31-40,Male,Semi-Urban,3.65,Streaming,676,10.29,54,10
+U1206,50+,Other,Semi-Urban,2.82,Streaming,685,17.24,55,8
+U1207,31-40,Other,Urban,1.47,Social Media,48,15.26,58,6
+U1208,41-50,Male,Semi-Urban,6.9,Productivity,675,20.57,23,3
+U1209,41-50,Other,Semi-Urban,7.02,Gaming,655,13.0,83,3
+U1210,31-40,Other,Rural,5.34,Shopping,528,11.75,93,6
+U1211,41-50,Male,Semi-Urban,3.28,Gaming,168,17.49,25,7
+U1212,31-40,Other,Rural,5.62,Productivity,666,7.32,76,8
+U1213,21-30,Male,Rural,5.92,Streaming,602,9.78,49,5
+U1214,31-40,Male,Semi-Urban,4.12,Gaming,554,3.6,93,10
+U1215,31-40,Female,Urban,4.56,Education,284,5.73,86,6
+U1216,41-50,Female,Urban,6.35,Education,114,21.62,34,1
+U1217,41-50,Other,Semi-Urban,2.04,Social Media,487,15.46,36,6
+U1218,15-20,Other,Urban,6.0,Productivity,561,5.15,37,9
+U1219,15-20,Male,Rural,4.04,Productivity,591,17.97,38,10
+U1220,21-30,Other,Rural,2.83,Gaming,705,8.48,95,4
+U1221,15-20,Male,Semi-Urban,2.95,Streaming,121,15.2,88,10
+U1222,31-40,Male,Urban,3.2,Productivity,629,15.13,43,1
+U1223,41-50,Other,Urban,2.68,Gaming,98,20.32,67,9
+U1224,15-20,Male,Rural,7.16,Gaming,66,9.31,49,4
+U1225,15-20,Female,Semi-Urban,5.24,Shopping,169,8.3,34,2
+U1226,21-30,Other,Urban,6.1,Shopping,709,1.0,66,1
+U1227,21-30,Female,Semi-Urban,5.34,Productivity,595,11.39,63,3
+U1228,31-40,Other,Urban,4.59,Gaming,207,15.63,46,7
+U1229,41-50,Male,Rural,4.61,Social Media,647,16.31,83,10
+U1230,21-30,Other,Rural,3.9,Social Media,166,18.26,60,2
+U1231,15-20,Female,Semi-Urban,4.03,Shopping,219,13.45,87,9
+U1232,41-50,Male,Rural,2.39,Productivity,669,14.52,24,2
+U1233,41-50,Other,Urban,6.12,Streaming,371,12.34,72,5
+U1234,15-20,Other,Rural,1.78,Social Media,588,15.54,27,8
+U1235,21-30,Other,Semi-Urban,2.91,Social Media,34,7.33,41,10
+U1236,15-20,Female,Semi-Urban,7.52,Shopping,286,4.96,26,8
+U1237,41-50,Female,Semi-Urban,4.7,Shopping,691,7.86,41,3
+U1238,50+,Other,Urban,4.77,Productivity,272,13.07,65,2
+U1239,50+,Male,Urban,5.46,Shopping,444,5.5,49,9
+U1240,31-40,Male,Urban,2.19,Education,656,8.83,35,3
+U1241,15-20,Female,Urban,2.41,Gaming,372,8.99,98,8
+U1242,15-20,Male,Urban,3.83,Social Media,711,15.91,24,2
+U1243,31-40,Female,Rural,3.14,Education,408,15.3,86,3
+U1244,31-40,Other,Urban,4.39,Streaming,623,12.35,42,1
+U1245,31-40,Female,Urban,5.23,Education,695,14.26,80,6
+U1246,41-50,Female,Rural,6.58,Productivity,682,14.35,93,7
+U1247,15-20,Other,Urban,5.72,Streaming,175,10.18,24,4
+U1248,41-50,Male,Semi-Urban,3.01,Streaming,352,9.29,42,1
+U1249,31-40,Female,Urban,3.94,Shopping,151,19.68,98,3
+U1250,15-20,Female,Urban,3.53,Education,281,1.0,44,9
+U1251,41-50,Other,Semi-Urban,2.98,Productivity,340,8.29,27,5
+U1252,41-50,Male,Semi-Urban,2.63,Social Media,630,10.98,40,6
+U1253,31-40,Female,Semi-Urban,7.0,Shopping,504,14.8,21,4
+U1254,15-20,Other,Semi-Urban,4.52,Education,599,17.68,41,1
+U1255,31-40,Female,Urban,4.16,Social Media,521,21.28,91,5
+U1256,15-20,Other,Semi-Urban,5.23,Education,604,11.54,91,5
+U1257,50+,Male,Semi-Urban,5.3,Shopping,376,11.88,87,5
+U1258,21-30,Male,Rural,6.18,Social Media,516,13.81,83,6
+U1259,21-30,Male,Semi-Urban,3.38,Shopping,502,9.34,38,2
+U1260,21-30,Male,Semi-Urban,5.1,Education,411,6.08,72,1
+U1261,31-40,Female,Rural,3.13,Streaming,309,11.52,71,2
+U1262,50+,Female,Rural,4.21,Gaming,101,15.73,66,10
+U1263,15-20,Male,Urban,4.59,Streaming,550,10.79,73,6
+U1264,41-50,Male,Rural,4.73,Shopping,395,14.07,63,5
+U1265,15-20,Male,Urban,4.67,Shopping,123,2.66,26,5
+U1266,41-50,Female,Rural,5.7,Shopping,402,12.09,20,6
+U1267,15-20,Male,Rural,3.6,Social Media,368,9.98,82,10
+U1268,50+,Male,Urban,4.77,Productivity,466,5.62,58,7
+U1269,41-50,Male,Rural,3.36,Shopping,365,15.29,38,9
+U1270,31-40,Other,Urban,8.88,Streaming,693,21.23,50,7
+U1271,15-20,Male,Rural,3.13,Gaming,521,16.95,96,2
+U1272,15-20,Other,Semi-Urban,3.45,Shopping,69,17.27,43,6
+U1273,41-50,Other,Rural,5.82,Shopping,388,15.56,88,9
+U1274,31-40,Male,Urban,3.86,Shopping,603,15.23,84,7
+U1275,31-40,Other,Rural,5.82,Social Media,283,3.0,52,2
+U1276,50+,Male,Urban,4.73,Shopping,610,11.36,78,3
+U1277,31-40,Female,Urban,3.9,Streaming,427,14.54,52,8
+U1278,31-40,Female,Semi-Urban,3.37,Education,199,14.66,51,9
+U1279,31-40,Female,Semi-Urban,3.32,Productivity,719,18.36,78,4
+U1280,21-30,Female,Urban,3.91,Shopping,540,6.84,60,9
+U1281,50+,Other,Rural,4.24,Social Media,289,15.04,31,2
+U1282,15-20,Male,Urban,3.25,Streaming,613,6.67,92,5
+U1283,41-50,Male,Urban,4.34,Shopping,488,10.94,30,2
+U1284,15-20,Male,Rural,2.86,Social Media,558,11.69,38,1
+U1285,50+,Female,Rural,5.63,Education,370,16.31,73,5
+U1286,41-50,Female,Rural,5.92,Gaming,86,15.72,76,2
+U1287,50+,Male,Rural,3.44,Shopping,247,12.6,61,7
+U1288,31-40,Female,Urban,3.36,Streaming,648,1.24,90,8
+U1289,41-50,Male,Urban,4.77,Social Media,714,14.22,50,2
+U1290,31-40,Male,Semi-Urban,6.4,Social Media,493,10.66,71,7
+U1291,15-20,Male,Urban,6.73,Shopping,276,18.96,21,4
+U1292,15-20,Male,Rural,2.4,Social Media,402,17.77,57,1
+U1293,41-50,Male,Semi-Urban,6.01,Gaming,446,7.31,51,3
+U1294,41-50,Male,Rural,4.41,Social Media,60,14.91,29,1
+U1295,50+,Male,Urban,4.44,Productivity,397,15.01,27,5
+U1296,50+,Female,Semi-Urban,5.26,Productivity,588,14.65,94,8
+U1297,31-40,Male,Rural,3.78,Social Media,675,14.0,39,1
+U1298,41-50,Male,Semi-Urban,6.15,Shopping,137,15.15,39,9
+U1299,15-20,Female,Semi-Urban,6.64,Productivity,613,19.51,28,3
+U1300,50+,Female,Urban,6.69,Streaming,447,9.24,91,5
+U1301,50+,Female,Rural,1.73,Productivity,649,7.47,34,9
+U1302,15-20,Male,Semi-Urban,4.16,Social Media,427,15.91,82,5
+U1303,50+,Other,Semi-Urban,1.6,Shopping,301,2.58,40,9
+U1304,31-40,Other,Rural,3.35,Education,712,15.27,24,10
+U1305,41-50,Female,Semi-Urban,0.9,Shopping,145,14.38,54,8
+U1306,15-20,Other,Semi-Urban,5.18,Shopping,615,1.0,87,7
+U1307,41-50,Female,Semi-Urban,4.83,Shopping,285,8.82,67,1
+U1308,50+,Male,Rural,3.85,Streaming,110,19.88,99,4
+U1309,50+,Other,Rural,3.31,Gaming,157,4.71,81,9
+U1310,15-20,Male,Rural,4.97,Social Media,264,13.06,54,10
+U1311,31-40,Other,Rural,2.98,Gaming,582,6.98,89,8
+U1312,21-30,Male,Urban,2.88,Education,210,8.46,40,4
+U1313,15-20,Other,Semi-Urban,2.7,Gaming,186,21.58,99,1
+U1314,21-30,Male,Rural,4.19,Social Media,483,12.62,58,10
+U1315,21-30,Male,Semi-Urban,3.63,Social Media,600,14.58,53,4
+U1316,31-40,Other,Semi-Urban,3.92,Education,53,11.44,34,3
+U1317,21-30,Male,Urban,5.28,Social Media,502,4.42,25,6
+U1318,21-30,Male,Rural,5.94,Education,429,6.08,85,5
+U1319,31-40,Male,Rural,6.68,Education,621,17.89,75,5
+U1320,21-30,Other,Semi-Urban,4.59,Social Media,163,12.76,68,2
+U1321,21-30,Other,Rural,5.02,Productivity,450,8.15,20,3
+U1322,21-30,Male,Semi-Urban,4.78,Education,242,11.89,84,6
+U1323,15-20,Male,Semi-Urban,1.99,Social Media,511,15.31,47,2
+U1324,15-20,Other,Urban,3.95,Productivity,377,14.27,39,4
+U1325,15-20,Other,Urban,3.95,Education,195,8.15,67,2
+U1326,31-40,Male,Urban,3.73,Productivity,377,4.12,91,9
+U1327,50+,Male,Semi-Urban,4.44,Streaming,427,9.96,84,3
+U1328,21-30,Male,Rural,4.17,Shopping,612,17.55,70,10
+U1329,21-30,Female,Urban,3.02,Streaming,464,16.27,62,10
+U1330,31-40,Other,Rural,4.27,Productivity,606,14.05,68,6
+U1331,21-30,Female,Urban,3.54,Education,250,11.15,44,1
+U1332,15-20,Other,Urban,0.57,Social Media,337,9.42,93,10
+U1333,50+,Other,Semi-Urban,2.4,Gaming,495,11.24,95,3
+U1334,41-50,Other,Urban,4.63,Social Media,128,15.91,60,8
+U1335,21-30,Other,Urban,6.14,Gaming,271,17.05,90,5
+U1336,15-20,Other,Semi-Urban,0.86,Gaming,187,10.69,83,8
+U1337,41-50,Other,Rural,3.19,Education,639,24.68,80,2
+U1338,50+,Other,Urban,5.15,Productivity,583,12.46,31,7
+U1339,41-50,Female,Semi-Urban,5.82,Social Media,680,10.27,88,9
+U1340,15-20,Male,Urban,3.87,Productivity,256,19.38,33,7
+U1341,41-50,Male,Semi-Urban,3.48,Streaming,452,1.81,53,3
+U1342,31-40,Female,Rural,6.33,Education,101,14.4,67,7
+U1343,41-50,Female,Rural,5.69,Education,272,11.64,80,8
+U1344,21-30,Female,Semi-Urban,5.79,Streaming,559,19.24,54,1
+U1345,21-30,Female,Semi-Urban,3.8,Social Media,618,15.02,84,3
+U1346,31-40,Other,Semi-Urban,6.17,Shopping,74,12.7,78,5
+U1347,15-20,Male,Rural,1.58,Streaming,501,15.31,55,6
+U1348,21-30,Other,Urban,6.2,Social Media,400,6.72,98,3
+U1349,50+,Male,Rural,4.4,Gaming,681,16.83,38,4
+U1350,21-30,Male,Semi-Urban,4.69,Education,718,5.28,61,5
+U1351,21-30,Female,Semi-Urban,3.08,Social Media,121,13.79,88,3
+U1352,15-20,Other,Rural,1.78,Productivity,51,12.18,38,4
+U1353,41-50,Female,Semi-Urban,4.66,Productivity,201,3.18,58,5
+U1354,21-30,Other,Rural,5.33,Education,633,12.34,88,2
+U1355,31-40,Male,Semi-Urban,5.55,Streaming,221,13.41,71,10
+U1356,41-50,Female,Urban,5.39,Shopping,106,8.73,31,9
+U1357,50+,Female,Urban,5.05,Streaming,310,6.94,66,10
+U1358,15-20,Male,Semi-Urban,3.11,Social Media,393,14.46,95,8
+U1359,50+,Male,Rural,5.65,Streaming,208,13.81,55,6
+U1360,41-50,Male,Urban,2.95,Education,267,13.13,82,10
+U1361,41-50,Female,Rural,6.16,Social Media,164,12.04,95,3
+U1362,41-50,Other,Semi-Urban,4.37,Gaming,309,9.17,70,2
+U1363,50+,Female,Rural,4.42,Streaming,48,23.36,62,7
+U1364,41-50,Other,Urban,5.8,Streaming,624,10.51,53,8
+U1365,50+,Female,Rural,6.0,Shopping,400,7.67,68,10
+U1366,41-50,Female,Rural,5.66,Social Media,141,12.27,37,1
+U1367,31-40,Male,Semi-Urban,3.27,Productivity,705,11.1,80,6
+U1368,41-50,Other,Semi-Urban,5.64,Streaming,709,10.39,76,7
+U1369,50+,Female,Semi-Urban,3.28,Education,250,21.37,24,9
+U1370,21-30,Female,Urban,5.68,Streaming,333,6.35,43,3
+U1371,41-50,Male,Urban,2.36,Shopping,354,12.19,83,2
+U1372,21-30,Male,Semi-Urban,4.36,Gaming,466,6.69,78,5
+U1373,31-40,Other,Semi-Urban,3.27,Shopping,467,9.29,57,10
+U1374,15-20,Female,Urban,5.8,Streaming,199,20.68,52,1
+U1375,31-40,Other,Urban,6.17,Productivity,404,13.41,29,6
+U1376,41-50,Female,Urban,4.8,Streaming,586,13.35,56,9
+U1377,21-30,Other,Urban,4.75,Social Media,410,7.3,30,10
+U1378,21-30,Male,Semi-Urban,5.56,Streaming,43,9.88,43,9
+U1379,50+,Female,Urban,6.18,Productivity,698,21.12,90,7
+U1380,21-30,Other,Semi-Urban,4.56,Social Media,529,14.5,40,7
+U1381,50+,Male,Rural,3.75,Education,675,10.3,39,8
+U1382,15-20,Male,Rural,5.47,Social Media,420,14.2,29,10
+U1383,41-50,Other,Urban,1.71,Shopping,578,13.34,66,2
+U1384,50+,Female,Rural,5.86,Gaming,594,7.8,66,6
+U1385,15-20,Female,Rural,3.43,Shopping,559,10.16,34,5
+U1386,21-30,Male,Rural,4.14,Social Media,521,23.27,63,5
+U1387,21-30,Female,Urban,5.87,Education,579,13.96,81,3
+U1388,15-20,Female,Urban,3.88,Streaming,414,4.15,25,3
+U1389,21-30,Female,Rural,5.47,Social Media,225,14.55,85,6
+U1390,15-20,Male,Semi-Urban,6.21,Shopping,329,18.52,95,10
+U1391,50+,Other,Rural,4.67,Social Media,576,7.48,23,10
+U1392,50+,Female,Urban,4.97,Social Media,631,9.72,42,7
+U1393,15-20,Male,Urban,4.32,Social Media,337,19.27,32,1
+U1394,50+,Male,Urban,4.67,Education,281,12.17,50,3
+U1395,50+,Other,Rural,2.83,Productivity,37,11.29,35,1
+U1396,50+,Female,Semi-Urban,4.06,Productivity,237,5.32,60,10
+U1397,31-40,Female,Urban,2.57,Social Media,160,17.35,20,3
+U1398,41-50,Other,Urban,3.15,Education,683,11.06,31,5
+U1399,21-30,Other,Rural,1.5,Education,637,1.15,75,9
+U1400,31-40,Male,Semi-Urban,4.9,Social Media,55,4.14,69,3
+U1401,50+,Male,Rural,7.04,Shopping,652,9.19,39,10
+U1402,15-20,Other,Urban,3.82,Shopping,483,6.64,85,10
+U1403,50+,Female,Semi-Urban,5.95,Gaming,664,7.42,55,9
+U1404,41-50,Male,Semi-Urban,6.19,Social Media,215,23.72,98,1
+U1405,50+,Male,Urban,2.7,Gaming,513,15.54,57,6
+U1406,15-20,Female,Semi-Urban,3.02,Shopping,709,1.0,41,9
+U1407,41-50,Male,Semi-Urban,5.99,Shopping,80,10.43,80,5
+U1408,50+,Female,Rural,4.36,Social Media,34,11.55,69,10
+U1409,41-50,Female,Urban,2.56,Gaming,618,4.62,78,2
+U1410,21-30,Female,Urban,3.54,Gaming,189,14.67,39,5
+U1411,21-30,Other,Urban,5.13,Social Media,237,1.79,55,1
+U1412,50+,Other,Urban,3.31,Gaming,286,17.48,34,9
+U1413,41-50,Other,Urban,0.5,Streaming,234,19.21,81,10
+U1414,15-20,Female,Semi-Urban,4.02,Shopping,40,23.76,22,10
+U1415,50+,Female,Rural,4.14,Productivity,37,4.13,24,9
+U1416,21-30,Other,Urban,4.51,Education,438,5.15,75,6
+U1417,21-30,Male,Rural,6.39,Gaming,61,15.46,50,9
+U1418,50+,Female,Rural,4.58,Gaming,569,17.91,54,3
+U1419,41-50,Male,Semi-Urban,4.86,Education,416,16.04,90,4
+U1420,21-30,Male,Urban,6.08,Gaming,257,17.4,89,6
+U1421,41-50,Female,Semi-Urban,4.52,Education,669,18.88,45,4
+U1422,21-30,Female,Urban,7.7,Social Media,504,13.01,20,1
+U1423,21-30,Male,Semi-Urban,2.6,Streaming,236,10.94,26,7
+U1424,31-40,Male,Rural,3.1,Streaming,347,5.16,55,5
+U1425,21-30,Other,Urban,5.42,Shopping,586,10.51,95,8
+U1426,15-20,Other,Rural,6.38,Productivity,646,11.28,44,9
+U1427,50+,Female,Rural,4.2,Gaming,377,7.25,78,5
+U1428,50+,Other,Semi-Urban,2.98,Productivity,263,11.81,80,8
+U1429,41-50,Other,Urban,7.14,Social Media,73,6.69,48,1
+U1430,21-30,Other,Rural,3.31,Streaming,171,17.57,37,1
+U1431,15-20,Other,Semi-Urban,5.01,Social Media,677,14.13,60,7
+U1432,41-50,Male,Urban,6.47,Social Media,205,9.7,38,6
+U1433,31-40,Female,Urban,3.84,Gaming,683,12.94,23,5
+U1434,41-50,Other,Rural,3.57,Social Media,478,6.47,84,5
+U1435,41-50,Male,Urban,3.67,Streaming,621,6.98,60,9
+U1436,21-30,Male,Rural,5.85,Productivity,111,8.83,34,1
+U1437,31-40,Male,Urban,6.09,Streaming,164,11.04,73,8
+U1438,41-50,Other,Semi-Urban,4.55,Gaming,206,12.71,83,2
+U1439,15-20,Other,Rural,7.32,Streaming,412,12.73,91,7
+U1440,15-20,Female,Rural,4.55,Education,272,5.41,34,6
+U1441,50+,Other,Urban,6.44,Productivity,596,11.6,98,10
+U1442,31-40,Other,Urban,3.85,Education,170,7.91,69,2
+U1443,31-40,Male,Rural,8.0,Education,486,1.0,41,3
+U1444,50+,Female,Urban,6.86,Shopping,469,27.38,37,4
+U1445,41-50,Other,Semi-Urban,4.31,Gaming,85,8.01,99,7
+U1446,31-40,Other,Urban,6.65,Social Media,556,8.28,21,8
+U1447,15-20,Male,Semi-Urban,6.58,Education,448,5.27,55,2
+U1448,15-20,Male,Semi-Urban,6.83,Streaming,117,6.71,39,8
+U1449,21-30,Other,Semi-Urban,0.78,Social Media,638,11.06,35,9
+U1450,31-40,Female,Semi-Urban,5.58,Streaming,685,18.76,86,7
+U1451,41-50,Female,Semi-Urban,5.31,Streaming,37,11.03,49,1
+U1452,50+,Male,Urban,5.21,Social Media,506,10.38,74,6
+U1453,50+,Male,Semi-Urban,4.83,Social Media,244,18.0,85,8
+U1454,41-50,Other,Urban,4.87,Streaming,714,9.38,45,5
+U1455,21-30,Male,Semi-Urban,6.42,Gaming,581,12.11,76,2
+U1456,50+,Other,Rural,5.31,Productivity,526,7.39,88,5
+U1457,31-40,Female,Semi-Urban,4.83,Shopping,532,20.43,21,8
+U1458,21-30,Female,Rural,6.21,Productivity,274,17.24,75,2
+U1459,31-40,Other,Semi-Urban,5.13,Gaming,507,11.24,81,1
+U1460,15-20,Male,Semi-Urban,5.27,Shopping,338,10.0,53,4
+U1461,21-30,Female,Semi-Urban,7.3,Social Media,260,11.84,75,4
+U1462,50+,Male,Rural,3.85,Shopping,412,11.31,74,9
+U1463,21-30,Female,Rural,2.23,Streaming,184,4.27,39,3
+U1464,21-30,Other,Semi-Urban,4.61,Productivity,204,17.41,69,4
+U1465,21-30,Other,Urban,4.82,Shopping,144,10.86,44,3
+U1466,21-30,Other,Semi-Urban,5.58,Streaming,419,21.49,44,2
+U1467,31-40,Female,Rural,4.66,Gaming,340,14.11,72,4
+U1468,15-20,Male,Semi-Urban,5.63,Shopping,329,1.0,33,8
+U1469,41-50,Male,Rural,8.26,Streaming,47,5.59,79,1
+U1470,21-30,Male,Rural,5.7,Gaming,41,1.27,62,8
+U1471,50+,Female,Rural,5.97,Social Media,433,5.53,81,8
+U1472,21-30,Female,Semi-Urban,4.31,Gaming,261,3.83,95,3
+U1473,50+,Female,Rural,2.42,Gaming,634,13.26,88,10
+U1474,31-40,Female,Rural,1.05,Productivity,307,10.42,82,10
+U1475,50+,Female,Semi-Urban,3.72,Streaming,382,15.7,21,6
+U1476,41-50,Male,Rural,0.63,Shopping,332,11.81,73,4
+U1477,15-20,Female,Semi-Urban,5.27,Productivity,570,10.8,35,1
+U1478,50+,Female,Rural,3.93,Education,499,22.02,74,1
+U1479,50+,Male,Urban,2.53,Gaming,106,13.11,62,5
+U1480,15-20,Female,Urban,4.7,Education,550,11.6,80,8
+U1481,41-50,Male,Rural,3.39,Productivity,53,7.73,57,1
+U1482,21-30,Male,Urban,5.18,Streaming,44,6.12,64,2
+U1483,50+,Other,Semi-Urban,5.56,Productivity,705,15.85,70,7
+U1484,15-20,Other,Urban,3.45,Streaming,554,15.55,61,8
+U1485,31-40,Other,Rural,4.14,Streaming,376,19.86,43,3
+U1486,15-20,Other,Rural,4.82,Social Media,201,14.39,49,8
+U1487,31-40,Female,Semi-Urban,2.39,Gaming,356,10.03,56,1
+U1488,41-50,Other,Rural,4.82,Productivity,514,14.56,72,9
+U1489,21-30,Male,Semi-Urban,2.35,Streaming,518,11.6,82,2
+U1490,15-20,Female,Urban,5.35,Productivity,491,16.33,30,2
+U1491,50+,Other,Urban,3.85,Productivity,407,18.67,97,4
+U1492,41-50,Male,Semi-Urban,2.35,Streaming,617,11.16,42,10
+U1493,15-20,Female,Semi-Urban,3.63,Shopping,193,20.79,99,3
+U1494,50+,Female,Rural,3.69,Education,401,17.94,69,4
+U1495,15-20,Other,Urban,6.1,Gaming,602,12.09,74,6
+U1496,31-40,Female,Semi-Urban,4.76,Gaming,453,15.35,74,7
+U1497,15-20,Male,Urban,3.07,Shopping,506,13.53,23,5
+U1498,15-20,Female,Semi-Urban,6.97,Social Media,411,12.11,73,2
+U1499,15-20,Male,Urban,5.44,Shopping,184,21.57,80,3
+U1500,41-50,Female,Rural,4.0,Social Media,286,14.59,97,10
+U1501,15-20,Other,Urban,2.17,Social Media,703,7.8,24,3
+U1502,50+,Male,Urban,3.86,Shopping,97,6.86,37,5
+U1503,31-40,Female,Urban,4.17,Gaming,373,7.06,63,5
+U1504,31-40,Female,Urban,5.05,Education,306,14.45,50,4
+U1505,15-20,Female,Urban,5.41,Gaming,702,10.29,40,8
+U1506,41-50,Male,Rural,5.71,Gaming,420,13.67,66,6
+U1507,41-50,Male,Semi-Urban,2.08,Gaming,478,16.68,49,6
+U1508,50+,Male,Urban,4.81,Shopping,288,22.14,74,1
+U1509,15-20,Other,Rural,4.26,Shopping,336,10.41,87,6
+U1510,31-40,Other,Urban,8.52,Shopping,124,4.96,88,3
+U1511,41-50,Male,Urban,4.6,Gaming,493,20.96,60,6
+U1512,15-20,Female,Semi-Urban,3.57,Education,275,4.71,64,10
+U1513,41-50,Other,Urban,4.67,Social Media,664,4.52,93,6
+U1514,41-50,Male,Rural,4.49,Productivity,216,20.83,99,2
+U1515,31-40,Female,Rural,1.52,Social Media,402,17.33,49,1
+U1516,21-30,Other,Semi-Urban,5.11,Social Media,601,14.42,96,3
+U1517,50+,Female,Urban,4.03,Productivity,435,11.75,64,5
+U1518,50+,Female,Rural,4.46,Gaming,437,10.8,64,4
+U1519,31-40,Female,Urban,3.19,Education,154,8.75,98,7
+U1520,41-50,Female,Urban,2.86,Education,366,10.58,64,4
+U1521,15-20,Other,Urban,5.82,Social Media,370,11.76,74,8
+U1522,41-50,Other,Semi-Urban,6.16,Productivity,592,5.13,78,7
+U1523,31-40,Other,Urban,5.13,Streaming,207,7.9,24,10
+U1524,50+,Male,Rural,1.78,Gaming,680,1.44,51,9
+U1525,41-50,Other,Urban,5.22,Social Media,199,12.39,25,1
+U1526,50+,Female,Rural,1.81,Education,68,12.39,45,5
+U1527,15-20,Other,Urban,3.51,Shopping,98,20.89,56,4
+U1528,50+,Female,Rural,5.8,Shopping,265,13.88,32,6
+U1529,50+,Male,Rural,5.49,Productivity,589,9.22,88,1
+U1530,21-30,Female,Urban,5.19,Productivity,410,11.0,44,6
+U1531,21-30,Female,Urban,6.47,Social Media,86,14.43,32,1
+U1532,21-30,Female,Rural,5.34,Streaming,306,13.14,39,1
+U1533,50+,Male,Semi-Urban,1.47,Education,128,14.89,91,8
+U1534,31-40,Other,Urban,3.95,Social Media,556,13.89,79,2
+U1535,50+,Other,Semi-Urban,4.44,Streaming,354,10.74,92,10
+U1536,31-40,Male,Urban,4.26,Productivity,490,9.32,40,6
+U1537,31-40,Female,Urban,3.57,Shopping,208,9.05,80,6
+U1538,21-30,Other,Urban,2.95,Gaming,603,7.37,98,6
+U1539,41-50,Male,Urban,8.1,Shopping,148,6.59,45,8
+U1540,15-20,Other,Semi-Urban,3.92,Education,498,21.19,73,4
+U1541,21-30,Male,Urban,8.03,Education,578,12.62,61,3
+U1542,21-30,Female,Rural,2.79,Shopping,675,11.22,30,6
+U1543,41-50,Other,Rural,5.49,Shopping,484,9.52,56,4
+U1544,15-20,Male,Semi-Urban,4.84,Streaming,55,14.14,30,2
+U1545,50+,Other,Urban,3.12,Social Media,519,18.02,46,6
+U1546,50+,Other,Rural,3.8,Productivity,37,15.62,53,10
+U1547,21-30,Other,Semi-Urban,4.48,Streaming,545,16.61,57,5
+U1548,15-20,Other,Urban,3.23,Gaming,562,9.07,80,9
+U1549,21-30,Male,Rural,4.12,Shopping,178,11.98,72,6
+U1550,31-40,Female,Rural,0.95,Gaming,517,9.13,84,3
+U1551,21-30,Male,Semi-Urban,5.57,Gaming,54,12.54,22,5
+U1552,21-30,Male,Urban,6.34,Streaming,684,18.36,86,10
+U1553,50+,Male,Urban,5.18,Productivity,584,14.2,47,8
+U1554,50+,Female,Rural,7.9,Education,454,20.13,33,9
+U1555,50+,Other,Rural,5.52,Social Media,322,10.56,71,8
+U1556,31-40,Other,Rural,6.21,Education,214,7.97,49,3
+U1557,50+,Other,Urban,6.36,Productivity,583,14.56,77,9
+U1558,15-20,Female,Semi-Urban,0.5,Education,460,12.59,73,3
+U1559,41-50,Other,Semi-Urban,5.14,Shopping,633,13.61,88,8
+U1560,15-20,Female,Urban,2.43,Shopping,346,12.87,34,10
+U1561,15-20,Other,Semi-Urban,2.73,Streaming,427,9.58,57,9
+U1562,50+,Other,Rural,2.99,Gaming,353,12.98,97,7
+U1563,41-50,Male,Semi-Urban,4.03,Productivity,594,16.87,33,4
+U1564,41-50,Female,Semi-Urban,5.48,Productivity,625,17.38,76,10
+U1565,41-50,Male,Semi-Urban,5.15,Education,575,9.55,78,9
+U1566,31-40,Male,Rural,4.48,Streaming,105,13.16,27,3
+U1567,50+,Male,Urban,5.58,Education,515,19.39,91,3
+U1568,41-50,Female,Rural,5.68,Education,117,9.66,38,2
+U1569,31-40,Female,Urban,5.16,Productivity,261,8.75,51,10
+U1570,21-30,Other,Urban,1.91,Education,36,15.97,48,3
+U1571,21-30,Male,Urban,3.39,Gaming,579,15.09,60,1
+U1572,31-40,Other,Semi-Urban,4.54,Education,81,7.82,94,4
+U1573,31-40,Male,Semi-Urban,5.6,Gaming,684,5.0,64,8
+U1574,50+,Female,Urban,2.51,Productivity,425,13.06,32,5
+U1575,50+,Female,Urban,4.48,Streaming,250,9.91,46,2
+U1576,21-30,Female,Semi-Urban,2.15,Shopping,457,3.58,38,3
+U1577,41-50,Male,Rural,6.04,Gaming,172,8.56,45,1
+U1578,21-30,Female,Urban,4.86,Streaming,392,15.01,72,2
+U1579,41-50,Male,Rural,2.48,Streaming,411,11.24,70,1
+U1580,41-50,Other,Semi-Urban,2.47,Gaming,590,19.83,56,2
+U1581,50+,Male,Urban,5.08,Productivity,306,1.56,28,3
+U1582,15-20,Other,Rural,6.56,Social Media,300,18.69,71,1
+U1583,15-20,Male,Rural,2.85,Streaming,43,10.28,73,9
+U1584,31-40,Other,Rural,5.68,Streaming,327,9.56,22,10
+U1585,50+,Female,Semi-Urban,3.69,Productivity,493,4.24,88,5
+U1586,41-50,Other,Semi-Urban,5.73,Productivity,556,14.33,27,8
+U1587,15-20,Female,Rural,5.52,Education,263,2.87,33,5
+U1588,41-50,Female,Rural,4.73,Productivity,604,16.09,22,8
+U1589,15-20,Other,Semi-Urban,1.75,Streaming,56,4.43,43,7
+U1590,15-20,Male,Rural,5.52,Gaming,500,5.22,32,4
+U1591,15-20,Male,Rural,5.25,Social Media,122,6.04,62,7
+U1592,50+,Male,Semi-Urban,5.12,Education,646,8.42,48,6
+U1593,21-30,Male,Rural,4.79,Gaming,338,16.71,91,3
+U1594,41-50,Male,Rural,3.18,Social Media,81,19.52,70,9
+U1595,50+,Female,Rural,6.12,Social Media,348,8.94,61,10
+U1596,50+,Male,Semi-Urban,5.85,Social Media,210,11.77,50,9
+U1597,50+,Female,Rural,2.89,Shopping,598,14.45,82,5
+U1598,50+,Female,Semi-Urban,6.47,Gaming,149,10.35,45,8
+U1599,50+,Female,Semi-Urban,4.7,Education,72,14.25,37,7
+U1600,31-40,Other,Urban,4.69,Education,676,11.98,76,9
+U1601,41-50,Other,Urban,4.24,Social Media,289,10.73,26,7
+U1602,50+,Female,Rural,4.38,Gaming,226,4.9,67,4
+U1603,41-50,Other,Semi-Urban,6.56,Shopping,674,12.75,99,4
+U1604,31-40,Male,Urban,6.05,Social Media,284,16.79,79,8
+U1605,31-40,Male,Rural,6.02,Productivity,365,8.11,52,6
+U1606,41-50,Female,Urban,4.78,Education,582,2.16,22,9
+U1607,15-20,Male,Urban,5.83,Streaming,531,10.4,23,10
+U1608,21-30,Female,Semi-Urban,3.25,Social Media,284,19.55,23,7
+U1609,15-20,Female,Semi-Urban,5.38,Productivity,543,18.06,61,7
+U1610,15-20,Male,Urban,4.27,Education,271,9.1,28,4
+U1611,15-20,Other,Urban,1.41,Shopping,178,14.28,70,3
+U1612,50+,Male,Semi-Urban,2.12,Gaming,328,15.07,36,8
+U1613,31-40,Male,Rural,3.51,Education,649,19.45,36,7
+U1614,15-20,Female,Semi-Urban,5.12,Gaming,482,4.25,39,4
+U1615,31-40,Female,Urban,3.51,Gaming,422,6.66,33,4
+U1616,41-50,Female,Rural,3.61,Shopping,241,1.95,41,1
+U1617,21-30,Female,Urban,5.64,Shopping,697,8.61,71,7
+U1618,41-50,Other,Rural,3.67,Social Media,567,17.33,46,1
+U1619,41-50,Other,Urban,6.5,Social Media,623,9.2,62,10
+U1620,50+,Other,Rural,6.25,Education,624,5.46,22,10
+U1621,21-30,Female,Rural,4.53,Shopping,160,13.13,27,4
+U1622,41-50,Female,Urban,5.63,Productivity,358,13.26,29,3
+U1623,41-50,Female,Rural,5.43,Education,641,6.91,48,3
+U1624,21-30,Other,Semi-Urban,4.13,Streaming,285,9.47,59,1
+U1625,21-30,Female,Urban,5.79,Gaming,508,12.75,84,4
+U1626,41-50,Male,Semi-Urban,6.01,Gaming,590,15.73,40,1
+U1627,21-30,Male,Urban,3.07,Social Media,92,8.76,43,8
+U1628,41-50,Female,Rural,4.73,Productivity,340,8.04,92,1
+U1629,41-50,Male,Rural,4.71,Shopping,436,21.56,79,6
+U1630,50+,Male,Rural,5.77,Shopping,134,10.63,45,7
+U1631,15-20,Other,Urban,3.83,Social Media,646,13.25,28,10
+U1632,41-50,Female,Semi-Urban,3.6,Streaming,44,15.24,39,2
+U1633,31-40,Female,Semi-Urban,4.75,Education,716,3.07,75,4
+U1634,15-20,Other,Urban,6.27,Education,288,11.91,55,3
+U1635,15-20,Male,Urban,2.7,Productivity,441,3.77,55,9
+U1636,15-20,Male,Semi-Urban,2.96,Social Media,288,11.35,92,7
+U1637,50+,Female,Semi-Urban,3.72,Social Media,643,18.87,41,2
+U1638,41-50,Male,Semi-Urban,3.99,Streaming,289,7.01,20,6
+U1639,50+,Other,Semi-Urban,1.85,Education,700,3.67,88,9
+U1640,41-50,Other,Urban,6.75,Social Media,74,21.44,92,3
+U1641,50+,Female,Urban,4.3,Shopping,360,6.26,56,6
+U1642,50+,Other,Rural,4.08,Productivity,194,4.51,91,3
+U1643,31-40,Other,Semi-Urban,6.93,Education,222,20.1,32,3
+U1644,50+,Female,Rural,5.58,Streaming,550,6.07,62,4
+U1645,21-30,Other,Urban,3.7,Productivity,430,20.22,56,9
+U1646,31-40,Other,Urban,4.75,Gaming,403,13.37,93,8
+U1647,50+,Other,Rural,4.44,Shopping,94,18.42,44,1
+U1648,15-20,Male,Semi-Urban,6.67,Streaming,416,12.93,40,1
+U1649,21-30,Female,Semi-Urban,4.25,Productivity,524,17.4,60,7
+U1650,21-30,Female,Semi-Urban,2.34,Social Media,444,7.41,92,3
+U1651,21-30,Female,Semi-Urban,1.68,Gaming,59,8.93,61,7
+U1652,31-40,Male,Rural,6.71,Streaming,295,1.42,61,9
+U1653,50+,Male,Rural,3.32,Social Media,357,16.86,21,3
+U1654,50+,Female,Urban,5.51,Shopping,521,14.1,87,3
+U1655,15-20,Male,Semi-Urban,4.61,Gaming,246,6.96,27,2
+U1656,15-20,Female,Semi-Urban,3.88,Education,349,3.26,80,10
+U1657,21-30,Male,Semi-Urban,4.11,Social Media,428,13.41,33,1
+U1658,15-20,Other,Rural,6.88,Productivity,134,20.38,96,9
+U1659,31-40,Other,Semi-Urban,2.33,Streaming,359,11.31,40,6
+U1660,50+,Female,Rural,3.92,Gaming,689,8.71,43,6
+U1661,21-30,Male,Semi-Urban,5.86,Social Media,646,7.31,69,8
+U1662,15-20,Male,Semi-Urban,2.58,Education,76,18.25,64,5
+U1663,31-40,Other,Urban,6.48,Streaming,628,8.1,83,9
+U1664,31-40,Other,Semi-Urban,5.84,Streaming,670,10.14,83,5
+U1665,15-20,Male,Semi-Urban,4.91,Social Media,343,17.21,45,2
+U1666,50+,Male,Urban,3.75,Education,176,15.19,51,6
+U1667,15-20,Male,Rural,2.38,Shopping,491,10.34,76,9
+U1668,21-30,Male,Rural,5.56,Shopping,613,8.51,72,3
+U1669,15-20,Male,Semi-Urban,8.62,Gaming,515,19.33,52,10
+U1670,31-40,Male,Rural,4.72,Social Media,681,6.42,71,4
+U1671,15-20,Female,Semi-Urban,1.76,Gaming,439,10.95,37,10
+U1672,50+,Male,Urban,5.19,Shopping,56,4.47,54,8
+U1673,41-50,Other,Urban,5.79,Streaming,58,17.94,31,6
+U1674,15-20,Female,Semi-Urban,3.12,Gaming,300,9.63,70,7
+U1675,50+,Male,Urban,3.53,Education,715,8.5,29,7
+U1676,50+,Other,Urban,3.38,Productivity,530,15.31,71,4
+U1677,31-40,Female,Semi-Urban,3.7,Shopping,282,4.87,53,6
+U1678,50+,Other,Semi-Urban,4.24,Shopping,414,15.18,86,9
+U1679,50+,Male,Urban,3.21,Education,89,10.2,58,3
+U1680,50+,Male,Rural,2.65,Gaming,136,5.97,27,8
+U1681,50+,Male,Rural,4.76,Social Media,249,7.05,48,7
+U1682,21-30,Male,Semi-Urban,4.23,Streaming,470,8.58,41,4
+U1683,21-30,Female,Semi-Urban,3.85,Productivity,687,9.78,89,10
+U1684,31-40,Female,Rural,4.62,Social Media,593,6.01,80,3
+U1685,15-20,Other,Urban,2.22,Social Media,601,13.47,62,7
+U1686,50+,Male,Rural,4.89,Education,575,5.88,68,10
+U1687,15-20,Other,Rural,3.88,Gaming,125,1.0,48,9
+U1688,15-20,Female,Rural,4.86,Shopping,118,21.6,50,10
+U1689,31-40,Male,Rural,5.1,Shopping,260,12.99,72,3
+U1690,50+,Male,Semi-Urban,6.2,Education,304,22.05,53,10
+U1691,50+,Female,Semi-Urban,4.65,Gaming,275,6.78,57,9
+U1692,41-50,Female,Urban,6.1,Education,140,14.4,76,8
+U1693,15-20,Female,Urban,4.02,Shopping,263,16.47,23,3
+U1694,15-20,Female,Urban,4.09,Social Media,307,11.05,21,8
+U1695,21-30,Female,Urban,4.36,Streaming,506,4.78,31,4
+U1696,41-50,Male,Rural,5.66,Gaming,446,10.68,54,6
+U1697,21-30,Female,Semi-Urban,5.45,Productivity,707,15.13,89,10
+U1698,21-30,Male,Semi-Urban,4.7,Productivity,157,14.94,91,2
+U1699,21-30,Male,Urban,2.66,Social Media,266,11.99,40,8
+U1700,31-40,Female,Urban,5.42,Education,648,16.49,80,9
+U1701,31-40,Female,Rural,3.21,Education,157,16.25,54,7
+U1702,21-30,Male,Rural,3.13,Shopping,423,9.38,67,8
+U1703,41-50,Female,Urban,2.79,Social Media,504,4.4,34,7
+U1704,15-20,Female,Semi-Urban,4.38,Shopping,684,12.95,90,10
+U1705,41-50,Female,Semi-Urban,6.32,Shopping,424,8.27,34,4
+U1706,50+,Other,Semi-Urban,3.05,Productivity,140,12.72,25,1
+U1707,31-40,Male,Urban,7.02,Shopping,119,18.73,87,3
+U1708,15-20,Other,Semi-Urban,5.86,Shopping,309,14.19,41,7
+U1709,15-20,Female,Rural,2.3,Productivity,362,18.48,51,7
+U1710,50+,Other,Rural,3.93,Education,253,6.94,41,3
+U1711,50+,Female,Urban,2.94,Gaming,130,17.44,46,1
+U1712,21-30,Other,Rural,5.5,Streaming,161,20.38,34,10
+U1713,31-40,Female,Urban,3.02,Shopping,42,12.32,63,9
+U1714,31-40,Other,Semi-Urban,2.07,Gaming,486,23.61,28,6
+U1715,41-50,Other,Semi-Urban,4.01,Productivity,470,7.71,53,7
+U1716,21-30,Other,Semi-Urban,6.25,Gaming,127,8.81,92,1
+U1717,21-30,Male,Rural,4.21,Streaming,149,15.25,34,1
+U1718,21-30,Other,Urban,5.1,Gaming,322,12.27,81,4
+U1719,21-30,Male,Semi-Urban,5.16,Gaming,30,8.29,64,7
+U1720,31-40,Female,Urban,2.23,Gaming,601,15.1,91,8
+U1721,31-40,Other,Semi-Urban,3.15,Gaming,279,13.78,77,10
+U1722,21-30,Female,Rural,4.51,Social Media,681,9.07,38,9
+U1723,41-50,Female,Rural,3.66,Shopping,178,12.95,35,1
+U1724,15-20,Other,Urban,7.06,Productivity,424,15.8,94,4
+U1725,15-20,Male,Rural,2.66,Streaming,73,8.96,27,4
+U1726,41-50,Other,Rural,3.14,Productivity,649,14.58,52,3
+U1727,21-30,Female,Urban,4.94,Social Media,73,7.66,93,7
+U1728,31-40,Female,Semi-Urban,3.56,Social Media,107,8.63,37,1
+U1729,15-20,Other,Rural,0.5,Social Media,255,17.56,54,9
+U1730,50+,Male,Urban,7.4,Shopping,191,15.07,62,8
+U1731,50+,Male,Rural,2.89,Social Media,282,2.57,69,2
+U1732,41-50,Female,Rural,5.34,Gaming,161,10.13,22,2
+U1733,21-30,Female,Rural,2.62,Productivity,477,14.45,78,8
+U1734,15-20,Male,Rural,3.21,Education,503,12.69,47,1
+U1735,21-30,Other,Urban,2.07,Streaming,685,15.09,65,7
+U1736,15-20,Female,Urban,3.39,Social Media,138,12.58,83,9
+U1737,41-50,Male,Urban,3.53,Productivity,64,11.34,89,3
+U1738,41-50,Female,Rural,4.3,Social Media,496,11.18,66,7
+U1739,50+,Other,Rural,3.94,Shopping,304,17.46,33,6
+U1740,21-30,Male,Rural,2.34,Social Media,216,15.47,26,7
+U1741,50+,Female,Urban,3.71,Social Media,272,14.02,93,7
+U1742,21-30,Other,Rural,6.67,Social Media,293,12.44,98,10
+U1743,50+,Female,Semi-Urban,6.49,Social Media,551,9.26,50,1
+U1744,31-40,Other,Rural,5.18,Streaming,707,10.47,70,3
+U1745,31-40,Other,Semi-Urban,5.49,Productivity,570,17.32,48,10
+U1746,31-40,Male,Rural,7.59,Shopping,116,16.85,34,1
+U1747,31-40,Other,Urban,5.36,Social Media,564,8.76,95,5
+U1748,15-20,Female,Rural,5.47,Social Media,239,12.5,44,3
+U1749,31-40,Other,Semi-Urban,2.15,Social Media,75,14.49,80,1
+U1750,41-50,Other,Semi-Urban,2.83,Social Media,496,14.17,60,2
+U1751,41-50,Male,Rural,4.45,Gaming,569,14.13,88,10
+U1752,15-20,Other,Semi-Urban,3.29,Gaming,55,6.44,23,5
+U1753,31-40,Other,Semi-Urban,3.0,Education,295,6.14,76,3
+U1754,31-40,Female,Urban,3.18,Social Media,204,17.85,50,6
+U1755,31-40,Male,Rural,2.36,Education,545,19.55,22,9
+U1756,50+,Male,Rural,3.31,Streaming,340,4.59,86,6
+U1757,21-30,Male,Rural,5.01,Education,351,11.86,69,2
+U1758,50+,Other,Semi-Urban,7.19,Productivity,608,16.07,36,2
+U1759,21-30,Male,Rural,5.7,Gaming,164,1.0,79,8
+U1760,31-40,Other,Rural,5.45,Gaming,84,6.63,93,8
+U1761,31-40,Other,Urban,2.06,Social Media,572,11.54,85,6
+U1762,50+,Female,Urban,4.68,Social Media,615,9.01,94,10
+U1763,50+,Female,Urban,4.4,Streaming,560,13.05,43,7
+U1764,21-30,Female,Semi-Urban,4.94,Shopping,185,19.35,51,1
+U1765,41-50,Female,Rural,3.96,Streaming,697,7.74,38,9
+U1766,21-30,Female,Urban,6.99,Productivity,176,12.25,85,5
+U1767,50+,Other,Urban,4.58,Social Media,514,10.28,79,9
+U1768,50+,Other,Urban,4.73,Social Media,628,12.68,85,2
+U1769,15-20,Male,Rural,1.56,Streaming,49,12.03,34,8
+U1770,50+,Other,Rural,4.34,Streaming,298,25.19,54,7
+U1771,15-20,Other,Rural,6.22,Streaming,362,19.45,88,4
+U1772,41-50,Female,Semi-Urban,5.33,Gaming,584,4.1,46,3
+U1773,21-30,Other,Semi-Urban,1.27,Education,430,7.5,26,4
+U1774,21-30,Female,Urban,3.83,Education,335,8.11,25,4
+U1775,15-20,Male,Rural,7.1,Social Media,57,5.83,52,10
+U1776,21-30,Male,Urban,4.27,Gaming,496,5.16,77,10
+U1777,50+,Other,Rural,4.98,Streaming,289,11.11,68,8
+U1778,31-40,Male,Rural,6.93,Social Media,563,8.3,36,4
+U1779,15-20,Other,Rural,4.27,Gaming,130,7.55,61,5
+U1780,21-30,Male,Semi-Urban,5.69,Productivity,580,22.1,91,2
+U1781,15-20,Female,Semi-Urban,5.12,Shopping,382,8.65,59,4
+U1782,15-20,Female,Rural,5.44,Gaming,329,9.78,65,7
+U1783,31-40,Female,Urban,5.07,Social Media,711,15.71,90,3
+U1784,50+,Female,Rural,3.68,Education,325,9.77,89,1
+U1785,15-20,Other,Rural,3.83,Streaming,382,6.17,87,8
+U1786,21-30,Male,Urban,3.22,Shopping,159,10.71,20,8
+U1787,41-50,Other,Rural,2.04,Productivity,185,22.04,98,6
+U1788,15-20,Female,Urban,6.37,Shopping,103,9.59,71,7
+U1789,15-20,Other,Semi-Urban,4.52,Shopping,371,7.44,54,10
+U1790,31-40,Male,Semi-Urban,6.29,Gaming,494,14.1,88,2
+U1791,50+,Other,Urban,6.85,Social Media,119,10.47,24,5
+U1792,41-50,Male,Semi-Urban,4.58,Social Media,608,25.69,36,7
+U1793,21-30,Other,Semi-Urban,2.53,Shopping,484,8.07,72,9
+U1794,41-50,Male,Urban,4.21,Streaming,361,20.67,71,1
+U1795,21-30,Male,Semi-Urban,3.49,Social Media,377,17.82,33,3
+U1796,50+,Female,Rural,1.53,Shopping,262,10.09,48,6
+U1797,21-30,Male,Rural,3.75,Social Media,627,11.98,27,7
+U1798,31-40,Female,Urban,4.39,Streaming,131,6.85,20,6
+U1799,31-40,Female,Semi-Urban,3.54,Productivity,510,9.31,48,1
+U1800,31-40,Female,Rural,3.34,Shopping,243,10.06,55,4
+U1801,31-40,Other,Rural,2.58,Education,137,12.79,70,6
+U1802,41-50,Other,Semi-Urban,4.79,Education,194,4.94,56,8
+U1803,50+,Other,Semi-Urban,7.3,Shopping,632,13.56,88,10
+U1804,21-30,Other,Rural,6.42,Gaming,364,11.27,72,4
+U1805,21-30,Male,Rural,5.48,Productivity,115,13.99,71,7
+U1806,31-40,Male,Urban,5.51,Gaming,453,14.74,31,3
+U1807,31-40,Other,Urban,4.3,Education,642,10.87,71,8
+U1808,15-20,Male,Rural,1.79,Streaming,393,14.44,20,1
+U1809,50+,Male,Urban,3.95,Shopping,89,11.56,26,4
+U1810,41-50,Female,Rural,3.05,Social Media,511,15.72,36,8
+U1811,21-30,Female,Rural,4.73,Education,279,13.58,62,10
+U1812,15-20,Female,Urban,6.35,Productivity,589,12.91,90,4
+U1813,15-20,Female,Urban,7.46,Education,146,11.49,36,2
+U1814,21-30,Male,Semi-Urban,4.6,Productivity,574,18.48,78,2
+U1815,41-50,Other,Semi-Urban,2.0,Productivity,73,14.03,22,4
+U1816,15-20,Male,Semi-Urban,4.59,Shopping,538,5.39,48,4
+U1817,15-20,Male,Rural,4.63,Productivity,194,9.64,41,2
+U1818,50+,Male,Urban,5.52,Gaming,397,10.86,57,7
+U1819,41-50,Female,Rural,4.47,Streaming,321,11.99,73,6
+U1820,15-20,Female,Urban,4.6,Education,315,12.88,69,3
+U1821,41-50,Female,Rural,3.55,Streaming,233,7.28,88,8
+U1822,21-30,Other,Semi-Urban,4.03,Social Media,713,11.66,49,8
+U1823,31-40,Male,Semi-Urban,5.27,Education,553,10.43,42,1
+U1824,15-20,Other,Semi-Urban,1.49,Streaming,150,17.42,66,3
+U1825,50+,Female,Rural,4.02,Streaming,693,7.02,40,5
+U1826,21-30,Other,Urban,5.53,Shopping,693,11.91,39,2
+U1827,41-50,Male,Urban,6.96,Shopping,217,8.57,42,5
+U1828,21-30,Male,Semi-Urban,3.9,Social Media,42,21.31,87,10
+U1829,15-20,Female,Semi-Urban,6.28,Productivity,632,18.28,40,3
+U1830,41-50,Female,Semi-Urban,7.04,Education,229,3.79,40,9
+U1831,31-40,Other,Semi-Urban,3.92,Shopping,615,8.02,20,1
+U1832,21-30,Female,Urban,3.66,Education,485,16.35,34,4
+U1833,15-20,Female,Rural,4.23,Social Media,477,14.29,36,10
+U1834,50+,Male,Rural,4.38,Shopping,100,14.13,70,6
+U1835,41-50,Female,Rural,6.14,Shopping,619,12.95,82,9
+U1836,21-30,Female,Rural,3.34,Productivity,159,16.76,33,3
+U1837,21-30,Male,Semi-Urban,6.81,Education,72,15.9,78,3
+U1838,31-40,Male,Semi-Urban,3.3,Education,549,10.55,69,5
+U1839,31-40,Other,Semi-Urban,2.6,Education,42,6.0,53,7
+U1840,50+,Female,Rural,5.29,Productivity,652,3.55,25,5
+U1841,50+,Male,Semi-Urban,6.35,Shopping,564,11.48,68,8
+U1842,15-20,Other,Semi-Urban,4.77,Social Media,331,2.8,25,5
+U1843,15-20,Other,Urban,5.15,Education,556,13.25,88,7
+U1844,50+,Female,Urban,7.43,Streaming,671,10.46,26,6
+U1845,50+,Female,Semi-Urban,6.37,Productivity,602,21.72,96,10
+U1846,41-50,Other,Urban,4.55,Gaming,144,13.72,70,2
+U1847,31-40,Male,Urban,3.85,Social Media,489,11.85,20,3
+U1848,15-20,Other,Semi-Urban,6.14,Streaming,534,3.92,32,4
+U1849,31-40,Female,Semi-Urban,5.74,Education,337,5.69,62,5
+U1850,31-40,Male,Semi-Urban,5.13,Gaming,354,15.41,46,9
+U1851,50+,Male,Semi-Urban,4.01,Social Media,608,10.43,90,6
+U1852,41-50,Other,Rural,4.39,Productivity,204,24.68,22,1
+U1853,21-30,Female,Rural,4.28,Gaming,543,11.58,77,3
+U1854,41-50,Other,Semi-Urban,4.03,Shopping,201,12.84,36,7
+U1855,41-50,Other,Urban,3.6,Gaming,531,5.42,64,8
+U1856,31-40,Other,Semi-Urban,4.9,Streaming,363,16.74,97,7
+U1857,41-50,Male,Semi-Urban,3.53,Social Media,313,7.37,77,5
+U1858,15-20,Male,Urban,4.77,Streaming,504,14.62,75,10
+U1859,31-40,Female,Rural,1.35,Streaming,83,16.06,73,8
+U1860,15-20,Female,Semi-Urban,3.6,Education,487,12.48,48,9
+U1861,21-30,Other,Semi-Urban,6.15,Productivity,608,20.78,73,7
+U1862,31-40,Other,Rural,3.15,Gaming,449,8.95,46,9
+U1863,21-30,Other,Rural,5.39,Social Media,643,20.38,64,1
+U1864,31-40,Female,Urban,3.27,Shopping,661,5.65,50,9
+U1865,50+,Male,Rural,5.66,Productivity,438,16.0,55,3
+U1866,41-50,Male,Rural,4.05,Productivity,333,11.29,80,6
+U1867,50+,Other,Rural,4.0,Social Media,588,8.46,56,8
+U1868,21-30,Other,Urban,4.58,Productivity,251,3.69,86,3
+U1869,41-50,Other,Rural,2.48,Education,562,10.7,55,4
+U1870,31-40,Other,Rural,5.96,Productivity,187,10.38,24,7
+U1871,41-50,Female,Urban,6.46,Education,377,12.86,65,7
+U1872,15-20,Male,Rural,3.96,Gaming,188,15.62,98,4
+U1873,41-50,Other,Rural,5.29,Gaming,264,7.96,71,9
+U1874,15-20,Female,Urban,5.67,Streaming,691,20.79,68,3
+U1875,41-50,Other,Semi-Urban,4.36,Education,434,9.31,25,8
+U1876,15-20,Other,Urban,2.84,Shopping,286,15.01,29,8
+U1877,21-30,Male,Rural,6.89,Gaming,706,12.45,42,4
+U1878,50+,Other,Rural,3.91,Productivity,618,11.01,36,7
+U1879,31-40,Male,Rural,3.59,Social Media,626,12.2,63,4
+U1880,41-50,Male,Urban,6.96,Social Media,587,7.3,60,1
+U1881,50+,Male,Rural,5.42,Education,76,10.06,34,1
+U1882,31-40,Female,Rural,4.89,Shopping,242,5.3,63,1
+U1883,31-40,Female,Urban,3.04,Streaming,508,9.25,77,2
+U1884,15-20,Male,Semi-Urban,5.7,Productivity,516,9.67,69,6
+U1885,21-30,Other,Semi-Urban,8.84,Education,600,16.23,71,10
+U1886,21-30,Male,Rural,5.82,Social Media,595,10.34,89,5
+U1887,50+,Other,Urban,5.24,Education,371,9.76,87,2
+U1888,21-30,Male,Rural,5.58,Productivity,553,13.1,82,8
+U1889,41-50,Other,Urban,4.01,Shopping,532,12.9,77,9
+U1890,21-30,Female,Urban,3.99,Shopping,35,9.04,42,7
+U1891,50+,Other,Semi-Urban,3.97,Gaming,173,13.97,63,9
+U1892,21-30,Male,Semi-Urban,3.64,Productivity,290,11.11,63,4
+U1893,41-50,Female,Urban,3.97,Gaming,614,9.04,71,7
+U1894,15-20,Other,Rural,3.96,Gaming,715,9.52,86,5
+U1895,50+,Other,Semi-Urban,4.13,Gaming,261,16.75,47,5
+U1896,15-20,Other,Rural,4.09,Education,299,9.67,86,3
+U1897,15-20,Other,Semi-Urban,4.86,Social Media,476,13.31,97,9
+U1898,15-20,Other,Semi-Urban,4.62,Shopping,251,5.59,37,10
+U1899,31-40,Female,Rural,4.75,Education,81,17.58,46,5
+U1900,31-40,Female,Semi-Urban,6.78,Social Media,145,9.09,70,6
+U1901,15-20,Female,Semi-Urban,4.62,Shopping,567,14.0,79,3
+U1902,50+,Female,Rural,7.82,Productivity,594,10.74,93,10
+U1903,41-50,Male,Semi-Urban,5.03,Shopping,570,13.94,68,7
+U1904,41-50,Female,Semi-Urban,3.83,Shopping,48,14.22,34,9
+U1905,21-30,Other,Semi-Urban,6.52,Shopping,421,11.28,92,9
+U1906,50+,Other,Rural,4.38,Streaming,658,2.67,87,10
+U1907,31-40,Female,Urban,0.91,Productivity,647,17.46,34,10
+U1908,15-20,Other,Rural,4.49,Education,448,11.3,70,5
+U1909,21-30,Female,Urban,4.13,Education,338,13.84,67,7
+U1910,41-50,Other,Semi-Urban,6.91,Social Media,215,15.46,91,3
+U1911,31-40,Male,Urban,3.15,Education,290,9.71,20,6
+U1912,31-40,Male,Rural,4.0,Gaming,557,14.59,26,8
+U1913,15-20,Female,Rural,6.4,Shopping,302,8.26,72,8
+U1914,41-50,Female,Semi-Urban,5.09,Education,189,13.94,50,2
+U1915,50+,Female,Urban,4.24,Social Media,253,12.1,37,6
+U1916,31-40,Other,Semi-Urban,3.37,Social Media,285,9.89,31,7
+U1917,15-20,Female,Semi-Urban,5.03,Gaming,209,12.23,67,7
+U1918,50+,Male,Rural,4.46,Social Media,49,6.72,49,3
+U1919,41-50,Other,Urban,3.35,Streaming,653,13.55,26,9
+U1920,31-40,Female,Urban,3.43,Shopping,661,14.06,22,2
+U1921,50+,Other,Urban,3.28,Shopping,497,13.73,82,3
+U1922,50+,Other,Urban,3.01,Shopping,652,19.51,25,2
+U1923,50+,Female,Semi-Urban,5.9,Productivity,239,11.53,34,9
+U1924,31-40,Other,Semi-Urban,5.7,Education,542,11.87,90,4
+U1925,31-40,Male,Rural,5.9,Streaming,87,6.15,62,2
+U1926,21-30,Male,Semi-Urban,4.51,Education,122,19.86,37,3
+U1927,41-50,Other,Semi-Urban,4.14,Streaming,250,4.51,41,4
+U1928,15-20,Female,Rural,4.16,Education,261,13.14,80,10
+U1929,50+,Other,Rural,6.03,Gaming,393,8.93,80,6
+U1930,21-30,Male,Rural,1.77,Social Media,644,12.31,72,5
+U1931,15-20,Other,Semi-Urban,3.73,Social Media,591,5.46,45,3
+U1932,21-30,Other,Semi-Urban,3.17,Gaming,403,16.46,59,10
+U1933,31-40,Male,Rural,6.54,Streaming,651,7.22,27,8
+U1934,50+,Other,Rural,3.78,Productivity,485,17.83,40,8
+U1935,15-20,Other,Rural,2.05,Streaming,117,7.36,62,7
+U1936,15-20,Female,Semi-Urban,4.84,Social Media,49,16.88,40,3
+U1937,15-20,Female,Semi-Urban,3.94,Productivity,43,7.85,22,1
+U1938,15-20,Male,Urban,3.66,Education,162,8.93,50,5
+U1939,15-20,Male,Semi-Urban,3.51,Productivity,63,11.99,46,1
+U1940,21-30,Male,Semi-Urban,3.45,Streaming,237,7.76,46,6
+U1941,50+,Female,Semi-Urban,5.56,Gaming,228,7.61,92,7
+U1942,31-40,Male,Rural,4.84,Education,621,7.82,76,5
+U1943,31-40,Male,Semi-Urban,4.2,Streaming,612,13.59,52,4
+U1944,31-40,Male,Rural,2.85,Education,184,12.0,63,2
+U1945,31-40,Female,Urban,4.25,Productivity,619,12.26,62,5
+U1946,21-30,Other,Urban,4.89,Social Media,107,10.38,50,9
+U1947,41-50,Male,Rural,4.95,Streaming,201,14.74,84,4
+U1948,50+,Other,Rural,4.74,Gaming,318,17.25,95,2
+U1949,15-20,Male,Rural,3.12,Productivity,574,14.88,36,6
+U1950,41-50,Other,Semi-Urban,0.9,Streaming,449,10.96,34,8
+U1951,31-40,Female,Urban,7.2,Gaming,36,5.9,53,2
+U1952,41-50,Female,Rural,2.54,Streaming,189,2.11,99,9
+U1953,50+,Male,Semi-Urban,1.55,Productivity,269,11.68,23,7
+U1954,15-20,Other,Urban,4.7,Streaming,452,2.03,91,2
+U1955,15-20,Female,Semi-Urban,1.94,Education,565,11.0,98,5
+U1956,50+,Male,Urban,3.29,Productivity,99,19.01,47,5
+U1957,50+,Male,Semi-Urban,5.32,Streaming,245,6.23,92,7
+U1958,31-40,Female,Urban,7.16,Social Media,133,5.57,21,5
+U1959,15-20,Female,Urban,5.08,Streaming,83,15.18,36,6
+U1960,41-50,Male,Semi-Urban,3.84,Education,359,1.0,77,9
+U1961,21-30,Other,Rural,4.42,Gaming,232,13.91,93,3
+U1962,21-30,Other,Urban,1.79,Gaming,317,19.34,28,3
+U1963,50+,Other,Rural,3.82,Gaming,74,7.64,50,8
+U1964,31-40,Male,Semi-Urban,3.83,Social Media,227,6.78,85,10
+U1965,21-30,Female,Rural,4.73,Education,245,14.95,81,6
+U1966,15-20,Male,Rural,7.41,Productivity,510,6.15,38,10
+U1967,50+,Female,Rural,1.59,Gaming,338,16.05,93,3
+U1968,41-50,Other,Rural,3.89,Education,464,6.55,74,2
+U1969,50+,Other,Rural,1.75,Streaming,361,20.84,47,2
+U1970,41-50,Female,Urban,3.74,Social Media,56,15.31,69,2
+U1971,50+,Female,Urban,3.2,Education,195,12.19,84,5
+U1972,50+,Male,Urban,2.26,Education,347,20.55,22,5
+U1973,50+,Other,Semi-Urban,5.87,Productivity,303,17.16,98,1
+U1974,41-50,Male,Rural,4.88,Education,412,13.84,71,2
+U1975,41-50,Male,Urban,5.69,Productivity,394,2.68,29,2
+U1976,50+,Male,Semi-Urban,3.7,Social Media,132,8.49,40,4
+U1977,21-30,Other,Urban,4.39,Social Media,532,17.43,56,7
+U1978,31-40,Male,Urban,6.89,Streaming,402,5.5,34,3
+U1979,31-40,Male,Rural,4.5,Productivity,645,8.17,97,5
+U1980,31-40,Male,Semi-Urban,5.71,Productivity,274,6.89,98,9
+U1981,41-50,Male,Rural,3.57,Gaming,198,14.01,93,5
+U1982,41-50,Male,Rural,5.57,Gaming,657,16.82,28,9
+U1983,21-30,Male,Urban,3.68,Streaming,682,16.82,63,1
+U1984,31-40,Other,Rural,1.66,Social Media,447,7.74,58,9
+U1985,31-40,Male,Semi-Urban,4.49,Shopping,385,13.94,24,5
+U1986,50+,Female,Rural,3.79,Gaming,507,7.5,44,8
+U1987,41-50,Male,Rural,2.06,Education,154,10.95,75,5
+U1988,31-40,Male,Rural,4.79,Social Media,566,14.6,83,6
+U1989,21-30,Other,Urban,3.16,Shopping,641,17.31,91,8
+U1990,21-30,Other,Semi-Urban,9.14,Education,431,1.25,71,2
+U1991,31-40,Female,Urban,2.3,Productivity,546,12.49,95,3
+U1992,41-50,Female,Urban,2.68,Social Media,560,19.04,28,9
+U1993,21-30,Other,Urban,5.8,Streaming,711,13.16,29,5
+U1994,50+,Other,Urban,4.3,Productivity,283,12.41,29,5
+U1995,21-30,Male,Urban,5.77,Productivity,150,9.18,92,9
+U1996,15-20,Other,Semi-Urban,5.07,Education,61,18.9,81,10
+U1997,15-20,Female,Rural,3.63,Productivity,690,9.42,79,3
+U1998,41-50,Male,Urban,2.43,Gaming,66,11.5,38,4
+U1999,31-40,Female,Urban,6.11,Social Media,718,9.65,57,7
+U2000,41-50,Male,Semi-Urban,2.57,Gaming,371,12.54,25,2
+U2001,41-50,Other,Semi-Urban,5.34,Education,42,19.13,34,8
+U2002,41-50,Female,Rural,5.88,Shopping,212,7.47,66,5
+U2003,41-50,Male,Semi-Urban,4.31,Education,686,12.56,64,1
+U2004,50+,Male,Rural,4.04,Social Media,294,13.96,24,3
+U2005,50+,Other,Urban,3.02,Productivity,117,7.94,97,9
+U2006,21-30,Other,Urban,5.19,Streaming,491,11.7,72,5
+U2007,15-20,Other,Rural,0.5,Education,75,21.26,85,8
+U2008,41-50,Female,Semi-Urban,5.57,Social Media,421,3.16,81,1
+U2009,21-30,Male,Rural,4.68,Streaming,148,9.89,42,7
+U2010,15-20,Other,Semi-Urban,4.17,Productivity,560,13.25,63,7
+U2011,31-40,Female,Urban,4.86,Shopping,476,10.12,71,8
+U2012,50+,Female,Semi-Urban,2.44,Education,635,26.43,65,3
+U2013,15-20,Female,Rural,0.88,Shopping,75,14.74,38,1
+U2014,31-40,Other,Rural,5.2,Social Media,537,6.78,66,9
+U2015,15-20,Other,Urban,6.47,Shopping,587,1.0,71,1
+U2016,50+,Male,Semi-Urban,1.89,Shopping,555,13.7,43,6
+U2017,50+,Male,Semi-Urban,2.92,Social Media,626,8.22,36,9
+U2018,21-30,Other,Semi-Urban,5.63,Social Media,32,18.44,65,2
+U2019,41-50,Female,Urban,5.04,Education,57,10.63,83,4
+U2020,15-20,Female,Semi-Urban,8.94,Shopping,410,9.16,47,2
+U2021,15-20,Female,Rural,6.11,Streaming,186,9.07,69,4
+U2022,31-40,Male,Semi-Urban,5.75,Social Media,540,16.93,83,2
+U2023,50+,Female,Urban,3.35,Productivity,362,14.08,47,1
+U2024,15-20,Male,Semi-Urban,5.29,Shopping,716,20.78,75,3
+U2025,50+,Male,Semi-Urban,6.74,Social Media,143,10.92,78,8
+U2026,15-20,Female,Rural,4.25,Streaming,418,16.31,24,5
+U2027,21-30,Female,Semi-Urban,4.32,Education,516,16.4,73,4
+U2028,41-50,Other,Rural,4.71,Shopping,279,15.37,63,5
+U2029,15-20,Other,Rural,3.5,Social Media,600,9.45,61,6
+U2030,50+,Female,Urban,4.9,Social Media,344,14.37,91,6
+U2031,21-30,Male,Rural,4.87,Productivity,268,11.51,76,5
+U2032,15-20,Male,Rural,6.72,Productivity,263,11.38,66,6
+U2033,31-40,Male,Urban,4.22,Shopping,332,7.97,95,9
+U2034,41-50,Male,Rural,5.51,Social Media,636,1.4,44,5
+U2035,15-20,Male,Urban,4.26,Shopping,682,18.24,63,6
+U2036,21-30,Other,Semi-Urban,5.46,Social Media,363,14.16,34,4
+U2037,31-40,Female,Urban,4.12,Productivity,142,5.28,70,3
+U2038,21-30,Other,Rural,5.36,Streaming,650,15.59,72,6
+U2039,21-30,Male,Urban,5.59,Gaming,391,18.34,53,5
+U2040,31-40,Male,Rural,2.9,Gaming,126,15.89,96,4
+U2041,21-30,Male,Semi-Urban,6.15,Social Media,45,7.54,27,5
+U2042,31-40,Male,Urban,4.25,Productivity,585,8.34,96,7
+U2043,15-20,Female,Semi-Urban,3.8,Education,405,9.26,89,1
+U2044,31-40,Male,Rural,3.43,Education,419,16.31,40,1
+U2045,31-40,Female,Rural,4.95,Gaming,649,14.39,26,1
+U2046,41-50,Male,Semi-Urban,4.49,Streaming,246,25.95,98,2
+U2047,31-40,Female,Urban,5.06,Gaming,428,3.8,75,9
+U2048,31-40,Other,Urban,5.09,Social Media,289,11.74,68,5
+U2049,15-20,Male,Rural,5.41,Streaming,349,2.36,61,9
+U2050,41-50,Female,Semi-Urban,8.66,Education,225,14.98,42,5
+U2051,50+,Other,Semi-Urban,4.56,Productivity,507,17.33,71,7
+U2052,15-20,Male,Urban,3.4,Productivity,447,19.21,98,6
+U2053,15-20,Male,Urban,1.47,Social Media,504,12.94,72,2
+U2054,50+,Male,Urban,2.71,Gaming,636,2.43,35,3
+U2055,31-40,Female,Semi-Urban,6.35,Social Media,597,11.75,56,5
+U2056,21-30,Female,Urban,5.58,Productivity,573,14.18,37,4
+U2057,41-50,Other,Urban,2.48,Education,260,6.97,39,6
+U2058,21-30,Female,Rural,8.2,Productivity,550,10.68,65,8
+U2059,50+,Female,Urban,4.99,Streaming,229,5.61,21,8
+U2060,15-20,Male,Urban,5.19,Shopping,702,8.94,82,3
+U2061,15-20,Male,Semi-Urban,7.87,Productivity,628,16.56,22,4
+U2062,41-50,Male,Semi-Urban,7.11,Productivity,50,15.4,65,1
+U2063,15-20,Male,Rural,5.67,Shopping,340,5.02,68,2
+U2064,15-20,Male,Urban,5.74,Streaming,617,8.48,20,9
+U2065,41-50,Male,Rural,5.88,Gaming,682,12.29,41,10
+U2066,41-50,Male,Semi-Urban,4.14,Productivity,667,13.13,33,10
+U2067,50+,Other,Rural,4.93,Social Media,625,8.69,64,2
+U2068,15-20,Other,Semi-Urban,5.36,Productivity,463,14.38,25,6
+U2069,15-20,Other,Rural,4.31,Social Media,400,11.82,84,7
+U2070,50+,Other,Rural,3.05,Streaming,589,1.0,40,6
+U2071,31-40,Male,Urban,4.1,Productivity,107,9.14,23,8
+U2072,31-40,Other,Rural,3.02,Streaming,571,9.0,22,9
+U2073,31-40,Male,Urban,4.6,Streaming,314,15.39,49,8
+U2074,50+,Other,Urban,1.83,Gaming,677,15.48,50,5
+U2075,15-20,Female,Urban,5.01,Productivity,169,3.64,53,8
+U2076,50+,Other,Urban,2.05,Social Media,582,14.19,39,10
+U2077,50+,Other,Rural,3.89,Social Media,311,11.63,73,10
+U2078,31-40,Male,Semi-Urban,5.26,Productivity,591,12.63,44,9
+U2079,21-30,Other,Semi-Urban,5.69,Shopping,287,8.93,34,8
+U2080,15-20,Female,Semi-Urban,5.51,Gaming,389,11.69,57,2
+U2081,31-40,Male,Rural,4.98,Gaming,469,17.75,42,2
+U2082,21-30,Male,Urban,2.82,Gaming,299,12.56,71,3
+U2083,21-30,Other,Semi-Urban,5.97,Social Media,163,11.79,85,7
+U2084,41-50,Male,Rural,2.86,Streaming,669,9.6,76,9
+U2085,15-20,Male,Urban,6.14,Shopping,133,17.26,76,8
+U2086,21-30,Male,Semi-Urban,5.44,Gaming,124,5.6,98,9
+U2087,31-40,Male,Urban,6.54,Social Media,602,7.99,71,6
+U2088,41-50,Male,Semi-Urban,4.54,Social Media,509,5.31,54,1
+U2089,15-20,Male,Semi-Urban,3.27,Streaming,270,13.0,93,4
+U2090,50+,Female,Semi-Urban,2.56,Productivity,42,17.9,33,6
+U2091,31-40,Other,Urban,2.73,Productivity,176,10.36,33,6
+U2092,21-30,Female,Rural,2.04,Gaming,630,6.65,52,8
+U2093,21-30,Male,Urban,5.91,Gaming,124,20.18,71,1
+U2094,31-40,Male,Semi-Urban,6.1,Shopping,322,14.26,20,2
+U2095,21-30,Other,Urban,5.33,Streaming,54,13.39,53,2
+U2096,41-50,Female,Rural,4.45,Gaming,301,11.05,38,6
+U2097,15-20,Other,Urban,7.59,Streaming,534,15.35,43,7
+U2098,41-50,Female,Rural,4.35,Social Media,195,13.31,23,2
+U2099,21-30,Male,Rural,4.83,Gaming,116,9.59,55,5
+U2100,50+,Other,Urban,4.43,Social Media,683,10.43,96,6
+U2101,15-20,Other,Semi-Urban,3.99,Education,675,6.9,77,4
+U2102,15-20,Male,Rural,5.45,Streaming,667,6.28,51,1
+U2103,31-40,Other,Urban,3.55,Education,520,10.52,28,3
+U2104,31-40,Female,Rural,3.45,Gaming,170,17.77,99,10
+U2105,50+,Female,Semi-Urban,5.52,Social Media,132,6.83,86,9
+U2106,15-20,Female,Urban,3.75,Gaming,255,16.18,39,6
+U2107,50+,Female,Urban,4.7,Education,604,8.01,93,2
+U2108,31-40,Male,Urban,3.99,Gaming,323,3.07,81,9
+U2109,31-40,Other,Semi-Urban,4.48,Shopping,335,14.73,77,4
+U2110,15-20,Female,Rural,3.49,Productivity,283,20.14,41,8
+U2111,41-50,Male,Urban,3.54,Education,209,7.72,86,10
+U2112,21-30,Other,Rural,3.27,Gaming,69,4.15,94,7
+U2113,31-40,Other,Rural,5.76,Social Media,549,14.27,67,3
+U2114,31-40,Male,Semi-Urban,4.76,Gaming,645,7.38,27,8
+U2115,41-50,Male,Urban,5.88,Social Media,575,14.68,92,4
+U2116,41-50,Female,Rural,6.04,Productivity,265,17.76,34,2
+U2117,50+,Other,Urban,3.81,Gaming,492,13.65,51,5
+U2118,50+,Other,Urban,5.82,Productivity,257,16.05,72,1
+U2119,21-30,Male,Semi-Urban,4.48,Education,512,16.08,86,8
+U2120,21-30,Other,Urban,4.26,Social Media,459,16.95,23,8
+U2121,15-20,Female,Urban,6.38,Shopping,51,12.23,49,3
+U2122,50+,Other,Rural,5.33,Education,372,15.9,32,1
+U2123,31-40,Male,Semi-Urban,3.97,Social Media,69,12.82,40,4
+U2124,50+,Male,Urban,5.23,Productivity,202,13.96,60,9
+U2125,31-40,Female,Rural,2.6,Streaming,468,27.26,38,9
+U2126,41-50,Female,Semi-Urban,4.87,Gaming,208,13.21,67,1
+U2127,50+,Other,Semi-Urban,2.25,Productivity,627,4.51,82,7
+U2128,41-50,Other,Rural,3.02,Social Media,162,11.01,39,6
+U2129,21-30,Male,Rural,5.38,Social Media,380,10.45,83,7
+U2130,21-30,Female,Rural,0.5,Social Media,554,10.68,56,7
+U2131,15-20,Female,Rural,7.2,Social Media,569,16.77,50,8
+U2132,50+,Female,Rural,5.75,Gaming,535,17.65,93,8
+U2133,41-50,Other,Urban,1.74,Education,113,11.47,37,10
+U2134,31-40,Female,Urban,8.1,Shopping,493,5.04,39,2
+U2135,21-30,Male,Semi-Urban,8.51,Streaming,372,12.5,30,4
+U2136,21-30,Male,Urban,4.23,Gaming,309,9.28,63,4
+U2137,31-40,Other,Urban,3.11,Social Media,292,13.05,83,10
+U2138,41-50,Other,Urban,7.03,Gaming,195,11.4,53,8
+U2139,41-50,Female,Rural,3.98,Productivity,322,18.08,84,3
+U2140,50+,Other,Semi-Urban,4.74,Shopping,538,13.37,74,3
+U2141,50+,Male,Semi-Urban,6.33,Social Media,609,9.3,93,2
+U2142,15-20,Female,Semi-Urban,4.27,Streaming,255,5.07,20,1
+U2143,21-30,Male,Semi-Urban,4.14,Social Media,199,11.76,57,8
+U2144,50+,Female,Urban,2.59,Shopping,627,11.78,28,9
+U2145,41-50,Other,Urban,3.55,Streaming,674,10.69,90,9
+U2146,31-40,Female,Rural,4.11,Shopping,477,15.88,36,8
+U2147,41-50,Female,Semi-Urban,2.64,Streaming,719,5.09,71,5
+U2148,21-30,Male,Urban,2.78,Education,531,8.19,37,1
+U2149,41-50,Male,Urban,4.55,Education,556,12.26,82,9
+U2150,15-20,Female,Rural,1.73,Gaming,408,9.2,52,6
+U2151,21-30,Other,Rural,3.18,Gaming,230,10.22,23,7
+U2152,31-40,Other,Rural,7.42,Streaming,648,11.7,94,8
+U2153,15-20,Male,Urban,3.98,Social Media,279,15.43,71,5
+U2154,21-30,Other,Urban,3.79,Productivity,438,11.5,28,6
+U2155,31-40,Male,Rural,3.98,Productivity,630,2.15,83,7
+U2156,15-20,Other,Semi-Urban,4.0,Social Media,154,8.99,49,7
+U2157,15-20,Female,Rural,5.36,Social Media,142,14.48,27,2
+U2158,21-30,Male,Rural,5.26,Education,166,15.81,24,1
+U2159,50+,Male,Rural,3.91,Productivity,525,16.09,95,8
+U2160,15-20,Female,Rural,4.18,Streaming,707,17.51,82,5
+U2161,15-20,Male,Urban,6.47,Shopping,179,12.59,20,10
+U2162,31-40,Other,Semi-Urban,2.23,Gaming,372,13.32,34,2
+U2163,41-50,Other,Rural,4.41,Shopping,609,6.93,57,3
+U2164,21-30,Male,Semi-Urban,4.7,Education,350,1.13,61,6
+U2165,21-30,Other,Semi-Urban,3.33,Productivity,561,4.91,65,10
+U2166,50+,Male,Semi-Urban,4.33,Social Media,318,8.49,72,6
+U2167,50+,Female,Rural,3.13,Productivity,518,5.2,45,8
+U2168,21-30,Male,Urban,5.46,Streaming,521,10.54,80,5
+U2169,50+,Female,Rural,2.49,Education,641,9.69,86,5
+U2170,31-40,Other,Semi-Urban,6.09,Social Media,281,16.69,73,7
+U2171,21-30,Female,Semi-Urban,4.39,Shopping,106,7.15,41,10
+U2172,50+,Other,Urban,3.83,Streaming,676,12.7,45,5
+U2173,21-30,Male,Rural,2.99,Shopping,421,9.9,79,9
+U2174,41-50,Other,Semi-Urban,6.05,Gaming,441,6.97,58,6
+U2175,15-20,Male,Urban,3.52,Education,202,8.36,55,7
+U2176,21-30,Male,Semi-Urban,2.75,Streaming,230,1.74,40,8
+U2177,15-20,Female,Urban,6.08,Streaming,246,15.74,60,5
+U2178,50+,Female,Urban,3.14,Shopping,405,19.01,67,4
+U2179,15-20,Female,Rural,4.36,Social Media,615,10.66,45,8
+U2180,21-30,Female,Semi-Urban,5.73,Gaming,40,12.15,82,10
+U2181,41-50,Other,Rural,4.74,Shopping,41,10.52,96,9
+U2182,50+,Other,Semi-Urban,7.1,Streaming,619,7.9,55,1
+U2183,21-30,Other,Rural,3.25,Education,464,15.52,43,3
+U2184,50+,Male,Semi-Urban,4.18,Streaming,713,13.6,40,4
+U2185,31-40,Other,Rural,4.3,Productivity,637,1.0,37,7
+U2186,15-20,Other,Urban,5.43,Education,402,6.83,34,6
+U2187,31-40,Other,Semi-Urban,6.43,Education,302,1.73,98,10
+U2188,21-30,Female,Semi-Urban,4.61,Streaming,605,19.78,25,10
+U2189,41-50,Other,Urban,4.29,Social Media,538,11.14,62,1
+U2190,50+,Male,Rural,2.28,Education,161,13.2,50,4
+U2191,15-20,Female,Semi-Urban,4.67,Productivity,348,10.23,47,6
+U2192,50+,Male,Semi-Urban,3.52,Shopping,650,17.51,27,3
+U2193,21-30,Other,Rural,5.43,Social Media,197,16.3,48,2
+U2194,50+,Female,Urban,3.89,Social Media,426,10.92,40,2
+U2195,15-20,Male,Rural,4.14,Social Media,209,20.59,77,10
+U2196,21-30,Other,Rural,2.31,Education,87,12.93,79,4
+U2197,50+,Male,Rural,1.78,Social Media,509,4.7,69,1
+U2198,41-50,Male,Semi-Urban,7.29,Streaming,620,12.5,50,10
+U2199,21-30,Male,Urban,4.69,Social Media,489,14.59,66,2
+U2200,21-30,Other,Urban,5.11,Productivity,90,11.33,53,10
+U2201,41-50,Other,Rural,3.13,Gaming,398,9.94,21,2
+U2202,31-40,Male,Semi-Urban,5.81,Productivity,150,20.82,86,4
+U2203,15-20,Female,Rural,5.54,Education,575,6.07,91,4
+U2204,31-40,Female,Semi-Urban,3.3,Social Media,611,1.0,71,1
+U2205,50+,Other,Semi-Urban,2.91,Social Media,46,20.1,26,7
+U2206,41-50,Other,Semi-Urban,3.4,Streaming,525,5.87,95,7
+U2207,31-40,Other,Semi-Urban,4.46,Shopping,526,10.57,38,10
+U2208,21-30,Other,Urban,4.75,Social Media,534,10.11,34,10
+U2209,50+,Other,Semi-Urban,4.56,Productivity,561,18.16,97,10
+U2210,50+,Female,Semi-Urban,6.45,Education,344,19.17,67,1
+U2211,31-40,Other,Rural,3.43,Gaming,98,5.54,33,8
+U2212,31-40,Male,Rural,2.87,Social Media,190,18.78,22,10
+U2213,41-50,Male,Urban,4.5,Gaming,643,18.69,69,7
+U2214,15-20,Female,Rural,1.96,Social Media,174,12.1,73,7
+U2215,31-40,Male,Semi-Urban,5.54,Education,598,16.66,25,6
+U2216,31-40,Female,Rural,4.65,Shopping,624,17.16,68,4
+U2217,21-30,Female,Urban,3.99,Productivity,414,10.74,42,8
+U2218,50+,Male,Rural,3.91,Education,298,11.21,97,2
+U2219,15-20,Other,Rural,5.86,Gaming,483,14.95,97,7
+U2220,21-30,Male,Urban,5.82,Social Media,547,3.86,39,3
+U2221,41-50,Male,Urban,4.13,Gaming,379,10.23,96,3
+U2222,41-50,Female,Semi-Urban,5.39,Productivity,139,6.0,79,7
+U2223,31-40,Male,Rural,5.8,Education,512,19.12,64,3
+U2224,31-40,Female,Semi-Urban,5.0,Gaming,436,10.17,80,5
+U2225,41-50,Other,Rural,4.19,Gaming,679,13.38,75,8
+U2226,31-40,Other,Rural,5.07,Productivity,80,10.91,21,4
+U2227,15-20,Other,Semi-Urban,2.94,Social Media,432,10.58,64,7
+U2228,31-40,Male,Rural,4.61,Gaming,592,13.05,59,7
+U2229,50+,Female,Rural,4.15,Productivity,505,8.35,43,2
+U2230,31-40,Other,Rural,3.92,Social Media,116,11.01,48,8
+U2231,21-30,Female,Urban,1.91,Shopping,97,10.97,86,10
+U2232,15-20,Female,Semi-Urban,2.96,Social Media,625,9.88,87,10
+U2233,21-30,Other,Urban,3.77,Shopping,71,13.96,85,9
+U2234,21-30,Other,Semi-Urban,5.84,Education,86,9.77,73,6
+U2235,50+,Female,Semi-Urban,4.93,Productivity,225,20.06,72,5
+U2236,15-20,Other,Rural,5.91,Social Media,707,15.14,98,1
+U2237,15-20,Female,Semi-Urban,6.36,Shopping,91,5.25,68,1
+U2238,15-20,Female,Urban,4.99,Shopping,292,14.75,51,9
+U2239,15-20,Other,Urban,4.71,Education,141,8.55,80,4
+U2240,15-20,Male,Urban,3.04,Streaming,207,12.68,61,1
+U2241,50+,Other,Semi-Urban,7.48,Productivity,55,8.34,20,10
+U2242,31-40,Male,Urban,2.37,Streaming,439,1.03,82,3
+U2243,21-30,Female,Semi-Urban,4.68,Social Media,560,11.89,54,6
+U2244,15-20,Female,Urban,5.75,Productivity,346,4.83,70,8
+U2245,31-40,Male,Urban,5.77,Education,561,14.1,90,10
+U2246,31-40,Female,Semi-Urban,2.77,Social Media,135,12.87,64,2
+U2247,21-30,Male,Urban,3.87,Productivity,493,8.98,96,8
+U2248,50+,Male,Rural,3.3,Productivity,275,21.13,84,1
+U2249,41-50,Female,Semi-Urban,1.53,Streaming,110,5.8,33,2
+U2250,41-50,Male,Semi-Urban,4.7,Social Media,691,8.88,22,8
+U2251,31-40,Other,Semi-Urban,3.42,Education,425,6.4,43,7
+U2252,21-30,Other,Rural,6.76,Education,551,22.21,84,5
+U2253,41-50,Female,Semi-Urban,5.42,Social Media,293,18.76,67,10
+U2254,31-40,Female,Urban,4.56,Social Media,690,4.89,29,2
+U2255,50+,Male,Urban,3.79,Shopping,303,7.87,32,9
+U2256,41-50,Male,Urban,4.67,Gaming,201,8.04,92,5
+U2257,31-40,Male,Semi-Urban,4.12,Streaming,294,9.25,33,8
+U2258,31-40,Male,Urban,4.6,Social Media,55,6.79,29,4
+U2259,15-20,Other,Semi-Urban,7.35,Social Media,498,8.97,59,9
+U2260,50+,Other,Urban,2.9,Gaming,505,17.02,42,10
+U2261,15-20,Female,Rural,4.25,Gaming,385,21.73,74,7
+U2262,21-30,Male,Rural,5.56,Productivity,55,4.28,82,2
+U2263,15-20,Male,Rural,3.9,Education,63,6.79,90,3
+U2264,15-20,Female,Rural,6.87,Streaming,293,13.07,61,2
+U2265,41-50,Male,Semi-Urban,5.52,Productivity,167,4.1,85,5
+U2266,31-40,Male,Urban,3.42,Social Media,595,13.2,98,2
+U2267,50+,Male,Rural,4.81,Gaming,491,14.7,92,5
+U2268,15-20,Male,Semi-Urban,3.44,Shopping,197,15.5,66,9
+U2269,50+,Male,Rural,3.31,Education,660,14.56,71,2
+U2270,15-20,Female,Rural,4.29,Productivity,684,9.32,37,9
+U2271,21-30,Male,Semi-Urban,6.4,Shopping,110,11.09,98,7
+U2272,15-20,Female,Semi-Urban,5.62,Education,436,6.1,37,7
+U2273,41-50,Male,Urban,4.47,Shopping,603,14.32,43,5
+U2274,31-40,Other,Urban,5.67,Gaming,75,20.02,42,8
+U2275,21-30,Other,Rural,4.9,Productivity,628,14.31,31,7
+U2276,15-20,Other,Rural,2.75,Productivity,640,8.52,42,6
+U2277,50+,Other,Urban,4.28,Education,82,16.97,40,2
+U2278,21-30,Female,Urban,4.39,Shopping,505,23.83,83,6
+U2279,21-30,Female,Semi-Urban,5.64,Gaming,621,13.22,91,2
+U2280,15-20,Male,Urban,3.65,Social Media,45,14.77,53,1
+U2281,21-30,Other,Urban,3.13,Productivity,389,15.39,21,9
+U2282,50+,Female,Rural,4.43,Social Media,516,3.98,88,5
+U2283,21-30,Male,Urban,3.53,Gaming,531,9.94,50,10
+U2284,50+,Male,Rural,4.01,Productivity,170,9.43,87,10
+U2285,15-20,Female,Urban,4.38,Productivity,649,16.17,89,4
+U2286,31-40,Other,Semi-Urban,3.93,Shopping,476,15.59,38,8
+U2287,21-30,Male,Urban,5.94,Social Media,319,11.4,91,5
+U2288,31-40,Other,Urban,6.62,Shopping,238,9.13,32,7
+U2289,50+,Other,Urban,5.79,Streaming,504,3.57,84,3
+U2290,21-30,Other,Rural,1.84,Social Media,442,11.92,25,8
+U2291,41-50,Male,Semi-Urban,3.54,Social Media,706,7.23,90,8
+U2292,31-40,Other,Urban,4.23,Streaming,456,6.61,46,3
+U2293,21-30,Male,Rural,1.73,Gaming,400,16.63,98,9
+U2294,31-40,Other,Semi-Urban,3.19,Gaming,693,16.11,71,8
+U2295,21-30,Male,Rural,4.21,Productivity,319,9.56,67,1
+U2296,15-20,Other,Rural,3.83,Education,461,4.15,98,8
+U2297,31-40,Female,Semi-Urban,4.51,Shopping,297,7.87,87,4
+U2298,41-50,Other,Urban,2.43,Education,180,16.97,63,6
+U2299,41-50,Other,Rural,3.81,Productivity,284,14.34,36,10
+U2300,50+,Male,Rural,4.73,Education,382,9.64,57,9
+U2301,21-30,Male,Urban,4.52,Social Media,406,12.29,29,5
+U2302,31-40,Other,Urban,5.17,Social Media,682,1.63,73,7
+U2303,50+,Female,Semi-Urban,5.08,Streaming,387,1.25,25,1
+U2304,31-40,Female,Semi-Urban,3.89,Streaming,637,21.89,25,9
+U2305,21-30,Male,Semi-Urban,4.68,Productivity,399,14.53,71,6
+U2306,41-50,Female,Urban,3.3,Productivity,256,12.01,34,4
+U2307,15-20,Other,Rural,4.09,Productivity,332,10.02,87,6
+U2308,41-50,Male,Rural,2.92,Social Media,418,3.19,76,5
+U2309,50+,Other,Semi-Urban,6.1,Education,406,16.97,75,3
+U2310,15-20,Male,Urban,4.09,Shopping,147,6.32,26,7
+U2311,50+,Male,Rural,6.1,Productivity,34,15.52,70,3
+U2312,21-30,Male,Semi-Urban,4.97,Productivity,473,12.66,77,2
+U2313,15-20,Male,Rural,3.17,Social Media,381,11.74,83,4
+U2314,50+,Female,Rural,4.88,Shopping,562,5.49,45,7
+U2315,21-30,Other,Urban,5.71,Social Media,693,5.55,77,5
+U2316,41-50,Other,Urban,4.38,Shopping,669,13.95,50,9
+U2317,21-30,Other,Rural,4.61,Social Media,153,12.4,85,10
+U2318,31-40,Male,Semi-Urban,3.67,Education,687,12.24,32,7
+U2319,21-30,Female,Urban,4.54,Productivity,306,13.43,37,9
+U2320,21-30,Other,Rural,4.86,Gaming,423,2.32,94,9
+U2321,31-40,Female,Urban,3.63,Gaming,693,17.08,32,2
+U2322,50+,Male,Urban,2.88,Productivity,389,10.22,43,1
+U2323,50+,Other,Urban,6.43,Productivity,652,17.85,76,4
+U2324,21-30,Female,Rural,5.41,Productivity,498,1.96,48,4
+U2325,31-40,Male,Semi-Urban,3.68,Productivity,657,14.85,75,2
+U2326,31-40,Female,Semi-Urban,4.83,Shopping,86,14.8,73,3
+U2327,41-50,Other,Semi-Urban,2.28,Education,280,4.57,24,3
+U2328,50+,Other,Urban,1.53,Gaming,179,8.8,54,5
+U2329,15-20,Male,Rural,6.13,Streaming,481,6.7,38,1
+U2330,50+,Male,Urban,4.84,Gaming,191,16.32,74,9
+U2331,50+,Male,Semi-Urban,4.43,Gaming,149,13.54,96,8
+U2332,41-50,Female,Semi-Urban,4.85,Social Media,611,19.99,88,8
+U2333,15-20,Female,Rural,9.34,Productivity,380,13.01,63,3
+U2334,41-50,Female,Urban,5.8,Productivity,128,15.66,97,2
+U2335,15-20,Male,Semi-Urban,2.93,Productivity,196,17.86,57,1
+U2336,21-30,Other,Rural,1.98,Social Media,692,14.77,81,6
+U2337,15-20,Other,Urban,6.08,Education,543,10.08,41,10
+U2338,41-50,Female,Urban,5.78,Education,693,9.15,92,1
+U2339,50+,Female,Semi-Urban,5.36,Streaming,430,11.6,59,5
+U2340,15-20,Other,Semi-Urban,3.28,Education,394,15.98,45,9
+U2341,15-20,Other,Urban,5.04,Education,606,8.17,24,9
+U2342,31-40,Female,Urban,3.41,Productivity,355,15.26,73,4
+U2343,50+,Female,Semi-Urban,5.49,Shopping,610,13.61,68,7
+U2344,21-30,Other,Urban,5.97,Gaming,662,5.73,22,7
+U2345,41-50,Male,Semi-Urban,3.68,Education,650,15.02,57,4
+U2346,21-30,Female,Urban,6.2,Education,276,12.71,33,5
+U2347,50+,Other,Semi-Urban,4.67,Social Media,463,9.25,66,9
+U2348,15-20,Other,Rural,5.24,Streaming,122,12.64,33,7
+U2349,15-20,Other,Semi-Urban,2.54,Shopping,297,9.44,94,7
+U2350,50+,Other,Semi-Urban,4.85,Social Media,644,13.24,92,10
+U2351,15-20,Male,Rural,3.49,Productivity,653,11.16,57,7
+U2352,15-20,Other,Urban,5.21,Gaming,350,4.35,83,9
+U2353,15-20,Female,Rural,6.7,Streaming,91,11.31,63,5
+U2354,41-50,Male,Semi-Urban,4.93,Social Media,329,9.79,89,6
+U2355,41-50,Other,Urban,3.15,Education,432,15.18,84,3
+U2356,31-40,Male,Rural,5.44,Education,677,16.4,44,1
+U2357,21-30,Female,Urban,5.1,Streaming,596,9.45,35,2
+U2358,50+,Other,Urban,7.59,Education,649,8.05,34,8
+U2359,50+,Female,Rural,4.88,Social Media,332,3.6,22,1
+U2360,50+,Other,Urban,3.62,Social Media,282,7.93,86,10
+U2361,31-40,Other,Rural,5.66,Education,507,10.38,56,7
+U2362,41-50,Other,Semi-Urban,4.31,Education,398,5.3,74,5
+U2363,31-40,Other,Urban,4.62,Productivity,708,16.47,57,6
+U2364,50+,Other,Semi-Urban,3.11,Gaming,189,13.31,82,8
+U2365,21-30,Male,Semi-Urban,4.32,Streaming,195,11.4,20,4
+U2366,15-20,Other,Urban,4.55,Social Media,234,11.92,90,6
+U2367,41-50,Other,Rural,4.31,Streaming,296,13.53,38,3
+U2368,41-50,Male,Urban,3.61,Productivity,167,15.17,71,7
+U2369,31-40,Male,Semi-Urban,4.93,Social Media,397,16.05,49,2
+U2370,41-50,Male,Semi-Urban,3.11,Productivity,472,10.45,74,8
+U2371,50+,Male,Rural,2.76,Productivity,596,11.29,33,7
+U2372,50+,Male,Urban,5.56,Shopping,46,12.86,32,8
+U2373,31-40,Male,Semi-Urban,5.43,Education,97,11.09,46,2
+U2374,50+,Other,Semi-Urban,2.54,Shopping,162,16.36,28,3
+U2375,21-30,Other,Semi-Urban,1.76,Streaming,459,18.14,60,4
+U2376,31-40,Female,Rural,2.99,Streaming,337,13.72,67,9
+U2377,21-30,Other,Semi-Urban,4.31,Education,679,7.46,31,5
+U2378,15-20,Other,Semi-Urban,6.23,Shopping,203,14.54,29,6
+U2379,21-30,Male,Urban,4.27,Streaming,441,13.92,25,1
+U2380,15-20,Male,Urban,3.35,Shopping,126,7.04,53,4
+U2381,15-20,Other,Semi-Urban,4.72,Education,712,13.91,71,4
+U2382,21-30,Female,Semi-Urban,4.33,Social Media,183,9.28,60,10
+U2383,31-40,Male,Urban,2.43,Productivity,271,15.73,25,8
+U2384,50+,Other,Rural,2.44,Productivity,333,14.5,21,8
+U2385,50+,Other,Rural,2.48,Shopping,314,13.11,34,10
+U2386,15-20,Female,Rural,8.22,Streaming,56,12.19,36,6
+U2387,15-20,Female,Rural,5.79,Shopping,431,1.33,35,8
+U2388,31-40,Male,Rural,3.61,Shopping,389,5.93,47,9
+U2389,41-50,Female,Rural,6.16,Gaming,89,11.35,91,5
+U2390,21-30,Other,Rural,3.65,Productivity,231,19.6,29,1
+U2391,15-20,Other,Rural,6.11,Education,610,14.82,29,1
+U2392,50+,Female,Urban,4.62,Shopping,399,21.07,29,2
+U2393,31-40,Female,Rural,3.51,Gaming,562,12.41,92,2
+U2394,21-30,Female,Rural,5.52,Gaming,181,11.85,47,5
+U2395,31-40,Female,Rural,4.71,Productivity,131,19.13,43,7
+U2396,21-30,Male,Semi-Urban,5.1,Productivity,636,11.2,38,7
+U2397,21-30,Female,Urban,4.82,Productivity,475,7.07,87,4
+U2398,15-20,Male,Urban,4.81,Education,258,13.58,75,4
+U2399,31-40,Other,Urban,5.7,Gaming,154,17.61,86,10
+U2400,31-40,Female,Rural,8.38,Streaming,265,7.87,61,3
+U2401,50+,Male,Rural,6.37,Education,191,14.95,31,2
+U2402,50+,Female,Semi-Urban,4.83,Social Media,583,11.53,37,3
+U2403,15-20,Other,Urban,4.03,Shopping,382,14.26,42,8
+U2404,15-20,Other,Rural,4.2,Productivity,97,13.57,25,1
+U2405,41-50,Other,Urban,2.62,Gaming,202,9.93,72,4
+U2406,50+,Female,Semi-Urban,5.5,Shopping,666,11.47,61,7
+U2407,21-30,Female,Semi-Urban,2.98,Education,711,10.23,85,5
+U2408,31-40,Male,Semi-Urban,3.94,Social Media,588,12.59,49,2
+U2409,15-20,Other,Urban,5.51,Education,290,7.77,28,1
+U2410,31-40,Female,Rural,4.14,Education,246,8.96,61,6
+U2411,31-40,Other,Rural,3.76,Streaming,153,9.93,53,5
+U2412,41-50,Other,Semi-Urban,2.7,Shopping,191,13.96,59,3
+U2413,50+,Male,Rural,6.31,Streaming,230,4.92,36,9
+U2414,15-20,Male,Semi-Urban,3.25,Education,483,11.46,48,3
+U2415,31-40,Male,Urban,3.62,Social Media,431,8.46,69,2
+U2416,15-20,Male,Semi-Urban,1.81,Gaming,491,9.94,95,5
+U2417,21-30,Other,Urban,4.47,Gaming,304,8.7,68,9
+U2418,41-50,Male,Semi-Urban,4.0,Shopping,235,12.97,92,8
+U2419,21-30,Male,Rural,4.77,Productivity,69,11.21,80,6
+U2420,15-20,Male,Rural,2.74,Productivity,302,15.56,65,3
+U2421,15-20,Male,Semi-Urban,5.6,Gaming,122,14.01,65,6
+U2422,50+,Other,Rural,1.74,Education,71,4.31,36,5
+U2423,31-40,Male,Rural,4.36,Education,494,7.2,85,1
+U2424,31-40,Other,Rural,4.67,Streaming,408,11.13,24,5
+U2425,21-30,Female,Urban,4.59,Shopping,136,11.79,73,7
+U2426,41-50,Other,Rural,4.74,Streaming,357,7.64,35,9
+U2427,31-40,Other,Urban,5.68,Productivity,94,18.52,26,1
+U2428,50+,Male,Semi-Urban,6.49,Gaming,394,16.32,27,3
+U2429,21-30,Female,Rural,4.27,Education,513,3.78,91,8
+U2430,21-30,Female,Rural,3.05,Gaming,676,13.73,57,6
+U2431,50+,Female,Rural,5.34,Social Media,53,11.77,73,5
+U2432,41-50,Female,Semi-Urban,4.08,Gaming,569,18.22,95,10
+U2433,50+,Other,Urban,6.4,Social Media,91,4.15,34,2
+U2434,41-50,Female,Urban,3.6,Streaming,520,22.3,69,3
+U2435,50+,Other,Rural,3.21,Streaming,302,7.79,75,2
+U2436,50+,Other,Semi-Urban,4.72,Productivity,258,13.89,28,1
+U2437,15-20,Other,Semi-Urban,1.89,Gaming,49,8.97,27,7
+U2438,21-30,Female,Semi-Urban,3.8,Gaming,32,10.12,38,3
+U2439,50+,Male,Semi-Urban,4.01,Social Media,450,3.55,70,7
+U2440,50+,Male,Semi-Urban,4.83,Streaming,336,17.98,91,7
+U2441,31-40,Female,Urban,3.01,Social Media,461,10.65,76,8
+U2442,21-30,Male,Urban,3.18,Streaming,165,10.99,87,1
+U2443,31-40,Male,Urban,6.24,Social Media,544,23.56,50,5
+U2444,21-30,Other,Rural,4.48,Streaming,222,16.8,22,10
+U2445,31-40,Other,Semi-Urban,5.8,Social Media,614,8.66,62,9
+U2446,50+,Female,Rural,3.69,Streaming,444,8.95,48,7
+U2447,50+,Female,Semi-Urban,4.42,Shopping,147,13.3,29,1
+U2448,15-20,Male,Urban,4.82,Social Media,695,15.85,31,8
+U2449,31-40,Other,Rural,7.12,Gaming,238,20.76,65,3
+U2450,41-50,Female,Urban,4.17,Productivity,63,3.96,49,4
+U2451,15-20,Female,Semi-Urban,4.25,Shopping,678,15.64,51,4
+U2452,31-40,Female,Semi-Urban,6.15,Shopping,347,16.44,92,10
+U2453,31-40,Female,Semi-Urban,3.93,Social Media,149,8.05,66,8
+U2454,15-20,Female,Urban,4.93,Productivity,656,10.2,82,1
+U2455,50+,Female,Semi-Urban,6.02,Gaming,554,3.85,45,8
+U2456,31-40,Male,Urban,3.64,Shopping,610,9.5,22,9
+U2457,50+,Other,Rural,5.01,Gaming,118,13.16,42,9
+U2458,15-20,Other,Semi-Urban,7.12,Streaming,541,19.97,94,5
+U2459,50+,Female,Semi-Urban,5.88,Productivity,76,20.43,93,4
+U2460,21-30,Other,Semi-Urban,4.93,Education,551,6.85,69,4
+U2461,41-50,Other,Rural,4.16,Streaming,313,19.29,55,9
+U2462,31-40,Other,Semi-Urban,3.59,Productivity,406,2.25,32,8
+U2463,41-50,Female,Urban,3.02,Social Media,667,9.08,48,10
+U2464,50+,Female,Urban,6.76,Social Media,163,10.49,57,10
+U2465,31-40,Other,Semi-Urban,6.47,Gaming,696,13.26,96,7
+U2466,50+,Other,Semi-Urban,3.51,Shopping,277,12.53,24,3
+U2467,21-30,Female,Rural,5.01,Education,681,13.83,39,4
+U2468,15-20,Male,Rural,4.67,Social Media,347,11.09,97,9
+U2469,31-40,Other,Rural,6.28,Productivity,465,16.8,33,8
+U2470,21-30,Male,Semi-Urban,5.07,Shopping,205,15.46,27,1
+U2471,21-30,Other,Rural,4.47,Shopping,715,10.55,67,3
+U2472,31-40,Male,Rural,3.69,Productivity,615,16.21,32,10
+U2473,50+,Male,Urban,5.01,Shopping,380,22.34,43,2
+U2474,21-30,Male,Rural,3.98,Social Media,172,8.63,98,2
+U2475,41-50,Female,Urban,4.83,Productivity,427,20.38,84,8
+U2476,21-30,Male,Urban,4.39,Productivity,653,9.08,53,6
+U2477,50+,Male,Rural,3.94,Gaming,672,19.05,70,6
+U2478,50+,Male,Urban,3.04,Education,398,9.27,22,4
+U2479,41-50,Other,Semi-Urban,5.27,Gaming,530,15.83,97,1
+U2480,21-30,Male,Semi-Urban,4.56,Education,651,12.9,77,7
+U2481,50+,Other,Rural,7.18,Productivity,399,3.07,91,8
+U2482,31-40,Male,Semi-Urban,2.95,Shopping,608,21.58,74,2
+U2483,15-20,Male,Urban,5.44,Education,411,7.52,99,2
+U2484,15-20,Female,Semi-Urban,4.38,Productivity,115,5.65,61,1
+U2485,15-20,Other,Rural,7.65,Productivity,489,8.8,40,4
+U2486,21-30,Male,Rural,5.32,Gaming,354,24.66,29,6
+U2487,41-50,Other,Urban,4.99,Gaming,551,5.73,76,5
+U2488,50+,Other,Rural,4.38,Shopping,518,12.89,44,4
+U2489,31-40,Female,Semi-Urban,3.45,Streaming,426,6.38,75,4
+U2490,31-40,Female,Rural,4.97,Social Media,384,7.24,57,10
+U2491,21-30,Female,Urban,2.43,Streaming,317,4.0,80,7
+U2492,15-20,Female,Rural,2.5,Streaming,488,13.58,66,7
+U2493,21-30,Female,Semi-Urban,6.02,Shopping,653,11.19,73,2
+U2494,41-50,Female,Urban,1.86,Education,565,6.34,65,7
+U2495,41-50,Female,Semi-Urban,4.02,Shopping,320,16.37,87,2
+U2496,50+,Female,Urban,2.93,Shopping,197,16.89,23,4
+U2497,50+,Male,Rural,3.9,Productivity,650,14.04,85,1
+U2498,41-50,Other,Urban,4.78,Productivity,457,17.85,62,5
+U2499,41-50,Female,Urban,5.98,Productivity,519,10.25,81,1
+U2500,41-50,Female,Rural,6.33,Social Media,384,13.61,23,4
+U2501,21-30,Other,Semi-Urban,3.12,Education,225,10.27,84,9
+U2502,41-50,Male,Rural,3.8,Education,574,4.46,81,8
+U2503,31-40,Other,Urban,10.58,Productivity,688,13.1,21,6
+U2504,15-20,Other,Rural,4.12,Streaming,40,12.79,28,8
+U2505,41-50,Female,Urban,3.18,Social Media,611,11.85,76,5
+U2506,15-20,Other,Rural,3.43,Streaming,285,13.87,64,7
+U2507,21-30,Other,Rural,4.13,Gaming,425,19.06,37,8
+U2508,15-20,Female,Semi-Urban,3.91,Education,438,10.98,67,7
+U2509,21-30,Female,Urban,4.15,Education,391,7.21,61,4
+U2510,31-40,Female,Semi-Urban,4.47,Streaming,288,10.76,60,5
+U2511,21-30,Female,Urban,4.46,Social Media,32,11.32,94,10
+U2512,21-30,Other,Rural,3.07,Education,113,16.92,77,6
+U2513,50+,Other,Urban,5.05,Streaming,185,12.53,61,6
+U2514,41-50,Male,Semi-Urban,4.68,Shopping,692,6.26,54,9
+U2515,41-50,Male,Semi-Urban,5.24,Shopping,205,16.03,57,10
+U2516,31-40,Other,Semi-Urban,1.93,Social Media,501,15.23,86,2
+U2517,31-40,Male,Urban,4.74,Streaming,648,12.54,60,6
+U2518,41-50,Other,Semi-Urban,1.52,Shopping,453,16.74,69,3
+U2519,50+,Male,Semi-Urban,4.24,Social Media,163,17.58,91,2
+U2520,41-50,Female,Semi-Urban,5.49,Productivity,409,10.11,98,6
+U2521,50+,Male,Rural,6.07,Social Media,696,7.5,64,4
+U2522,31-40,Female,Rural,5.0,Gaming,306,11.94,90,5
+U2523,15-20,Female,Urban,5.51,Productivity,265,14.68,38,5
+U2524,31-40,Female,Urban,4.05,Streaming,42,11.47,36,3
+U2525,31-40,Female,Semi-Urban,3.74,Productivity,371,7.06,84,4
+U2526,21-30,Male,Rural,8.54,Productivity,64,12.81,96,3
+U2527,21-30,Other,Semi-Urban,5.74,Streaming,588,1.83,75,7
+U2528,21-30,Female,Semi-Urban,2.74,Streaming,243,10.38,60,1
+U2529,21-30,Male,Rural,1.9,Shopping,441,16.26,61,6
+U2530,50+,Female,Rural,3.8,Gaming,434,16.53,25,4
+U2531,41-50,Male,Rural,6.29,Streaming,523,1.0,88,1
+U2532,15-20,Male,Urban,4.57,Education,687,11.04,94,1
+U2533,31-40,Male,Urban,1.16,Education,188,15.0,92,5
+U2534,50+,Other,Semi-Urban,4.23,Gaming,666,6.12,59,5
+U2535,15-20,Male,Urban,4.5,Social Media,139,10.14,60,10
+U2536,50+,Male,Rural,0.88,Social Media,578,18.04,28,7
+U2537,50+,Other,Rural,4.54,Education,555,9.58,27,4
+U2538,31-40,Other,Urban,2.98,Streaming,376,19.99,63,9
+U2539,41-50,Male,Semi-Urban,1.75,Gaming,665,8.29,77,4
+U2540,21-30,Other,Semi-Urban,6.91,Social Media,308,19.05,86,7
+U2541,41-50,Female,Urban,2.91,Social Media,508,12.17,32,5
+U2542,31-40,Female,Semi-Urban,3.5,Productivity,140,7.61,38,5
+U2543,31-40,Other,Semi-Urban,3.48,Education,665,19.07,68,6
+U2544,31-40,Other,Semi-Urban,4.5,Streaming,460,5.97,99,8
+U2545,15-20,Male,Rural,7.15,Gaming,571,8.02,97,5
+U2546,41-50,Other,Rural,2.71,Social Media,144,14.45,49,3
+U2547,41-50,Male,Urban,4.04,Productivity,119,12.4,85,6
+U2548,50+,Female,Rural,4.68,Education,241,13.37,96,2
+U2549,50+,Other,Semi-Urban,3.2,Education,579,10.16,78,8
+U2550,50+,Male,Rural,4.02,Gaming,624,6.0,72,8
+U2551,31-40,Male,Urban,5.39,Social Media,568,8.74,71,3
+U2552,41-50,Female,Rural,3.37,Gaming,389,18.6,50,8
+U2553,31-40,Other,Semi-Urban,3.99,Gaming,515,5.32,34,9
+U2554,15-20,Female,Semi-Urban,3.85,Shopping,401,20.22,39,5
+U2555,50+,Male,Urban,4.34,Productivity,244,13.58,24,5
+U2556,31-40,Male,Rural,4.86,Education,44,9.02,26,6
+U2557,31-40,Other,Rural,5.38,Shopping,288,1.99,37,7
+U2558,15-20,Male,Rural,7.41,Streaming,492,2.65,75,3
+U2559,21-30,Other,Semi-Urban,0.51,Education,149,10.22,94,5
+U2560,41-50,Female,Urban,4.25,Education,157,9.61,64,1
+U2561,21-30,Other,Rural,2.45,Productivity,552,12.59,47,10
+U2562,50+,Other,Semi-Urban,3.92,Streaming,717,20.6,69,5
+U2563,31-40,Male,Semi-Urban,5.82,Social Media,674,14.69,21,4
+U2564,15-20,Male,Semi-Urban,6.3,Streaming,354,11.36,87,1
+U2565,15-20,Other,Rural,6.37,Social Media,349,18.08,96,7
+U2566,41-50,Male,Rural,6.35,Streaming,535,12.75,43,1
+U2567,21-30,Male,Rural,4.24,Gaming,555,20.0,67,8
+U2568,41-50,Male,Rural,6.6,Streaming,79,8.64,64,10
+U2569,31-40,Other,Rural,6.9,Shopping,613,6.26,77,2
+U2570,41-50,Male,Rural,4.71,Shopping,98,2.0,55,10
+U2571,15-20,Other,Rural,6.27,Productivity,420,11.47,21,5
+U2572,15-20,Male,Rural,4.56,Social Media,412,5.83,37,6
+U2573,50+,Female,Rural,6.62,Education,45,5.76,68,9
+U2574,50+,Male,Semi-Urban,4.26,Productivity,468,17.17,27,7
+U2575,31-40,Male,Rural,3.59,Shopping,597,3.39,77,6
+U2576,21-30,Other,Urban,2.82,Shopping,646,12.52,34,5
+U2577,41-50,Other,Semi-Urban,4.24,Social Media,161,11.58,36,6
+U2578,31-40,Male,Rural,4.63,Shopping,589,12.46,42,4
+U2579,50+,Female,Urban,3.08,Shopping,277,18.92,85,1
+U2580,41-50,Male,Rural,4.12,Social Media,302,7.87,89,9
+U2581,50+,Male,Urban,3.71,Shopping,652,18.92,46,5
+U2582,41-50,Female,Urban,2.88,Education,378,3.2,56,8
+U2583,21-30,Other,Urban,6.05,Gaming,513,15.25,68,7
+U2584,31-40,Male,Urban,6.32,Productivity,579,19.38,83,8
+U2585,41-50,Other,Semi-Urban,6.05,Education,386,1.0,53,1
+U2586,15-20,Other,Semi-Urban,4.37,Education,347,11.82,37,9
+U2587,15-20,Female,Urban,4.47,Gaming,662,11.42,83,1
+U2588,41-50,Female,Rural,2.91,Productivity,77,12.36,93,3
+U2589,41-50,Other,Urban,5.12,Education,39,20.56,63,8
+U2590,41-50,Male,Semi-Urban,4.75,Shopping,262,8.18,36,1
+U2591,15-20,Other,Rural,8.77,Gaming,65,6.08,78,1
+U2592,15-20,Male,Semi-Urban,6.13,Productivity,442,12.4,32,6
+U2593,41-50,Male,Semi-Urban,4.97,Streaming,491,17.62,71,5
+U2594,50+,Female,Rural,4.44,Social Media,33,14.79,79,6
+U2595,50+,Male,Urban,6.0,Shopping,73,12.17,61,3
+U2596,21-30,Male,Urban,3.13,Gaming,597,10.85,83,10
+U2597,31-40,Other,Urban,6.21,Social Media,583,1.97,85,10
+U2598,50+,Female,Urban,2.87,Streaming,284,14.93,53,6
+U2599,15-20,Male,Rural,3.66,Education,143,15.53,90,2
+U2600,50+,Male,Rural,1.74,Education,426,8.54,83,8
+U2601,21-30,Female,Rural,5.42,Productivity,203,9.68,52,6
+U2602,21-30,Other,Semi-Urban,4.87,Gaming,284,6.76,31,4
+U2603,31-40,Female,Rural,3.66,Gaming,495,16.34,95,4
+U2604,50+,Female,Urban,3.11,Productivity,306,10.17,38,7
+U2605,15-20,Male,Semi-Urban,6.57,Social Media,493,11.25,28,3
+U2606,15-20,Male,Urban,4.3,Education,531,15.15,93,3
+U2607,41-50,Other,Urban,3.35,Education,470,13.63,36,6
+U2608,15-20,Male,Rural,7.38,Gaming,98,14.82,69,9
+U2609,31-40,Male,Rural,3.51,Gaming,538,12.87,58,1
+U2610,31-40,Female,Urban,6.21,Productivity,355,12.99,60,5
+U2611,15-20,Male,Urban,2.77,Streaming,96,12.94,29,1
+U2612,15-20,Other,Semi-Urban,3.97,Social Media,333,14.26,31,1
+U2613,41-50,Female,Rural,5.25,Shopping,513,14.51,98,3
+U2614,15-20,Other,Semi-Urban,4.41,Streaming,577,5.88,34,3
+U2615,41-50,Female,Semi-Urban,4.87,Streaming,446,9.01,47,4
+U2616,41-50,Male,Semi-Urban,3.69,Gaming,188,10.98,23,3
+U2617,15-20,Female,Urban,2.1,Gaming,178,14.26,55,6
+U2618,21-30,Female,Semi-Urban,6.7,Gaming,56,19.99,84,4
+U2619,21-30,Male,Semi-Urban,3.78,Streaming,613,7.93,66,8
+U2620,41-50,Male,Urban,4.93,Social Media,277,16.39,58,1
+U2621,15-20,Other,Rural,5.55,Gaming,130,9.16,57,8
+U2622,21-30,Other,Rural,4.96,Education,125,18.85,63,1
+U2623,15-20,Male,Semi-Urban,3.44,Social Media,413,21.56,70,1
+U2624,15-20,Male,Urban,6.24,Education,311,3.26,45,7
+U2625,15-20,Male,Rural,5.27,Social Media,351,10.37,55,1
+U2626,50+,Female,Semi-Urban,4.8,Gaming,425,1.0,88,9
+U2627,15-20,Female,Semi-Urban,4.76,Shopping,307,3.55,20,8
+U2628,50+,Female,Urban,7.02,Productivity,558,3.86,72,1
+U2629,41-50,Male,Semi-Urban,3.4,Gaming,292,15.12,25,2
+U2630,21-30,Other,Rural,5.12,Streaming,648,14.18,56,2
+U2631,21-30,Male,Urban,3.71,Shopping,609,16.01,21,2
+U2632,21-30,Female,Rural,1.6,Streaming,669,15.04,88,6
+U2633,21-30,Female,Rural,1.56,Social Media,322,14.43,60,4
+U2634,21-30,Male,Rural,2.98,Streaming,323,12.56,70,8
+U2635,21-30,Male,Semi-Urban,3.51,Shopping,637,11.35,66,1
+U2636,21-30,Female,Semi-Urban,7.76,Shopping,424,17.1,32,10
+U2637,41-50,Female,Rural,5.55,Gaming,542,12.06,95,4
+U2638,15-20,Female,Rural,5.68,Education,209,14.63,88,10
+U2639,31-40,Male,Urban,3.54,Gaming,264,1.0,85,5
+U2640,50+,Female,Urban,4.59,Social Media,366,6.12,78,9
+U2641,31-40,Female,Semi-Urban,7.96,Streaming,37,16.9,87,5
+U2642,31-40,Other,Semi-Urban,2.68,Education,472,8.66,78,3
+U2643,15-20,Male,Urban,5.18,Productivity,568,5.02,29,4
+U2644,15-20,Other,Rural,6.92,Shopping,687,15.21,32,10
+U2645,15-20,Other,Semi-Urban,5.95,Education,120,12.01,21,7
+U2646,21-30,Female,Rural,7.2,Education,301,9.97,34,1
+U2647,41-50,Male,Urban,4.82,Gaming,34,19.55,65,6
+U2648,21-30,Female,Semi-Urban,5.41,Productivity,623,18.69,76,8
+U2649,41-50,Male,Semi-Urban,4.66,Shopping,248,11.06,29,1
+U2650,41-50,Other,Urban,5.3,Social Media,147,15.61,41,8
+U2651,31-40,Male,Semi-Urban,3.13,Social Media,622,1.0,98,7
+U2652,31-40,Female,Urban,5.69,Education,611,17.47,96,1
+U2653,41-50,Female,Semi-Urban,4.94,Education,144,6.57,27,9
+U2654,41-50,Female,Urban,4.59,Streaming,292,4.74,40,3
+U2655,21-30,Male,Semi-Urban,7.12,Productivity,335,3.07,41,2
+U2656,21-30,Other,Rural,4.1,Shopping,683,2.69,64,7
+U2657,31-40,Other,Rural,6.31,Education,451,17.4,59,3
+U2658,15-20,Male,Rural,6.46,Streaming,236,15.16,41,1
+U2659,41-50,Female,Semi-Urban,5.78,Productivity,652,8.17,49,10
+U2660,21-30,Other,Semi-Urban,3.05,Shopping,332,16.27,81,3
+U2661,31-40,Female,Rural,5.04,Social Media,141,9.03,92,6
+U2662,21-30,Male,Rural,7.44,Streaming,446,13.62,64,3
+U2663,41-50,Female,Urban,1.77,Productivity,584,9.59,54,5
+U2664,41-50,Other,Urban,4.22,Streaming,314,11.4,61,9
+U2665,50+,Other,Urban,6.24,Education,669,7.46,24,7
+U2666,15-20,Female,Rural,4.33,Gaming,214,8.2,46,2
+U2667,50+,Male,Rural,5.71,Social Media,250,14.72,89,1
+U2668,31-40,Female,Rural,6.61,Education,473,15.52,81,7
+U2669,21-30,Male,Urban,4.85,Education,146,9.93,51,4
+U2670,31-40,Female,Semi-Urban,5.26,Productivity,99,4.37,27,7
+U2671,41-50,Other,Rural,4.64,Streaming,99,24.36,37,6
+U2672,50+,Male,Semi-Urban,4.95,Social Media,651,12.18,97,7
+U2673,50+,Male,Semi-Urban,7.65,Education,456,13.56,34,4
+U2674,50+,Male,Semi-Urban,4.4,Productivity,673,5.69,45,3
+U2675,31-40,Other,Urban,3.97,Social Media,597,18.08,72,5
+U2676,41-50,Female,Semi-Urban,6.06,Streaming,472,18.84,63,3
+U2677,21-30,Other,Rural,3.24,Education,630,3.46,51,3
+U2678,21-30,Male,Urban,3.58,Shopping,166,11.49,47,4
+U2679,31-40,Female,Rural,3.59,Education,533,11.1,58,8
+U2680,50+,Other,Rural,4.12,Education,160,23.94,51,2
+U2681,15-20,Male,Urban,4.18,Social Media,247,19.22,96,4
+U2682,31-40,Male,Rural,5.55,Social Media,717,4.75,98,3
+U2683,31-40,Other,Rural,3.99,Social Media,200,8.36,37,7
+U2684,41-50,Other,Urban,5.61,Social Media,504,7.54,89,2
+U2685,21-30,Other,Rural,5.8,Productivity,641,13.86,30,1
+U2686,31-40,Male,Semi-Urban,3.52,Gaming,158,19.86,51,10
+U2687,31-40,Other,Rural,5.76,Productivity,86,12.55,39,1
+U2688,50+,Male,Semi-Urban,5.9,Education,210,14.51,59,6
+U2689,50+,Other,Rural,1.86,Productivity,275,8.68,27,3
+U2690,15-20,Male,Urban,4.94,Streaming,173,14.48,54,7
+U2691,41-50,Male,Urban,3.74,Shopping,80,9.64,88,8
+U2692,15-20,Female,Rural,6.45,Social Media,397,3.8,97,5
+U2693,50+,Other,Urban,3.73,Streaming,488,14.15,40,5
+U2694,21-30,Other,Rural,2.49,Shopping,247,11.95,43,2
+U2695,50+,Male,Urban,4.46,Streaming,645,6.51,36,8
+U2696,41-50,Male,Semi-Urban,3.15,Education,596,20.23,37,10
+U2697,50+,Male,Rural,5.77,Social Media,286,8.17,31,1
+U2698,41-50,Female,Semi-Urban,3.29,Streaming,185,15.05,35,10
+U2699,41-50,Female,Semi-Urban,4.47,Education,594,10.19,23,9
+U2700,41-50,Male,Rural,6.82,Social Media,471,19.72,53,1
+U2701,41-50,Other,Semi-Urban,6.15,Gaming,691,10.81,65,1
+U2702,41-50,Other,Rural,5.22,Education,54,3.63,94,1
+U2703,21-30,Female,Semi-Urban,4.31,Productivity,693,16.05,96,7
+U2704,15-20,Female,Rural,5.07,Social Media,565,19.7,50,4
+U2705,31-40,Male,Rural,5.53,Streaming,89,9.86,44,7
+U2706,15-20,Other,Urban,3.02,Shopping,496,15.39,93,5
+U2707,41-50,Male,Rural,5.78,Streaming,463,12.65,43,7
+U2708,21-30,Female,Rural,2.85,Productivity,95,10.09,84,10
+U2709,50+,Other,Semi-Urban,5.36,Productivity,594,16.2,44,7
+U2710,21-30,Other,Rural,2.84,Streaming,135,8.0,47,4
+U2711,41-50,Female,Urban,7.44,Shopping,125,12.16,55,2
+U2712,21-30,Male,Semi-Urban,5.65,Social Media,717,13.29,25,8
+U2713,21-30,Male,Semi-Urban,2.17,Education,580,13.11,85,2
+U2714,41-50,Other,Urban,4.5,Productivity,197,8.12,86,9
+U2715,21-30,Female,Semi-Urban,3.72,Productivity,71,22.3,91,5
+U2716,31-40,Other,Semi-Urban,3.54,Productivity,133,18.31,67,9
+U2717,31-40,Female,Semi-Urban,4.72,Shopping,233,16.95,89,9
+U2718,21-30,Male,Semi-Urban,3.11,Gaming,549,19.17,97,8
+U2719,50+,Female,Urban,5.64,Shopping,311,12.34,86,8
+U2720,41-50,Male,Urban,5.56,Social Media,72,10.14,67,4
+U2721,31-40,Female,Semi-Urban,5.03,Social Media,139,6.55,84,4
+U2722,50+,Other,Semi-Urban,4.47,Social Media,239,8.48,63,2
+U2723,21-30,Male,Urban,5.49,Social Media,78,6.93,82,4
+U2724,50+,Other,Urban,5.69,Social Media,144,9.36,65,4
+U2725,15-20,Other,Urban,5.18,Streaming,184,13.38,38,6
+U2726,31-40,Male,Semi-Urban,2.53,Productivity,678,16.57,83,3
+U2727,21-30,Male,Semi-Urban,3.32,Shopping,532,16.43,92,2
+U2728,41-50,Other,Rural,4.1,Streaming,708,6.14,90,8
+U2729,21-30,Other,Urban,2.29,Shopping,100,15.45,69,2
+U2730,41-50,Other,Semi-Urban,4.84,Gaming,548,17.72,82,8
+U2731,21-30,Other,Urban,6.62,Education,365,10.73,60,7
+U2732,50+,Male,Semi-Urban,6.38,Productivity,96,17.99,26,3
+U2733,50+,Male,Urban,5.61,Gaming,522,16.38,28,6
+U2734,50+,Other,Semi-Urban,5.59,Streaming,679,5.68,23,6
+U2735,15-20,Female,Rural,7.82,Education,242,22.96,68,10
+U2736,41-50,Female,Rural,5.77,Gaming,210,8.42,95,5
+U2737,50+,Male,Urban,5.89,Shopping,642,16.79,25,8
+U2738,15-20,Other,Semi-Urban,2.34,Education,628,16.61,40,5
+U2739,41-50,Other,Semi-Urban,6.5,Shopping,632,5.88,34,7
+U2740,21-30,Male,Urban,5.1,Gaming,277,12.89,86,6
+U2741,15-20,Female,Semi-Urban,4.38,Streaming,243,16.54,85,7
+U2742,31-40,Female,Urban,4.01,Shopping,388,5.83,75,9
+U2743,15-20,Female,Semi-Urban,3.68,Education,278,12.5,87,3
+U2744,15-20,Male,Urban,6.39,Gaming,667,16.96,51,10
+U2745,41-50,Female,Semi-Urban,4.46,Shopping,545,17.29,85,7
+U2746,21-30,Male,Urban,3.73,Streaming,117,10.01,48,10
+U2747,31-40,Male,Semi-Urban,3.34,Productivity,692,19.72,85,3
+U2748,50+,Other,Rural,4.76,Streaming,205,18.53,53,2
+U2749,50+,Female,Semi-Urban,3.96,Streaming,455,13.21,46,7
+U2750,15-20,Male,Urban,3.62,Productivity,632,8.71,79,4
+U2751,41-50,Female,Rural,2.43,Streaming,110,6.17,58,1
+U2752,41-50,Female,Semi-Urban,5.94,Productivity,167,13.89,63,6
+U2753,50+,Other,Rural,4.29,Productivity,462,19.32,55,6
+U2754,31-40,Female,Semi-Urban,2.87,Shopping,499,11.26,38,6
+U2755,21-30,Other,Rural,4.09,Shopping,379,7.7,64,2
+U2756,31-40,Male,Urban,5.32,Productivity,155,16.12,40,1
+U2757,21-30,Female,Semi-Urban,4.54,Gaming,338,12.87,42,3
+U2758,50+,Male,Semi-Urban,4.79,Education,259,14.58,46,2
+U2759,21-30,Female,Urban,4.56,Gaming,489,9.37,91,6
+U2760,41-50,Male,Rural,2.58,Productivity,374,10.15,38,6
+U2761,15-20,Female,Urban,5.92,Education,339,9.35,60,5
+U2762,15-20,Female,Urban,1.94,Shopping,49,14.5,45,10
+U2763,50+,Female,Rural,5.19,Education,590,10.3,47,10
+U2764,41-50,Female,Urban,5.42,Productivity,676,14.96,83,5
+U2765,31-40,Female,Semi-Urban,4.17,Shopping,570,8.89,87,9
+U2766,41-50,Female,Semi-Urban,5.03,Education,589,14.49,99,5
+U2767,15-20,Female,Semi-Urban,4.08,Education,506,15.52,70,10
+U2768,15-20,Female,Urban,5.05,Gaming,298,13.66,93,6
+U2769,41-50,Female,Semi-Urban,5.99,Education,32,16.59,67,4
+U2770,41-50,Male,Semi-Urban,3.31,Productivity,45,9.59,29,10
+U2771,15-20,Other,Semi-Urban,5.51,Social Media,635,15.46,92,1
+U2772,31-40,Female,Semi-Urban,7.04,Social Media,387,13.17,58,4
+U2773,50+,Other,Semi-Urban,4.9,Social Media,675,7.95,38,2
+U2774,50+,Female,Semi-Urban,3.75,Productivity,162,2.46,83,10
+U2775,41-50,Female,Urban,7.89,Social Media,341,3.53,38,3
+U2776,50+,Male,Semi-Urban,4.63,Gaming,511,1.0,95,7
+U2777,15-20,Male,Semi-Urban,4.85,Productivity,573,14.13,81,7
+U2778,15-20,Other,Rural,4.88,Shopping,334,10.38,32,1
+U2779,41-50,Male,Urban,5.17,Productivity,298,12.44,44,8
+U2780,41-50,Male,Urban,3.99,Productivity,443,11.1,61,7
+U2781,41-50,Other,Urban,4.78,Education,54,14.91,58,1
+U2782,31-40,Male,Urban,5.93,Education,345,15.05,49,8
+U2783,50+,Female,Semi-Urban,3.94,Education,600,12.21,24,2
+U2784,41-50,Other,Semi-Urban,3.87,Streaming,697,12.52,37,8
+U2785,21-30,Other,Rural,4.06,Gaming,305,12.72,40,3
+U2786,21-30,Female,Rural,2.85,Productivity,418,18.96,69,10
+U2787,15-20,Male,Urban,3.48,Productivity,473,1.98,25,7
+U2788,50+,Other,Rural,3.41,Education,456,8.65,69,6
+U2789,41-50,Other,Rural,4.5,Productivity,86,16.33,99,5
+U2790,21-30,Female,Urban,5.75,Shopping,595,17.54,85,10
+U2791,50+,Female,Urban,6.68,Productivity,397,14.14,20,2
+U2792,15-20,Male,Rural,4.59,Social Media,371,11.08,76,2
+U2793,31-40,Other,Semi-Urban,5.18,Shopping,333,21.31,49,1
+U2794,50+,Male,Rural,4.87,Shopping,403,12.89,77,9
+U2795,50+,Male,Rural,1.36,Productivity,141,12.15,71,8
+U2796,31-40,Female,Semi-Urban,2.78,Streaming,35,18.66,56,8
+U2797,50+,Other,Semi-Urban,5.64,Education,308,14.38,67,1
+U2798,15-20,Other,Urban,5.79,Gaming,411,16.7,20,5
+U2799,15-20,Other,Urban,5.75,Gaming,42,17.28,38,6
+U2800,31-40,Female,Rural,4.23,Social Media,332,10.14,65,2
+U2801,41-50,Female,Semi-Urban,1.51,Gaming,585,20.84,86,10
+U2802,21-30,Female,Urban,2.96,Gaming,646,1.0,21,5
+U2803,41-50,Female,Rural,3.19,Education,189,2.1,75,6
+U2804,50+,Female,Semi-Urban,5.44,Education,183,8.6,36,9
+U2805,21-30,Other,Rural,3.96,Streaming,210,9.88,98,10
+U2806,31-40,Male,Urban,7.04,Social Media,555,13.81,41,1
+U2807,31-40,Other,Urban,6.7,Gaming,209,8.55,46,10
+U2808,21-30,Male,Semi-Urban,7.01,Streaming,406,11.94,74,3
+U2809,15-20,Female,Rural,3.13,Social Media,197,10.97,51,9
+U2810,21-30,Male,Semi-Urban,5.24,Shopping,243,22.02,79,1
+U2811,50+,Other,Urban,3.78,Gaming,179,7.98,47,1
+U2812,15-20,Other,Urban,4.99,Gaming,45,3.58,47,1
+U2813,31-40,Male,Rural,3.29,Education,120,17.6,93,7
+U2814,21-30,Female,Rural,6.34,Productivity,149,8.43,44,5
+U2815,41-50,Female,Rural,3.32,Social Media,282,11.54,97,6
+U2816,41-50,Other,Semi-Urban,1.58,Gaming,89,8.77,45,8
+U2817,50+,Male,Rural,7.55,Social Media,295,15.69,94,2
+U2818,41-50,Female,Rural,5.16,Streaming,438,5.13,90,2
+U2819,21-30,Female,Urban,2.9,Streaming,60,1.0,36,3
+U2820,21-30,Other,Urban,4.26,Productivity,50,18.48,26,3
+U2821,41-50,Female,Rural,3.63,Gaming,622,13.24,75,3
+U2822,21-30,Male,Rural,4.51,Education,318,17.36,83,4
+U2823,50+,Other,Urban,5.7,Gaming,572,18.31,39,3
+U2824,15-20,Other,Rural,5.47,Social Media,527,7.42,57,2
+U2825,50+,Male,Semi-Urban,4.88,Shopping,503,12.3,94,9
+U2826,50+,Other,Semi-Urban,4.51,Streaming,434,14.53,77,6
+U2827,21-30,Female,Semi-Urban,6.12,Social Media,577,11.46,35,3
+U2828,15-20,Female,Rural,1.61,Productivity,161,10.44,70,9
+U2829,21-30,Male,Urban,3.38,Streaming,353,10.93,46,4
+U2830,31-40,Female,Rural,3.03,Education,161,17.42,70,4
+U2831,21-30,Male,Rural,6.01,Streaming,550,10.7,94,8
+U2832,21-30,Male,Urban,3.39,Shopping,59,15.0,35,7
+U2833,21-30,Female,Urban,2.57,Gaming,656,13.73,79,7
+U2834,15-20,Male,Urban,5.32,Shopping,330,7.18,95,10
+U2835,21-30,Female,Semi-Urban,3.14,Shopping,33,13.51,59,7
+U2836,15-20,Other,Rural,3.97,Gaming,354,4.31,86,10
+U2837,41-50,Other,Urban,8.07,Streaming,538,14.01,21,5
+U2838,31-40,Male,Rural,5.68,Productivity,266,16.46,67,7
+U2839,15-20,Female,Semi-Urban,4.18,Gaming,564,17.61,71,4
+U2840,41-50,Female,Semi-Urban,4.32,Gaming,45,7.24,43,8
+U2841,15-20,Other,Urban,5.86,Education,563,9.32,97,9
+U2842,15-20,Other,Urban,5.49,Streaming,613,13.42,21,3
+U2843,31-40,Female,Rural,4.61,Gaming,475,9.62,84,7
+U2844,50+,Male,Urban,4.66,Productivity,532,2.36,39,10
+U2845,50+,Other,Rural,2.28,Social Media,259,9.29,53,9
+U2846,15-20,Male,Urban,1.96,Streaming,136,13.4,60,1
+U2847,21-30,Male,Rural,4.23,Education,418,17.34,60,2
+U2848,41-50,Other,Rural,3.55,Shopping,292,20.45,94,7
+U2849,21-30,Male,Rural,5.38,Gaming,592,12.62,42,2
+U2850,21-30,Male,Rural,4.8,Productivity,94,14.83,57,7
+U2851,15-20,Female,Semi-Urban,3.34,Streaming,294,16.8,63,1
+U2852,15-20,Male,Rural,4.74,Productivity,367,1.75,86,3
+U2853,15-20,Female,Urban,3.87,Productivity,330,6.9,81,5
+U2854,15-20,Other,Semi-Urban,7.6,Shopping,407,12.51,31,6
+U2855,50+,Other,Semi-Urban,5.08,Education,204,19.78,49,9
+U2856,15-20,Female,Rural,2.16,Streaming,181,15.15,84,9
+U2857,50+,Other,Semi-Urban,7.23,Gaming,505,13.65,60,3
+U2858,50+,Male,Rural,3.55,Education,295,10.86,39,8
+U2859,15-20,Male,Urban,3.04,Gaming,358,14.13,25,4
+U2860,31-40,Male,Rural,7.72,Social Media,192,9.02,94,7
+U2861,41-50,Other,Semi-Urban,5.02,Productivity,467,8.1,23,6
+U2862,21-30,Male,Urban,5.55,Social Media,372,8.54,29,8
+U2863,50+,Other,Rural,5.6,Productivity,396,18.7,70,6
+U2864,41-50,Male,Urban,4.19,Shopping,494,7.8,57,4
+U2865,31-40,Female,Urban,3.64,Education,228,10.01,20,2
+U2866,21-30,Other,Semi-Urban,3.89,Gaming,529,14.36,27,7
+U2867,21-30,Other,Urban,6.91,Shopping,45,7.6,82,4
+U2868,50+,Male,Semi-Urban,4.81,Gaming,325,13.13,52,9
+U2869,15-20,Other,Urban,6.47,Education,540,13.13,34,9
+U2870,31-40,Other,Rural,4.39,Streaming,268,8.88,50,7
+U2871,50+,Female,Urban,3.37,Social Media,610,10.71,40,5
+U2872,31-40,Female,Rural,2.34,Social Media,330,7.28,22,3
+U2873,15-20,Male,Rural,5.47,Gaming,35,18.91,85,3
+U2874,15-20,Female,Urban,7.04,Gaming,249,13.29,54,9
+U2875,50+,Male,Rural,3.17,Gaming,482,6.76,60,9
+U2876,15-20,Male,Urban,5.27,Education,462,12.63,78,4
+U2877,41-50,Male,Urban,2.44,Streaming,415,12.86,35,1
+U2878,21-30,Other,Rural,3.67,Social Media,648,1.0,75,10
+U2879,50+,Female,Rural,4.9,Shopping,324,18.7,64,5
+U2880,31-40,Male,Semi-Urban,1.91,Productivity,147,7.05,78,8
+U2881,41-50,Female,Rural,4.47,Education,434,22.45,69,10
+U2882,50+,Male,Semi-Urban,3.24,Social Media,709,15.98,31,4
+U2883,15-20,Female,Rural,5.41,Streaming,623,6.37,31,10
+U2884,15-20,Female,Urban,4.25,Education,595,10.43,52,10
+U2885,15-20,Male,Rural,5.91,Shopping,41,16.61,68,4
+U2886,15-20,Other,Urban,4.08,Social Media,238,10.81,40,9
+U2887,31-40,Female,Urban,2.46,Education,194,17.89,79,9
+U2888,41-50,Other,Urban,2.27,Social Media,323,10.12,71,7
+U2889,21-30,Other,Semi-Urban,1.64,Social Media,548,11.61,73,10
+U2890,31-40,Male,Rural,5.45,Streaming,107,16.75,58,8
+U2891,31-40,Male,Urban,8.34,Productivity,463,15.02,68,4
+U2892,21-30,Male,Urban,5.15,Streaming,606,7.37,83,8
+U2893,21-30,Female,Semi-Urban,7.01,Social Media,643,14.17,45,6
+U2894,15-20,Male,Rural,6.2,Education,712,12.84,90,3
+U2895,31-40,Male,Rural,3.72,Shopping,106,7.44,26,7
+U2896,50+,Female,Semi-Urban,6.4,Streaming,77,5.05,91,3
+U2897,21-30,Female,Semi-Urban,3.78,Productivity,111,2.34,81,7
+U2898,21-30,Male,Rural,3.81,Social Media,238,10.53,43,5
+U2899,41-50,Male,Semi-Urban,4.19,Shopping,474,11.73,59,4
+U2900,50+,Male,Rural,4.26,Streaming,625,14.52,95,3
+U2901,50+,Male,Rural,5.49,Streaming,551,16.1,66,8
+U2902,21-30,Other,Urban,3.49,Streaming,58,9.93,27,4
+U2903,15-20,Other,Urban,5.83,Streaming,333,11.58,73,8
+U2904,41-50,Male,Rural,5.81,Shopping,494,8.21,28,10
+U2905,50+,Other,Rural,5.01,Education,531,12.44,22,3
+U2906,21-30,Female,Rural,7.41,Productivity,475,16.84,73,10
+U2907,50+,Other,Rural,6.43,Productivity,657,12.51,40,9
+U2908,41-50,Other,Rural,6.1,Social Media,519,17.82,67,6
+U2909,41-50,Male,Rural,4.6,Gaming,457,16.76,66,5
+U2910,31-40,Other,Semi-Urban,5.03,Education,588,19.29,87,5
+U2911,21-30,Other,Rural,5.29,Social Media,388,12.65,82,3
+U2912,41-50,Other,Semi-Urban,4.52,Social Media,120,9.34,35,2
+U2913,31-40,Other,Semi-Urban,3.94,Streaming,82,15.11,93,6
+U2914,31-40,Female,Rural,0.89,Gaming,618,10.14,24,1
+U2915,50+,Male,Rural,5.58,Gaming,233,14.95,30,7
+U2916,50+,Male,Semi-Urban,6.06,Education,585,8.69,48,5
+U2917,31-40,Female,Semi-Urban,2.76,Gaming,185,7.86,98,4
+U2918,50+,Other,Rural,5.41,Social Media,31,18.08,89,9
+U2919,41-50,Female,Rural,3.61,Gaming,386,6.94,67,10
+U2920,15-20,Other,Semi-Urban,3.95,Gaming,598,17.11,34,1
+U2921,41-50,Female,Semi-Urban,6.47,Productivity,87,14.93,53,4
+U2922,31-40,Male,Semi-Urban,3.01,Social Media,283,12.47,79,3
+U2923,31-40,Male,Urban,3.01,Shopping,209,2.54,81,6
+U2924,41-50,Male,Semi-Urban,7.21,Gaming,522,19.43,21,5
+U2925,50+,Other,Urban,4.28,Gaming,698,7.33,99,7
+U2926,50+,Other,Rural,6.37,Streaming,64,16.77,38,1
+U2927,31-40,Female,Rural,2.1,Gaming,104,8.55,68,5
+U2928,21-30,Female,Semi-Urban,2.22,Gaming,318,8.14,97,2
+U2929,50+,Male,Rural,3.13,Productivity,400,15.34,47,2
+U2930,41-50,Other,Rural,3.78,Social Media,616,14.69,67,2
+U2931,50+,Female,Rural,2.4,Education,358,6.27,56,9
+U2932,41-50,Other,Rural,5.05,Social Media,619,19.18,93,10
+U2933,31-40,Other,Urban,5.15,Streaming,333,10.97,68,3
+U2934,50+,Male,Urban,3.15,Social Media,608,12.34,67,4
+U2935,41-50,Male,Semi-Urban,3.27,Gaming,250,10.51,92,5
+U2936,31-40,Other,Semi-Urban,3.47,Streaming,193,6.49,48,4
+U2937,21-30,Other,Semi-Urban,2.75,Social Media,509,15.68,79,4
+U2938,41-50,Other,Rural,0.5,Streaming,484,13.45,48,5
+U2939,21-30,Other,Rural,4.37,Education,404,7.97,77,10
+U2940,21-30,Male,Urban,3.85,Social Media,249,16.72,67,9
+U2941,15-20,Female,Urban,4.01,Shopping,713,12.27,42,9
+U2942,50+,Male,Semi-Urban,2.98,Gaming,283,12.38,46,6
+U2943,41-50,Female,Urban,5.72,Streaming,217,20.88,26,3
+U2944,21-30,Other,Urban,8.14,Shopping,220,3.96,68,6
+U2945,15-20,Female,Urban,3.25,Shopping,418,3.89,73,10
+U2946,31-40,Male,Urban,6.6,Productivity,244,5.02,87,4
+U2947,41-50,Male,Urban,5.05,Streaming,404,13.82,97,3
+U2948,21-30,Other,Semi-Urban,4.55,Shopping,115,10.2,61,6
+U2949,50+,Male,Semi-Urban,3.98,Productivity,503,10.6,93,6
+U2950,15-20,Other,Urban,4.38,Shopping,647,7.29,78,2
+U2951,21-30,Male,Semi-Urban,6.22,Gaming,560,20.33,63,9
+U2952,50+,Male,Rural,2.79,Education,76,22.01,45,8
+U2953,21-30,Other,Urban,4.09,Productivity,94,16.49,42,6
+U2954,41-50,Female,Rural,6.37,Education,504,4.46,92,1
+U2955,41-50,Male,Semi-Urban,5.98,Streaming,175,9.57,27,2
+U2956,41-50,Female,Semi-Urban,2.82,Gaming,411,16.14,72,4
+U2957,15-20,Male,Rural,4.23,Productivity,95,11.77,33,7
+U2958,41-50,Male,Semi-Urban,5.59,Streaming,546,16.51,90,9
+U2959,50+,Male,Urban,5.5,Shopping,122,18.24,26,10
+U2960,21-30,Male,Rural,5.96,Social Media,455,21.54,28,5
+U2961,31-40,Female,Urban,5.08,Streaming,497,8.73,22,10
+U2962,50+,Female,Rural,5.33,Education,123,12.41,97,2
+U2963,50+,Male,Semi-Urban,5.01,Gaming,647,9.8,36,1
+U2964,41-50,Male,Rural,6.87,Gaming,162,2.0,63,10
+U2965,15-20,Female,Rural,3.87,Streaming,463,15.51,65,1
+U2966,21-30,Other,Urban,4.57,Shopping,370,14.82,77,5
+U2967,15-20,Other,Semi-Urban,2.98,Social Media,343,9.27,47,7
+U2968,21-30,Female,Urban,2.68,Education,620,4.01,33,9
+U2969,21-30,Male,Semi-Urban,4.99,Streaming,241,10.08,28,9
+U2970,15-20,Male,Urban,3.41,Streaming,549,15.66,45,8
+U2971,50+,Other,Rural,4.41,Gaming,188,18.69,21,1
+U2972,21-30,Other,Urban,6.93,Education,297,8.44,94,5
+U2973,15-20,Female,Semi-Urban,6.84,Social Media,690,17.54,53,6
+U2974,21-30,Other,Semi-Urban,7.84,Gaming,632,15.11,38,6
+U2975,31-40,Female,Rural,6.96,Streaming,503,14.07,58,4
+U2976,50+,Other,Semi-Urban,8.1,Gaming,439,5.53,32,1
+U2977,41-50,Other,Urban,5.15,Gaming,503,5.75,24,3
+U2978,21-30,Other,Rural,3.15,Productivity,385,7.85,69,10
+U2979,31-40,Male,Semi-Urban,3.0,Gaming,709,10.37,42,4
+U2980,41-50,Male,Semi-Urban,6.59,Shopping,222,21.0,48,4
+U2981,41-50,Male,Urban,4.58,Gaming,300,8.69,91,4
+U2982,21-30,Other,Urban,4.69,Shopping,143,15.86,45,5
+U2983,15-20,Female,Rural,3.68,Education,552,9.68,98,9
+U2984,21-30,Female,Semi-Urban,3.86,Gaming,84,14.36,76,4
+U2985,31-40,Female,Urban,5.08,Social Media,94,11.69,20,9
+U2986,41-50,Female,Rural,2.92,Shopping,713,12.89,47,9
+U2987,21-30,Male,Semi-Urban,4.89,Shopping,301,13.85,81,1
+U2988,15-20,Male,Semi-Urban,6.77,Streaming,531,10.75,66,5
+U2989,21-30,Other,Rural,1.3,Education,691,13.87,97,9
+U2990,50+,Other,Rural,2.19,Gaming,391,18.17,78,4
+U2991,15-20,Female,Urban,5.51,Social Media,175,8.23,50,5
+U2992,31-40,Male,Semi-Urban,6.55,Streaming,238,17.93,89,4
+U2993,41-50,Female,Semi-Urban,3.77,Education,315,10.67,68,2
+U2994,21-30,Other,Semi-Urban,1.5,Shopping,39,10.15,24,10
+U2995,15-20,Other,Rural,6.65,Social Media,215,15.5,50,2
+U2996,50+,Female,Urban,3.28,Gaming,603,10.29,56,2
+U2997,15-20,Other,Semi-Urban,3.96,Productivity,626,13.6,98,1
+U2998,50+,Female,Rural,4.98,Productivity,493,13.13,34,3
+U2999,31-40,Male,Semi-Urban,3.5,Education,163,1.58,71,10

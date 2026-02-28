@@ -1,0 +1,1201 @@
+student_id,roll_number,department,program,specialization,gender,age,domicile_state,category,study_hours_per_day,attendance_percentage,sgpa,percentage,teaching_method,learning_style
+1,ROLL0001,IT,MCA,Software Engg,Male,20,Bihar,OBC,4.4,98.03,8.93,57.64,Online,Visual
+2,ROLL0002,CSE,B.Tech,Cloud,Male,25,UP,OBC,1.9,78.37,7.33,57.29,Traditional,Visual
+3,ROLL0003,ECE,MCA,Cyber Security,Female,22,Haryana,ST,7.4,60.82,9.88,69.85,Traditional,Visual
+4,ROLL0004,CSE,B.Tech,AI,Female,26,Haryana,ST,6.6,84.47,6.03,72.51,Traditional,Visual
+5,ROLL0005,CSE,B.Tech,AI,Female,20,UP,General,3.6,84.47,6.56,56.26,Hybrid,Visual
+6,ROLL0006,IT,MCA,Data Science,Female,22,Haryana,SC,4.4,99.33,7.87,56.14,Hybrid,Visual
+7,ROLL0007,CSE,BCA,AI,Male,22,Punjab,OBC,6.5,66.82,6.26,66.5,Hybrid,Visual
+8,ROLL0008,MCA,BCA,AI,Female,25,Delhi,General,3.1,69.64,8.73,64.04,Online,Auditory
+9,ROLL0009,MCA,BCA,AI,Male,23,Haryana,SC,1.3,96.37,7.04,47.57,Traditional,Visual
+10,ROLL0010,BCA,BCA,Software Engg,Female,19,Haryana,SC,2.9,82.71,6.13,64.16,Online,Visual
+11,ROLL0011,IT,B.Tech,Data Science,Female,25,Punjab,ST,8.0,97.58,9.58,77.69,Traditional,Kinesthetic
+12,ROLL0012,IT,B.Tech,Software Engg,Female,22,Punjab,General,6.1,80.83,9.84,69.16,Hybrid,Auditory
+13,ROLL0013,ECE,BCA,Cloud,Male,26,Delhi,ST,4.5,70.85,9.31,56.77,Traditional,Visual
+14,ROLL0014,IT,B.Tech,Cloud,Female,26,Haryana,SC,3.7,66.61,6.06,56.7,Online,Kinesthetic
+15,ROLL0015,ECE,BCA,Cyber Security,Male,20,Delhi,ST,8.0,67.95,6.02,76.91,Traditional,Kinesthetic
+16,ROLL0016,IT,BCA,Software Engg,Female,26,Bihar,OBC,8.1,84.24,9.71,78.74,Online,Kinesthetic
+17,ROLL0017,BCA,B.Tech,Cyber Security,Female,25,UP,General,9.2,94.0,7.8,76.37,Hybrid,Visual
+18,ROLL0018,CSE,BCA,Data Science,Female,20,Haryana,ST,7.0,83.65,7.1,67.15,Online,Visual
+19,ROLL0019,IT,MCA,Cyber Security,Female,24,Punjab,OBC,5.2,64.78,8.85,67.41,Traditional,Visual
+20,ROLL0020,CSE,MCA,Cyber Security,Male,20,UP,ST,1.4,88.43,6.44,61.89,Hybrid,Auditory
+21,ROLL0021,BCA,B.Tech,Software Engg,Female,24,UP,SC,1.3,85.46,7.26,58.42,Online,Kinesthetic
+22,ROLL0022,ECE,B.Tech,Software Engg,Male,24,Punjab,General,6.4,81.59,6.81,69.3,Hybrid,Auditory
+23,ROLL0023,CSE,BCA,Cyber Security,Female,23,Delhi,OBC,3.6,66.45,9.72,63.31,Online,Kinesthetic
+24,ROLL0024,ECE,BCA,Cyber Security,Male,24,Haryana,ST,5.1,68.74,7.67,71.09,Hybrid,Kinesthetic
+25,ROLL0025,IT,B.Tech,Cyber Security,Male,21,Haryana,ST,9.1,72.72,6.44,75.34,Hybrid,Auditory
+26,ROLL0026,CSE,BCA,Software Engg,Male,26,Bihar,General,4.2,72.19,6.66,55.28,Traditional,Auditory
+27,ROLL0027,MCA,MCA,Cloud,Female,25,Bihar,ST,5.4,87.7,7.08,62.87,Traditional,Auditory
+28,ROLL0028,CSE,B.Tech,Cyber Security,Male,21,Bihar,ST,7.3,74.55,9.89,69.33,Online,Auditory
+29,ROLL0029,BCA,BCA,Data Science,Female,18,Punjab,SC,3.2,87.85,8.85,57.39,Traditional,Visual
+30,ROLL0030,IT,B.Tech,AI,Female,23,UP,OBC,6.7,87.23,8.12,69.68,Online,Visual
+31,ROLL0031,ECE,B.Tech,Cloud,Male,25,Delhi,OBC,3.2,86.89,9.05,63.56,Online,Visual
+32,ROLL0032,ECE,B.Tech,Software Engg,Male,18,Bihar,OBC,5.2,99.34,7.6,61.05,Traditional,Kinesthetic
+33,ROLL0033,CSE,BCA,AI,Male,21,Punjab,ST,2.4,80.33,8.78,55.12,Online,Visual
+34,ROLL0034,BCA,B.Tech,Cloud,Female,24,Haryana,OBC,1.1,80.48,6.91,57.59,Traditional,Kinesthetic
+35,ROLL0035,MCA,B.Tech,Software Engg,Female,24,UP,General,2.6,87.64,7.55,53.88,Hybrid,Auditory
+36,ROLL0036,MCA,BCA,Cloud,Female,26,Bihar,General,5.9,87.83,6.91,66.09,Hybrid,Kinesthetic
+37,ROLL0037,CSE,B.Tech,Data Science,Female,24,Delhi,ST,5.6,70.43,9.99,67.11,Online,Kinesthetic
+38,ROLL0038,ECE,MCA,Cyber Security,Female,20,Delhi,General,4.1,73.97,8.9,64.81,Traditional,Auditory
+39,ROLL0039,IT,BCA,Cyber Security,Female,20,Haryana,ST,8.7,76.18,9.55,79.37,Online,Visual
+40,ROLL0040,IT,B.Tech,Software Engg,Female,19,Punjab,ST,4.4,97.61,9.89,68.71,Traditional,Visual
+41,ROLL0041,ECE,MCA,Data Science,Female,18,UP,SC,2.4,81.95,8.77,51.24,Hybrid,Visual
+42,ROLL0042,CSE,MCA,Cloud,Male,25,Delhi,ST,1.2,79.76,6.72,56.88,Traditional,Auditory
+43,ROLL0043,CSE,BCA,Software Engg,Male,20,Haryana,General,6.8,93.97,8.63,66.06,Hybrid,Auditory
+44,ROLL0044,IT,B.Tech,AI,Female,23,Delhi,ST,6.7,70.02,8.36,70.83,Hybrid,Visual
+45,ROLL0045,ECE,MCA,Data Science,Female,18,Delhi,General,4.5,95.68,8.52,63.57,Online,Auditory
+46,ROLL0046,ECE,MCA,Software Engg,Female,20,Delhi,SC,2.8,88.9,7.12,65.67,Hybrid,Visual
+47,ROLL0047,MCA,BCA,AI,Male,23,Delhi,ST,7.9,61.74,9.98,64.78,Online,Visual
+48,ROLL0048,ECE,MCA,Software Engg,Male,18,Bihar,SC,4.3,60.62,9.71,61.68,Hybrid,Kinesthetic
+49,ROLL0049,ECE,B.Tech,Cloud,Female,24,Punjab,General,6.0,82.89,9.92,66.91,Traditional,Kinesthetic
+50,ROLL0050,IT,MCA,Software Engg,Male,23,Bihar,SC,3.4,79.41,7.49,57.82,Traditional,Kinesthetic
+51,ROLL0051,IT,B.Tech,Data Science,Female,19,Haryana,General,7.3,82.8,6.39,72.19,Traditional,Kinesthetic
+52,ROLL0052,BCA,MCA,Data Science,Female,23,Haryana,SC,3.9,93.95,6.55,55.99,Traditional,Visual
+53,ROLL0053,ECE,MCA,Cloud,Female,24,UP,General,4.2,71.74,9.24,64.12,Traditional,Kinesthetic
+54,ROLL0054,CSE,MCA,Cloud,Female,20,Haryana,OBC,5.5,91.93,8.6,67.79,Online,Kinesthetic
+55,ROLL0055,BCA,BCA,Software Engg,Male,26,Bihar,SC,4.0,75.02,6.38,59.57,Traditional,Auditory
+56,ROLL0056,MCA,MCA,Software Engg,Male,23,UP,General,2.4,99.27,9.36,57.61,Hybrid,Auditory
+57,ROLL0057,MCA,MCA,Software Engg,Male,25,Delhi,General,3.3,61.55,7.21,49.94,Online,Auditory
+58,ROLL0058,IT,MCA,Data Science,Male,21,Haryana,SC,7.9,68.63,8.49,75.83,Online,Auditory
+59,ROLL0059,IT,MCA,Cyber Security,Female,19,Bihar,SC,8.6,67.78,7.65,71.97,Online,Kinesthetic
+60,ROLL0060,CSE,BCA,Data Science,Male,20,Delhi,SC,5.6,72.92,9.18,68.91,Hybrid,Visual
+61,ROLL0061,IT,MCA,Cloud,Male,18,Punjab,General,5.0,63.14,6.1,61.14,Hybrid,Visual
+62,ROLL0062,ECE,B.Tech,Data Science,Female,26,Delhi,ST,5.0,69.59,6.38,73.31,Online,Visual
+63,ROLL0063,BCA,B.Tech,Data Science,Male,23,Punjab,ST,6.9,71.2,9.82,72.59,Hybrid,Auditory
+64,ROLL0064,CSE,BCA,AI,Female,20,Punjab,OBC,7.6,61.91,8.26,81.06,Online,Auditory
+65,ROLL0065,MCA,MCA,Cyber Security,Female,22,Haryana,General,7.8,60.58,6.46,75.62,Traditional,Kinesthetic
+66,ROLL0066,BCA,BCA,Cloud,Male,24,Delhi,ST,5.3,66.93,7.74,69.77,Hybrid,Visual
+67,ROLL0067,ECE,B.Tech,Cloud,Male,25,Punjab,General,1.4,97.97,9.55,54.21,Hybrid,Visual
+68,ROLL0068,ECE,BCA,Data Science,Male,24,Delhi,OBC,6.9,66.52,6.28,74.48,Hybrid,Visual
+69,ROLL0069,BCA,B.Tech,AI,Male,20,Bihar,General,9.5,94.69,8.55,81.54,Online,Auditory
+70,ROLL0070,CSE,MCA,Data Science,Male,22,UP,General,6.8,78.33,8.18,75.56,Hybrid,Kinesthetic
+71,ROLL0071,IT,B.Tech,AI,Female,19,Punjab,OBC,6.6,92.82,8.61,66.46,Traditional,Kinesthetic
+72,ROLL0072,ECE,BCA,AI,Female,25,Delhi,OBC,1.4,84.73,7.35,49.86,Traditional,Kinesthetic
+73,ROLL0073,BCA,B.Tech,Data Science,Female,22,Delhi,SC,4.5,87.26,7.36,63.36,Online,Visual
+74,ROLL0074,IT,BCA,AI,Female,26,Delhi,ST,4.1,97.47,6.16,53.72,Hybrid,Visual
+75,ROLL0075,ECE,BCA,Data Science,Female,18,Delhi,SC,8.2,71.28,6.71,78.34,Traditional,Visual
+76,ROLL0076,IT,MCA,Cyber Security,Male,25,UP,OBC,7.6,65.11,7.0,75.85,Traditional,Visual
+77,ROLL0077,BCA,BCA,Cloud,Female,20,UP,General,8.8,82.47,6.95,82.12,Online,Auditory
+78,ROLL0078,IT,B.Tech,Data Science,Female,26,Haryana,SC,1.9,96.1,8.02,59.99,Hybrid,Kinesthetic
+79,ROLL0079,ECE,MCA,Cyber Security,Male,21,Delhi,General,3.9,95.82,7.56,60.34,Hybrid,Kinesthetic
+80,ROLL0080,IT,MCA,Cloud,Male,20,Punjab,SC,6.2,85.27,7.79,65.53,Hybrid,Visual
+81,ROLL0081,IT,B.Tech,Cyber Security,Female,26,Delhi,ST,6.4,82.15,6.85,78.27,Hybrid,Auditory
+82,ROLL0082,MCA,BCA,Data Science,Male,24,Delhi,General,7.9,84.73,6.4,75.72,Online,Auditory
+83,ROLL0083,IT,BCA,Data Science,Male,25,Punjab,General,4.8,68.9,7.59,56.49,Traditional,Auditory
+84,ROLL0084,BCA,MCA,Software Engg,Male,24,UP,SC,4.4,74.83,9.25,63.6,Traditional,Kinesthetic
+85,ROLL0085,MCA,MCA,Cyber Security,Male,20,Punjab,SC,9.9,90.14,7.51,69.51,Online,Kinesthetic
+86,ROLL0086,ECE,BCA,AI,Female,21,Punjab,SC,2.0,79.71,6.05,63.85,Online,Auditory
+87,ROLL0087,BCA,BCA,Cloud,Male,26,Punjab,OBC,2.1,64.7,8.6,58.9,Online,Auditory
+88,ROLL0088,BCA,BCA,AI,Female,23,Bihar,General,4.4,71.43,9.47,70.86,Online,Visual
+89,ROLL0089,CSE,MCA,Cyber Security,Male,23,UP,ST,4.9,92.08,9.91,55.22,Online,Kinesthetic
+90,ROLL0090,ECE,MCA,AI,Female,20,UP,General,9.3,96.76,7.01,80.9,Traditional,Kinesthetic
+91,ROLL0091,CSE,MCA,AI,Female,22,Delhi,General,9.7,80.92,8.52,76.94,Online,Auditory
+92,ROLL0092,ECE,MCA,Cyber Security,Female,25,Bihar,General,7.3,75.37,8.95,81.2,Traditional,Visual
+93,ROLL0093,CSE,BCA,AI,Female,25,Delhi,OBC,4.6,64.27,7.34,66.11,Traditional,Kinesthetic
+94,ROLL0094,CSE,BCA,Cyber Security,Male,26,Punjab,ST,4.2,83.35,6.31,57.4,Traditional,Kinesthetic
+95,ROLL0095,BCA,BCA,Software Engg,Male,20,Bihar,General,3.3,78.13,6.13,56.67,Online,Auditory
+96,ROLL0096,ECE,B.Tech,AI,Female,26,Delhi,General,8.4,97.99,8.9,67.2,Traditional,Auditory
+97,ROLL0097,BCA,BCA,Data Science,Female,18,Delhi,ST,4.8,97.31,9.46,70.3,Online,Auditory
+98,ROLL0098,IT,BCA,Data Science,Female,18,Punjab,SC,4.4,89.98,7.57,60.85,Online,Kinesthetic
+99,ROLL0099,MCA,BCA,Cyber Security,Female,23,UP,General,8.5,78.75,7.66,74.96,Traditional,Visual
+100,ROLL0100,IT,MCA,Data Science,Female,20,UP,SC,7.2,81.37,9.0,71.32,Hybrid,Kinesthetic
+101,ROLL0101,MCA,BCA,AI,Female,26,Bihar,OBC,6.0,90.76,9.78,65.75,Hybrid,Auditory
+102,ROLL0102,MCA,BCA,Cyber Security,Female,18,Haryana,General,2.2,98.16,8.42,59.71,Hybrid,Kinesthetic
+103,ROLL0103,ECE,BCA,Data Science,Male,19,Haryana,ST,7.0,84.73,7.43,72.66,Traditional,Kinesthetic
+104,ROLL0104,IT,B.Tech,Software Engg,Female,18,UP,SC,5.3,93.25,7.23,62.16,Traditional,Visual
+105,ROLL0105,IT,MCA,Cyber Security,Female,24,Haryana,SC,6.0,82.44,9.51,62.9,Online,Auditory
+106,ROLL0106,IT,B.Tech,Cloud,Female,20,Haryana,SC,7.8,84.81,8.82,72.05,Hybrid,Auditory
+107,ROLL0107,IT,MCA,Cyber Security,Male,20,Punjab,ST,9.1,84.69,9.92,85.35,Online,Visual
+108,ROLL0108,IT,B.Tech,AI,Female,25,Haryana,OBC,9.1,73.93,8.06,83.67,Traditional,Kinesthetic
+109,ROLL0109,ECE,BCA,Software Engg,Female,25,Haryana,OBC,9.2,71.92,8.09,82.44,Traditional,Visual
+110,ROLL0110,MCA,B.Tech,AI,Male,22,Delhi,SC,8.6,90.76,6.26,79.03,Hybrid,Kinesthetic
+111,ROLL0111,IT,BCA,Software Engg,Male,20,Punjab,ST,9.8,79.7,7.32,72.88,Online,Visual
+112,ROLL0112,ECE,MCA,Software Engg,Male,23,Delhi,ST,5.8,78.4,8.34,70.75,Online,Auditory
+113,ROLL0113,MCA,B.Tech,Data Science,Male,19,Bihar,ST,7.3,67.2,8.79,76.89,Traditional,Kinesthetic
+114,ROLL0114,IT,B.Tech,Data Science,Female,19,Delhi,OBC,6.4,68.95,9.29,68.02,Online,Auditory
+115,ROLL0115,MCA,B.Tech,Cyber Security,Male,19,Haryana,ST,3.5,67.08,6.35,59.96,Online,Auditory
+116,ROLL0116,CSE,BCA,Data Science,Male,26,Delhi,OBC,2.2,73.2,7.29,51.42,Traditional,Auditory
+117,ROLL0117,IT,MCA,Cyber Security,Male,18,Delhi,OBC,5.3,87.51,8.05,64.0,Traditional,Auditory
+118,ROLL0118,ECE,B.Tech,AI,Female,21,Bihar,ST,3.5,92.25,8.99,55.2,Traditional,Visual
+119,ROLL0119,BCA,MCA,Software Engg,Female,25,UP,SC,2.9,74.82,7.94,51.12,Online,Auditory
+120,ROLL0120,IT,MCA,Software Engg,Female,20,Bihar,OBC,7.5,62.49,6.59,79.33,Online,Kinesthetic
+121,ROLL0121,MCA,B.Tech,AI,Female,23,Bihar,OBC,7.4,95.81,8.05,67.34,Traditional,Visual
+122,ROLL0122,IT,BCA,Cloud,Male,22,Bihar,OBC,5.8,69.7,7.08,67.8,Online,Auditory
+123,ROLL0123,MCA,MCA,Data Science,Female,26,Punjab,OBC,2.6,82.56,9.36,58.18,Hybrid,Visual
+124,ROLL0124,ECE,BCA,Data Science,Male,20,Delhi,OBC,9.0,83.74,8.72,72.62,Hybrid,Visual
+125,ROLL0125,IT,B.Tech,Software Engg,Male,25,UP,ST,6.8,79.18,8.34,72.41,Traditional,Kinesthetic
+126,ROLL0126,BCA,B.Tech,Data Science,Male,23,UP,General,4.9,65.1,7.14,72.93,Hybrid,Auditory
+127,ROLL0127,ECE,BCA,Software Engg,Male,26,Punjab,ST,9.1,84.3,6.98,66.9,Traditional,Auditory
+128,ROLL0128,IT,B.Tech,Data Science,Female,24,Delhi,ST,3.1,64.07,6.61,59.19,Traditional,Kinesthetic
+129,ROLL0129,CSE,BCA,Software Engg,Female,23,Haryana,SC,5.4,94.03,6.35,70.19,Hybrid,Visual
+130,ROLL0130,ECE,BCA,AI,Female,26,Haryana,ST,9.8,79.63,8.89,80.13,Hybrid,Kinesthetic
+131,ROLL0131,BCA,BCA,Software Engg,Female,23,Haryana,General,7.5,81.4,7.91,70.35,Hybrid,Auditory
+132,ROLL0132,ECE,BCA,Data Science,Male,18,Haryana,OBC,7.4,67.98,8.94,74.67,Traditional,Kinesthetic
+133,ROLL0133,CSE,MCA,Data Science,Male,20,Punjab,OBC,6.5,71.55,8.32,69.17,Online,Kinesthetic
+134,ROLL0134,IT,BCA,Cloud,Female,24,UP,SC,1.5,73.46,6.54,48.44,Traditional,Kinesthetic
+135,ROLL0135,CSE,B.Tech,Data Science,Male,20,UP,OBC,5.9,68.07,8.74,79.65,Hybrid,Visual
+136,ROLL0136,CSE,MCA,Software Engg,Male,19,Haryana,General,4.1,97.18,9.32,59.28,Hybrid,Visual
+137,ROLL0137,CSE,MCA,Cloud,Male,25,UP,ST,2.1,89.23,9.75,58.74,Hybrid,Auditory
+138,ROLL0138,MCA,B.Tech,Data Science,Male,20,Bihar,OBC,8.5,90.02,9.2,83.4,Hybrid,Visual
+139,ROLL0139,CSE,MCA,AI,Female,26,UP,General,2.5,92.58,8.66,46.46,Online,Kinesthetic
+140,ROLL0140,BCA,MCA,Data Science,Female,20,Punjab,General,7.1,78.08,8.86,73.1,Online,Kinesthetic
+141,ROLL0141,MCA,BCA,Cloud,Female,24,Punjab,OBC,6.6,81.59,7.75,60.5,Traditional,Visual
+142,ROLL0142,CSE,B.Tech,Software Engg,Female,24,Delhi,General,5.8,62.66,6.92,72.38,Traditional,Auditory
+143,ROLL0143,MCA,B.Tech,Data Science,Male,18,Punjab,OBC,2.1,97.59,8.51,51.93,Online,Visual
+144,ROLL0144,IT,BCA,Software Engg,Female,23,Delhi,SC,5.8,95.76,9.15,65.4,Traditional,Kinesthetic
+145,ROLL0145,MCA,B.Tech,Software Engg,Male,19,Delhi,General,7.8,88.28,9.11,71.64,Traditional,Auditory
+146,ROLL0146,ECE,BCA,Data Science,Male,23,Bihar,SC,7.9,95.07,7.37,71.57,Hybrid,Kinesthetic
+147,ROLL0147,BCA,MCA,Data Science,Male,25,Bihar,SC,5.8,75.15,7.83,67.68,Hybrid,Kinesthetic
+148,ROLL0148,BCA,MCA,AI,Female,19,UP,SC,2.3,69.17,8.89,69.43,Online,Visual
+149,ROLL0149,ECE,MCA,Cloud,Female,21,Haryana,General,1.1,83.94,8.26,56.89,Hybrid,Visual
+150,ROLL0150,CSE,MCA,Data Science,Female,25,UP,General,2.6,96.34,8.33,65.64,Online,Auditory
+151,ROLL0151,CSE,MCA,Data Science,Male,25,Bihar,ST,4.8,71.52,8.46,63.06,Traditional,Visual
+152,ROLL0152,ECE,B.Tech,Cyber Security,Female,21,Haryana,General,8.8,97.28,8.26,74.2,Hybrid,Visual
+153,ROLL0153,ECE,B.Tech,Cyber Security,Female,26,Delhi,SC,8.1,60.92,8.61,71.29,Online,Visual
+154,ROLL0154,IT,BCA,Cloud,Female,23,Delhi,ST,4.8,89.46,9.74,70.91,Online,Visual
+155,ROLL0155,CSE,B.Tech,Cyber Security,Male,24,Punjab,SC,9.2,64.91,6.94,75.59,Traditional,Auditory
+156,ROLL0156,ECE,BCA,Software Engg,Female,25,Punjab,ST,9.3,94.8,8.08,75.75,Online,Visual
+157,ROLL0157,BCA,MCA,Software Engg,Female,26,Punjab,OBC,6.5,75.17,8.98,72.58,Traditional,Kinesthetic
+158,ROLL0158,ECE,BCA,AI,Male,23,UP,OBC,2.0,76.58,9.45,52.85,Online,Kinesthetic
+159,ROLL0159,MCA,MCA,Cyber Security,Female,20,Punjab,General,4.1,73.88,8.95,54.79,Online,Auditory
+160,ROLL0160,MCA,B.Tech,Cloud,Female,22,Bihar,General,3.2,83.11,6.66,58.3,Hybrid,Visual
+161,ROLL0161,IT,BCA,Cyber Security,Female,21,UP,SC,9.2,74.5,8.32,72.51,Traditional,Visual
+162,ROLL0162,IT,MCA,AI,Female,25,Haryana,ST,5.1,82.29,9.44,67.88,Online,Visual
+163,ROLL0163,CSE,MCA,Cyber Security,Female,20,Delhi,SC,5.5,83.82,6.27,62.59,Traditional,Kinesthetic
+164,ROLL0164,IT,MCA,Cloud,Female,25,UP,ST,4.1,78.73,8.5,65.67,Traditional,Kinesthetic
+165,ROLL0165,IT,MCA,Cloud,Female,18,Delhi,General,6.3,71.76,8.86,81.05,Hybrid,Auditory
+166,ROLL0166,IT,MCA,Software Engg,Female,18,Haryana,SC,4.6,82.39,6.62,73.55,Hybrid,Auditory
+167,ROLL0167,ECE,MCA,Cloud,Female,19,Punjab,SC,4.0,63.02,9.01,64.57,Online,Auditory
+168,ROLL0168,IT,BCA,AI,Female,19,Delhi,ST,4.7,61.02,6.62,62.63,Hybrid,Kinesthetic
+169,ROLL0169,IT,BCA,Cloud,Female,25,Bihar,ST,8.8,76.32,8.21,72.55,Online,Kinesthetic
+170,ROLL0170,CSE,BCA,Data Science,Female,18,Bihar,OBC,1.9,92.0,6.71,52.58,Hybrid,Auditory
+171,ROLL0171,CSE,BCA,Data Science,Female,21,Punjab,OBC,6.0,88.83,9.22,68.07,Hybrid,Kinesthetic
+172,ROLL0172,CSE,B.Tech,Data Science,Male,24,Delhi,OBC,9.5,65.64,7.63,78.81,Online,Kinesthetic
+173,ROLL0173,BCA,MCA,Software Engg,Male,19,Bihar,SC,9.1,60.52,6.34,78.93,Hybrid,Visual
+174,ROLL0174,BCA,BCA,AI,Female,19,Punjab,General,9.0,92.7,7.37,70.74,Online,Kinesthetic
+175,ROLL0175,MCA,BCA,Cyber Security,Male,26,Delhi,SC,4.3,61.37,9.32,68.83,Online,Auditory
+176,ROLL0176,CSE,MCA,Software Engg,Female,23,UP,SC,4.9,71.78,9.79,61.35,Online,Visual
+177,ROLL0177,IT,B.Tech,Cloud,Female,18,Haryana,General,8.0,64.57,8.26,73.9,Online,Visual
+178,ROLL0178,IT,MCA,Data Science,Female,19,UP,OBC,5.4,80.5,8.97,67.87,Online,Visual
+179,ROLL0179,BCA,MCA,Cyber Security,Female,24,Haryana,OBC,6.7,70.32,6.56,63.66,Hybrid,Auditory
+180,ROLL0180,IT,MCA,Cloud,Male,21,Delhi,SC,7.1,92.9,8.12,71.8,Online,Auditory
+181,ROLL0181,ECE,MCA,Cyber Security,Female,22,Punjab,SC,5.5,62.69,7.62,75.55,Traditional,Kinesthetic
+182,ROLL0182,ECE,B.Tech,Software Engg,Female,23,Bihar,ST,1.1,65.48,9.6,53.2,Online,Auditory
+183,ROLL0183,IT,BCA,Cloud,Female,18,Delhi,General,7.6,70.03,8.53,86.6,Hybrid,Kinesthetic
+184,ROLL0184,CSE,BCA,AI,Female,19,Haryana,ST,4.8,75.33,8.08,63.32,Online,Kinesthetic
+185,ROLL0185,ECE,BCA,AI,Female,22,Delhi,ST,2.5,89.52,6.33,50.33,Hybrid,Auditory
+186,ROLL0186,IT,BCA,AI,Male,24,Bihar,OBC,8.5,77.49,9.66,78.41,Hybrid,Auditory
+187,ROLL0187,BCA,B.Tech,Data Science,Female,21,Delhi,ST,6.5,97.97,7.59,60.73,Traditional,Auditory
+188,ROLL0188,IT,B.Tech,Software Engg,Female,19,Bihar,General,2.5,93.66,9.39,56.88,Hybrid,Kinesthetic
+189,ROLL0189,CSE,BCA,Data Science,Female,25,Punjab,OBC,6.6,78.97,7.38,64.57,Traditional,Auditory
+190,ROLL0190,MCA,MCA,AI,Male,22,Haryana,OBC,4.9,69.86,9.28,55.8,Traditional,Kinesthetic
+191,ROLL0191,MCA,BCA,AI,Female,18,Haryana,OBC,1.0,98.71,6.02,51.46,Traditional,Kinesthetic
+192,ROLL0192,MCA,B.Tech,AI,Female,25,Bihar,ST,2.2,98.01,7.78,53.31,Online,Auditory
+193,ROLL0193,CSE,MCA,Software Engg,Male,25,UP,General,7.8,85.56,9.04,77.59,Online,Kinesthetic
+194,ROLL0194,IT,BCA,Data Science,Male,26,Delhi,General,3.2,79.58,6.88,66.44,Online,Auditory
+195,ROLL0195,CSE,BCA,Cyber Security,Female,22,Delhi,ST,9.5,61.58,8.82,82.59,Traditional,Kinesthetic
+196,ROLL0196,IT,MCA,Cloud,Female,24,UP,General,7.6,67.7,6.46,73.47,Hybrid,Kinesthetic
+197,ROLL0197,CSE,BCA,Cyber Security,Female,24,Haryana,General,8.2,89.8,6.22,81.38,Hybrid,Kinesthetic
+198,ROLL0198,MCA,MCA,AI,Female,19,Haryana,SC,1.3,83.85,6.92,40.34,Traditional,Auditory
+199,ROLL0199,ECE,MCA,Data Science,Male,25,Bihar,General,9.0,81.21,7.76,84.22,Hybrid,Auditory
+200,ROLL0200,ECE,MCA,Cyber Security,Male,19,Delhi,ST,5.9,91.63,7.28,58.18,Online,Auditory
+201,ROLL0201,IT,BCA,Software Engg,Female,19,Haryana,ST,5.7,77.07,9.51,61.63,Online,Auditory
+202,ROLL0202,IT,BCA,Cloud,Male,20,Bihar,OBC,1.2,94.99,8.12,41.74,Traditional,Auditory
+203,ROLL0203,CSE,B.Tech,AI,Female,26,UP,ST,1.6,60.38,6.21,67.79,Online,Visual
+204,ROLL0204,ECE,MCA,Cloud,Female,22,Punjab,SC,7.9,76.71,7.69,70.45,Traditional,Kinesthetic
+205,ROLL0205,IT,B.Tech,Cyber Security,Male,19,Punjab,OBC,7.6,60.13,7.87,76.73,Hybrid,Auditory
+206,ROLL0206,IT,B.Tech,Cloud,Male,26,Punjab,SC,3.1,61.68,6.07,57.04,Online,Auditory
+207,ROLL0207,BCA,MCA,Cloud,Female,24,Delhi,General,2.0,75.67,6.5,58.82,Hybrid,Visual
+208,ROLL0208,BCA,MCA,Data Science,Male,19,Delhi,SC,8.9,97.79,7.87,69.04,Hybrid,Visual
+209,ROLL0209,IT,B.Tech,AI,Female,22,Delhi,OBC,2.5,99.65,6.93,58.33,Online,Auditory
+210,ROLL0210,IT,BCA,Data Science,Female,26,Delhi,SC,8.5,64.81,6.19,77.96,Online,Auditory
+211,ROLL0211,CSE,MCA,Data Science,Female,24,UP,OBC,3.0,67.46,9.12,56.52,Online,Kinesthetic
+212,ROLL0212,IT,MCA,Cloud,Female,20,UP,OBC,9.0,97.11,9.98,76.16,Hybrid,Kinesthetic
+213,ROLL0213,CSE,MCA,Cloud,Female,25,Punjab,ST,7.8,87.84,6.62,70.64,Hybrid,Visual
+214,ROLL0214,ECE,BCA,Cyber Security,Male,22,Punjab,ST,7.7,61.39,9.58,76.26,Online,Visual
+215,ROLL0215,MCA,B.Tech,AI,Male,22,UP,ST,1.8,95.1,7.06,58.12,Hybrid,Auditory
+216,ROLL0216,ECE,B.Tech,Cyber Security,Male,23,Bihar,General,7.6,71.26,7.01,78.22,Hybrid,Auditory
+217,ROLL0217,IT,B.Tech,Cyber Security,Male,18,UP,SC,3.3,88.94,7.98,57.31,Online,Visual
+218,ROLL0218,MCA,B.Tech,Software Engg,Male,20,Punjab,SC,1.6,95.32,8.06,55.92,Traditional,Kinesthetic
+219,ROLL0219,BCA,MCA,Data Science,Female,23,Bihar,OBC,8.4,73.91,8.71,67.0,Online,Visual
+220,ROLL0220,ECE,MCA,AI,Female,26,Haryana,SC,5.7,94.73,6.98,69.41,Hybrid,Kinesthetic
+221,ROLL0221,BCA,BCA,AI,Female,24,Punjab,SC,4.0,69.55,9.72,63.59,Traditional,Auditory
+222,ROLL0222,IT,B.Tech,Cloud,Male,24,Haryana,General,8.9,98.45,7.86,73.55,Online,Visual
+223,ROLL0223,ECE,MCA,Cyber Security,Male,24,Haryana,OBC,1.0,92.8,6.91,60.84,Hybrid,Kinesthetic
+224,ROLL0224,ECE,MCA,Cloud,Male,26,Haryana,SC,2.7,63.36,7.31,59.82,Hybrid,Visual
+225,ROLL0225,BCA,MCA,Software Engg,Male,23,Delhi,General,6.7,70.39,8.54,77.58,Online,Auditory
+226,ROLL0226,ECE,BCA,Cyber Security,Male,19,UP,SC,3.6,60.74,7.73,61.87,Online,Auditory
+227,ROLL0227,MCA,B.Tech,Data Science,Male,18,Bihar,ST,4.1,85.3,9.73,60.07,Online,Kinesthetic
+228,ROLL0228,BCA,BCA,Cyber Security,Female,23,Delhi,General,7.9,88.34,7.89,74.67,Hybrid,Auditory
+229,ROLL0229,ECE,MCA,Cyber Security,Female,24,Punjab,General,6.6,61.83,9.49,67.01,Online,Visual
+230,ROLL0230,MCA,MCA,Cloud,Male,20,Punjab,OBC,1.6,92.86,7.49,56.69,Traditional,Visual
+231,ROLL0231,CSE,B.Tech,Software Engg,Male,20,UP,ST,3.3,60.04,6.64,63.29,Traditional,Visual
+232,ROLL0232,CSE,BCA,Data Science,Male,21,Delhi,General,5.1,66.54,9.18,65.06,Traditional,Kinesthetic
+233,ROLL0233,IT,B.Tech,AI,Male,22,Delhi,SC,8.6,90.91,6.92,77.95,Hybrid,Kinesthetic
+234,ROLL0234,CSE,BCA,Cyber Security,Female,20,Delhi,OBC,6.7,75.9,7.1,71.32,Online,Visual
+235,ROLL0235,BCA,BCA,AI,Female,18,Punjab,SC,3.8,72.83,8.9,57.5,Traditional,Auditory
+236,ROLL0236,MCA,BCA,AI,Female,25,Haryana,General,6.9,74.74,9.46,73.9,Hybrid,Kinesthetic
+237,ROLL0237,CSE,MCA,AI,Male,19,Haryana,SC,2.4,68.15,6.36,56.41,Traditional,Auditory
+238,ROLL0238,MCA,MCA,Cloud,Female,22,UP,SC,7.8,85.05,6.52,67.47,Online,Visual
+239,ROLL0239,BCA,B.Tech,Data Science,Male,21,Bihar,OBC,9.2,98.7,6.74,85.79,Traditional,Kinesthetic
+240,ROLL0240,BCA,B.Tech,Cyber Security,Male,23,UP,ST,4.9,68.02,7.97,72.21,Online,Visual
+241,ROLL0241,CSE,BCA,Data Science,Male,25,UP,SC,6.2,70.76,9.19,66.37,Hybrid,Auditory
+242,ROLL0242,ECE,MCA,Cyber Security,Female,23,Punjab,SC,5.2,87.22,7.58,56.15,Hybrid,Auditory
+243,ROLL0243,CSE,B.Tech,Software Engg,Female,18,UP,General,3.6,87.8,9.44,55.97,Hybrid,Kinesthetic
+244,ROLL0244,IT,BCA,Cloud,Male,23,Bihar,General,1.9,82.84,6.07,55.46,Traditional,Visual
+245,ROLL0245,MCA,MCA,AI,Male,18,Bihar,SC,6.6,88.1,8.24,65.42,Hybrid,Auditory
+246,ROLL0246,MCA,B.Tech,Data Science,Female,23,Delhi,OBC,8.4,74.31,7.29,75.39,Online,Auditory
+247,ROLL0247,CSE,BCA,Cyber Security,Male,18,UP,General,6.1,87.58,9.2,65.83,Traditional,Auditory
+248,ROLL0248,CSE,BCA,Cloud,Female,26,UP,ST,9.6,64.97,9.58,76.58,Hybrid,Kinesthetic
+249,ROLL0249,CSE,B.Tech,AI,Male,19,UP,General,9.4,62.08,8.17,81.69,Online,Auditory
+250,ROLL0250,BCA,MCA,AI,Female,24,Haryana,ST,6.6,91.34,8.45,71.77,Hybrid,Visual
+251,ROLL0251,BCA,B.Tech,Cyber Security,Female,26,Bihar,SC,6.9,82.12,8.39,70.2,Traditional,Visual
+252,ROLL0252,MCA,MCA,Data Science,Female,24,Haryana,General,2.5,77.54,8.9,64.99,Traditional,Visual
+253,ROLL0253,BCA,BCA,Cloud,Female,25,Delhi,SC,6.9,79.17,8.46,68.93,Traditional,Visual
+254,ROLL0254,CSE,BCA,Cyber Security,Female,19,Punjab,General,8.8,77.35,6.17,66.27,Traditional,Visual
+255,ROLL0255,IT,B.Tech,Data Science,Male,20,Haryana,General,1.2,86.13,7.33,51.15,Traditional,Visual
+256,ROLL0256,CSE,BCA,Data Science,Female,18,UP,ST,7.1,62.89,6.12,86.77,Traditional,Kinesthetic
+257,ROLL0257,ECE,BCA,Data Science,Male,22,Delhi,OBC,8.6,66.97,9.84,81.46,Hybrid,Visual
+258,ROLL0258,MCA,BCA,Cloud,Female,25,Haryana,SC,4.1,74.84,9.95,60.93,Traditional,Kinesthetic
+259,ROLL0259,MCA,MCA,Data Science,Male,21,Bihar,SC,5.9,80.56,8.35,67.29,Hybrid,Visual
+260,ROLL0260,ECE,MCA,AI,Female,20,UP,SC,8.9,96.03,7.69,74.83,Online,Kinesthetic
+261,ROLL0261,CSE,MCA,Cyber Security,Female,18,Haryana,OBC,6.3,96.49,6.84,76.28,Online,Kinesthetic
+262,ROLL0262,IT,BCA,Data Science,Male,24,Haryana,ST,2.2,88.63,9.64,63.5,Online,Auditory
+263,ROLL0263,MCA,B.Tech,Cyber Security,Male,26,UP,OBC,6.7,74.91,8.05,66.58,Online,Kinesthetic
+264,ROLL0264,IT,B.Tech,Cloud,Male,25,UP,OBC,3.2,94.83,7.78,58.89,Traditional,Auditory
+265,ROLL0265,IT,B.Tech,Cloud,Female,19,Delhi,SC,6.2,86.5,6.38,61.97,Traditional,Kinesthetic
+266,ROLL0266,CSE,MCA,Software Engg,Male,25,Delhi,ST,8.7,60.36,8.35,81.47,Traditional,Auditory
+267,ROLL0267,BCA,MCA,Cloud,Female,26,UP,OBC,4.6,69.48,6.94,63.05,Online,Auditory
+268,ROLL0268,CSE,BCA,Data Science,Female,18,Haryana,ST,4.9,69.95,8.47,69.68,Online,Visual
+269,ROLL0269,BCA,BCA,Software Engg,Female,22,Punjab,OBC,3.3,74.37,7.52,51.72,Hybrid,Kinesthetic
+270,ROLL0270,MCA,B.Tech,Cyber Security,Female,23,UP,OBC,8.0,88.22,7.79,80.03,Traditional,Visual
+271,ROLL0271,MCA,B.Tech,Data Science,Male,21,Bihar,General,2.9,64.48,7.08,58.94,Hybrid,Visual
+272,ROLL0272,MCA,BCA,Software Engg,Female,22,Bihar,ST,1.5,85.6,6.9,51.06,Hybrid,Auditory
+273,ROLL0273,IT,BCA,Cloud,Female,25,Haryana,OBC,9.4,72.65,8.03,82.78,Online,Auditory
+274,ROLL0274,ECE,B.Tech,Software Engg,Male,21,Punjab,SC,5.6,79.55,8.67,68.53,Traditional,Auditory
+275,ROLL0275,BCA,BCA,Cloud,Male,25,Punjab,ST,2.1,65.31,6.57,56.62,Online,Visual
+276,ROLL0276,CSE,MCA,Cyber Security,Female,23,Delhi,OBC,9.7,63.76,8.69,79.7,Hybrid,Kinesthetic
+277,ROLL0277,ECE,MCA,AI,Female,18,UP,OBC,8.8,67.09,8.77,76.25,Hybrid,Kinesthetic
+278,ROLL0278,CSE,B.Tech,AI,Male,25,Bihar,OBC,8.5,94.58,9.07,85.52,Traditional,Visual
+279,ROLL0279,BCA,BCA,Cyber Security,Male,19,Punjab,OBC,8.2,96.75,8.4,78.8,Online,Kinesthetic
+280,ROLL0280,MCA,MCA,Cyber Security,Male,26,Punjab,OBC,10.0,61.93,9.91,89.08,Online,Auditory
+281,ROLL0281,MCA,MCA,Cloud,Female,19,UP,ST,9.9,90.1,6.36,76.68,Traditional,Visual
+282,ROLL0282,IT,BCA,Software Engg,Male,23,Haryana,ST,4.6,73.08,8.67,62.17,Traditional,Visual
+283,ROLL0283,BCA,B.Tech,Cloud,Female,23,Haryana,OBC,9.1,95.12,7.27,75.7,Hybrid,Visual
+284,ROLL0284,ECE,MCA,Software Engg,Female,24,Bihar,General,6.8,73.14,8.52,75.14,Hybrid,Visual
+285,ROLL0285,MCA,BCA,AI,Female,20,Haryana,ST,6.1,75.22,8.19,73.62,Hybrid,Auditory
+286,ROLL0286,BCA,B.Tech,Cyber Security,Male,19,Punjab,SC,3.0,62.93,8.41,70.23,Traditional,Auditory
+287,ROLL0287,IT,BCA,Cloud,Female,22,Punjab,General,5.2,75.19,9.45,53.1,Traditional,Auditory
+288,ROLL0288,ECE,BCA,Software Engg,Male,22,Punjab,ST,8.3,64.36,6.6,86.35,Traditional,Auditory
+289,ROLL0289,IT,B.Tech,AI,Male,22,Delhi,ST,3.2,79.07,7.58,67.72,Traditional,Kinesthetic
+290,ROLL0290,MCA,BCA,Software Engg,Female,26,Delhi,General,2.8,60.3,8.59,60.03,Hybrid,Kinesthetic
+291,ROLL0291,CSE,B.Tech,Data Science,Female,21,Punjab,ST,6.9,75.2,6.79,63.71,Hybrid,Visual
+292,ROLL0292,MCA,MCA,AI,Male,20,Haryana,ST,3.3,71.39,7.23,59.42,Online,Auditory
+293,ROLL0293,ECE,B.Tech,Data Science,Male,26,UP,ST,6.2,63.59,8.87,70.18,Online,Visual
+294,ROLL0294,IT,BCA,Data Science,Male,24,Punjab,ST,5.7,64.93,9.44,66.77,Traditional,Auditory
+295,ROLL0295,ECE,MCA,Cloud,Male,21,Punjab,OBC,5.7,88.36,6.43,59.14,Online,Kinesthetic
+296,ROLL0296,CSE,MCA,AI,Male,25,Delhi,OBC,4.8,63.48,9.26,66.6,Hybrid,Visual
+297,ROLL0297,BCA,BCA,Data Science,Female,26,Haryana,General,5.7,64.49,6.01,68.34,Hybrid,Visual
+298,ROLL0298,CSE,BCA,Cyber Security,Female,26,UP,SC,8.1,85.86,6.7,85.55,Traditional,Kinesthetic
+299,ROLL0299,ECE,B.Tech,AI,Male,19,Bihar,ST,8.6,96.0,7.41,79.54,Online,Auditory
+300,ROLL0300,ECE,B.Tech,Cyber Security,Female,26,UP,General,7.6,94.05,8.69,69.3,Traditional,Auditory
+301,ROLL0301,MCA,B.Tech,Data Science,Male,20,Punjab,ST,1.9,84.95,7.81,49.76,Hybrid,Kinesthetic
+302,ROLL0302,CSE,MCA,AI,Female,23,Punjab,ST,8.8,78.92,8.14,77.95,Online,Visual
+303,ROLL0303,MCA,B.Tech,Cloud,Female,26,Delhi,SC,1.2,85.68,8.43,45.92,Online,Kinesthetic
+304,ROLL0304,BCA,MCA,Software Engg,Female,22,UP,ST,5.5,99.51,6.55,67.84,Hybrid,Kinesthetic
+305,ROLL0305,ECE,B.Tech,Cloud,Male,21,Bihar,ST,7.1,77.71,7.78,76.51,Traditional,Auditory
+306,ROLL0306,BCA,B.Tech,Cyber Security,Male,21,Punjab,OBC,7.5,83.14,7.1,69.9,Hybrid,Visual
+307,ROLL0307,MCA,MCA,AI,Male,26,Bihar,SC,1.8,95.77,6.77,49.9,Traditional,Auditory
+308,ROLL0308,MCA,BCA,AI,Male,22,Haryana,ST,6.6,77.7,9.33,66.24,Hybrid,Visual
+309,ROLL0309,CSE,B.Tech,Cyber Security,Female,20,Haryana,SC,1.6,85.61,7.08,63.25,Hybrid,Kinesthetic
+310,ROLL0310,BCA,B.Tech,Cyber Security,Female,23,Haryana,General,2.7,62.09,7.51,62.45,Traditional,Visual
+311,ROLL0311,BCA,MCA,Cloud,Male,21,Bihar,General,6.0,89.23,7.86,68.48,Online,Kinesthetic
+312,ROLL0312,BCA,B.Tech,Data Science,Female,24,Bihar,OBC,9.7,85.4,9.02,75.7,Traditional,Visual
+313,ROLL0313,CSE,MCA,Cloud,Female,25,Punjab,OBC,5.8,63.87,7.8,63.72,Traditional,Auditory
+314,ROLL0314,MCA,BCA,Software Engg,Female,20,Haryana,OBC,8.2,97.09,6.94,80.78,Traditional,Visual
+315,ROLL0315,MCA,BCA,Data Science,Male,22,Bihar,General,2.4,99.7,9.71,63.27,Hybrid,Visual
+316,ROLL0316,CSE,B.Tech,AI,Female,18,Haryana,SC,1.8,70.28,9.15,56.11,Online,Visual
+317,ROLL0317,BCA,BCA,AI,Male,26,Punjab,ST,6.5,80.27,6.64,66.09,Hybrid,Auditory
+318,ROLL0318,CSE,MCA,Data Science,Male,20,Punjab,General,1.8,97.48,8.22,49.53,Online,Visual
+319,ROLL0319,IT,B.Tech,Cyber Security,Female,23,Delhi,General,4.6,77.89,8.4,67.98,Hybrid,Visual
+320,ROLL0320,IT,B.Tech,AI,Male,18,Delhi,SC,6.1,75.64,8.0,68.46,Hybrid,Visual
+321,ROLL0321,CSE,BCA,Software Engg,Male,21,Haryana,OBC,2.0,92.7,7.52,58.84,Online,Visual
+322,ROLL0322,IT,MCA,Software Engg,Female,19,Delhi,General,8.4,72.9,6.09,78.2,Online,Kinesthetic
+323,ROLL0323,BCA,B.Tech,AI,Male,23,Punjab,ST,3.0,98.29,8.29,59.62,Traditional,Kinesthetic
+324,ROLL0324,CSE,BCA,Data Science,Male,23,Punjab,General,3.8,84.25,6.56,64.95,Hybrid,Auditory
+325,ROLL0325,IT,B.Tech,Cloud,Female,19,UP,SC,8.5,72.7,9.81,78.05,Traditional,Auditory
+326,ROLL0326,MCA,BCA,AI,Female,21,Bihar,SC,1.6,61.03,6.54,59.79,Hybrid,Visual
+327,ROLL0327,BCA,MCA,AI,Female,21,Haryana,SC,1.7,91.07,6.49,58.39,Hybrid,Auditory
+328,ROLL0328,ECE,BCA,Cyber Security,Female,19,Bihar,OBC,5.0,64.23,8.56,65.71,Hybrid,Auditory
+329,ROLL0329,MCA,MCA,AI,Female,19,Bihar,General,6.9,66.08,6.25,69.63,Traditional,Kinesthetic
+330,ROLL0330,ECE,MCA,Software Engg,Female,26,Haryana,OBC,5.4,90.17,8.48,73.65,Traditional,Auditory
+331,ROLL0331,IT,B.Tech,AI,Female,24,Haryana,SC,4.9,66.83,6.3,61.15,Traditional,Kinesthetic
+332,ROLL0332,CSE,B.Tech,Cyber Security,Male,24,Delhi,OBC,7.2,62.49,8.04,75.87,Hybrid,Kinesthetic
+333,ROLL0333,CSE,B.Tech,AI,Male,23,UP,ST,3.1,69.31,6.88,61.75,Online,Visual
+334,ROLL0334,MCA,BCA,Cyber Security,Female,20,UP,ST,4.8,65.23,9.55,59.26,Hybrid,Kinesthetic
+335,ROLL0335,ECE,BCA,AI,Male,24,Punjab,General,4.3,76.57,9.31,67.29,Online,Visual
+336,ROLL0336,BCA,BCA,Cyber Security,Female,22,Delhi,General,4.7,79.25,6.08,67.91,Hybrid,Visual
+337,ROLL0337,ECE,MCA,Cyber Security,Male,22,Punjab,General,7.8,65.48,8.14,68.43,Traditional,Kinesthetic
+338,ROLL0338,IT,MCA,Cloud,Female,21,Delhi,ST,8.6,63.92,7.95,75.65,Traditional,Kinesthetic
+339,ROLL0339,CSE,BCA,Cyber Security,Male,23,Punjab,SC,8.8,69.74,8.61,78.61,Online,Auditory
+340,ROLL0340,CSE,MCA,Data Science,Male,18,Haryana,OBC,4.5,98.25,6.53,69.53,Traditional,Auditory
+341,ROLL0341,BCA,B.Tech,Cloud,Male,19,Haryana,SC,6.9,97.71,9.24,69.71,Hybrid,Kinesthetic
+342,ROLL0342,CSE,MCA,Cloud,Male,24,Punjab,SC,1.3,96.07,7.85,52.0,Online,Visual
+343,ROLL0343,BCA,B.Tech,AI,Female,25,Punjab,OBC,6.9,95.8,8.55,67.5,Traditional,Kinesthetic
+344,ROLL0344,IT,BCA,Cyber Security,Female,24,Haryana,ST,8.9,64.23,9.95,77.54,Online,Visual
+345,ROLL0345,IT,BCA,Software Engg,Female,25,Delhi,OBC,7.1,61.67,6.34,69.47,Online,Visual
+346,ROLL0346,CSE,MCA,Software Engg,Female,25,Delhi,SC,1.9,61.42,8.03,56.62,Online,Auditory
+347,ROLL0347,ECE,MCA,Cloud,Female,20,Delhi,SC,4.2,71.86,7.4,66.0,Online,Auditory
+348,ROLL0348,CSE,B.Tech,Cyber Security,Female,25,Delhi,ST,2.6,63.94,8.64,63.59,Online,Auditory
+349,ROLL0349,MCA,BCA,Data Science,Female,19,Bihar,OBC,3.4,60.84,6.33,63.24,Online,Visual
+350,ROLL0350,ECE,BCA,Cloud,Female,21,Punjab,OBC,7.0,60.42,7.02,77.56,Online,Visual
+351,ROLL0351,BCA,BCA,Software Engg,Male,25,Bihar,OBC,8.0,85.76,8.12,70.78,Traditional,Auditory
+352,ROLL0352,ECE,MCA,Software Engg,Female,19,Haryana,General,2.0,79.44,9.68,60.64,Traditional,Visual
+353,ROLL0353,CSE,B.Tech,Data Science,Male,26,Punjab,ST,2.2,73.53,9.71,53.63,Online,Visual
+354,ROLL0354,MCA,B.Tech,AI,Male,20,Haryana,OBC,2.5,70.95,9.71,51.09,Traditional,Kinesthetic
+355,ROLL0355,ECE,MCA,Cyber Security,Female,18,Bihar,OBC,9.0,85.83,7.14,78.52,Online,Kinesthetic
+356,ROLL0356,IT,B.Tech,Cyber Security,Male,22,UP,ST,3.3,81.76,8.54,61.23,Traditional,Kinesthetic
+357,ROLL0357,ECE,BCA,Software Engg,Male,26,Bihar,General,9.8,89.93,8.23,85.02,Online,Auditory
+358,ROLL0358,CSE,BCA,Cyber Security,Female,22,Bihar,SC,9.4,61.73,6.66,74.2,Hybrid,Auditory
+359,ROLL0359,CSE,MCA,Cyber Security,Male,23,UP,ST,7.5,92.71,6.85,78.69,Online,Kinesthetic
+360,ROLL0360,CSE,B.Tech,Software Engg,Male,23,Delhi,ST,5.9,83.61,8.03,67.81,Hybrid,Auditory
+361,ROLL0361,CSE,B.Tech,Cloud,Female,25,UP,ST,6.1,87.56,9.49,74.75,Hybrid,Auditory
+362,ROLL0362,MCA,BCA,Data Science,Female,22,Punjab,General,5.2,60.37,6.99,68.97,Traditional,Visual
+363,ROLL0363,ECE,B.Tech,Cloud,Female,26,Bihar,General,8.9,71.12,6.78,78.39,Online,Kinesthetic
+364,ROLL0364,CSE,B.Tech,Cloud,Male,19,Haryana,ST,6.0,89.32,8.46,72.08,Hybrid,Kinesthetic
+365,ROLL0365,MCA,BCA,Cyber Security,Male,20,Punjab,ST,4.2,91.35,8.22,55.35,Traditional,Kinesthetic
+366,ROLL0366,IT,BCA,AI,Female,21,Haryana,SC,8.6,78.81,8.01,70.27,Hybrid,Auditory
+367,ROLL0367,MCA,B.Tech,Software Engg,Male,23,Delhi,General,4.5,85.73,9.12,61.21,Hybrid,Auditory
+368,ROLL0368,CSE,B.Tech,AI,Male,23,UP,ST,4.7,87.82,6.01,62.31,Traditional,Kinesthetic
+369,ROLL0369,IT,MCA,Cloud,Male,20,Bihar,General,2.5,67.25,7.55,62.4,Online,Auditory
+370,ROLL0370,CSE,MCA,Data Science,Female,21,UP,OBC,1.6,83.2,8.25,53.52,Online,Auditory
+371,ROLL0371,MCA,B.Tech,Cloud,Male,20,UP,OBC,1.5,79.46,8.4,52.97,Online,Kinesthetic
+372,ROLL0372,BCA,BCA,AI,Male,23,Haryana,SC,5.5,63.08,6.23,66.83,Online,Kinesthetic
+373,ROLL0373,MCA,BCA,Cloud,Female,18,Bihar,OBC,2.9,93.01,8.08,54.18,Online,Kinesthetic
+374,ROLL0374,ECE,B.Tech,Cloud,Female,26,UP,SC,4.9,63.54,6.88,63.18,Hybrid,Kinesthetic
+375,ROLL0375,ECE,MCA,AI,Male,23,Bihar,General,9.4,85.7,7.68,84.31,Traditional,Visual
+376,ROLL0376,CSE,BCA,Cyber Security,Male,22,UP,General,9.9,89.89,8.96,82.61,Online,Auditory
+377,ROLL0377,BCA,MCA,Software Engg,Male,18,Punjab,SC,2.7,74.49,7.34,55.46,Hybrid,Kinesthetic
+378,ROLL0378,ECE,B.Tech,AI,Female,20,Haryana,SC,9.4,91.3,6.22,82.06,Traditional,Visual
+379,ROLL0379,MCA,BCA,Cyber Security,Male,22,Bihar,OBC,4.9,94.91,9.37,67.27,Hybrid,Auditory
+380,ROLL0380,ECE,BCA,Cyber Security,Female,24,UP,General,7.4,85.25,6.2,69.54,Online,Visual
+381,ROLL0381,ECE,B.Tech,Data Science,Female,26,UP,ST,5.5,77.47,8.92,63.49,Online,Auditory
+382,ROLL0382,MCA,BCA,Software Engg,Female,25,Bihar,ST,7.8,86.28,9.83,75.74,Hybrid,Auditory
+383,ROLL0383,IT,MCA,Data Science,Female,25,Bihar,ST,1.5,71.29,7.05,56.28,Online,Auditory
+384,ROLL0384,CSE,B.Tech,Software Engg,Male,26,Delhi,ST,9.8,74.85,7.72,78.29,Online,Kinesthetic
+385,ROLL0385,MCA,B.Tech,Data Science,Male,24,Delhi,OBC,8.0,62.61,7.95,61.88,Hybrid,Visual
+386,ROLL0386,IT,B.Tech,Data Science,Male,21,Bihar,SC,1.8,69.47,8.93,59.82,Traditional,Kinesthetic
+387,ROLL0387,BCA,B.Tech,AI,Male,26,Delhi,SC,2.2,95.29,7.57,59.04,Online,Visual
+388,ROLL0388,MCA,MCA,Cyber Security,Male,24,Punjab,OBC,5.5,99.18,6.58,69.28,Traditional,Visual
+389,ROLL0389,BCA,BCA,Cloud,Male,26,Punjab,SC,2.8,82.61,7.86,58.8,Traditional,Auditory
+390,ROLL0390,BCA,B.Tech,Software Engg,Male,26,Haryana,OBC,2.6,60.88,8.88,59.54,Hybrid,Visual
+391,ROLL0391,IT,MCA,Software Engg,Male,23,Punjab,OBC,8.7,82.45,8.09,74.62,Online,Visual
+392,ROLL0392,BCA,B.Tech,AI,Female,19,Delhi,ST,5.9,84.52,6.9,68.46,Online,Visual
+393,ROLL0393,MCA,B.Tech,Cloud,Female,19,Delhi,OBC,5.4,66.63,9.78,68.38,Traditional,Visual
+394,ROLL0394,MCA,B.Tech,Cyber Security,Female,25,Delhi,OBC,8.8,78.41,9.0,80.92,Traditional,Auditory
+395,ROLL0395,IT,B.Tech,AI,Male,22,Delhi,OBC,8.1,64.48,7.42,63.63,Traditional,Auditory
+396,ROLL0396,IT,B.Tech,Cyber Security,Male,23,UP,General,2.5,73.21,9.03,57.32,Traditional,Auditory
+397,ROLL0397,IT,B.Tech,Software Engg,Female,26,Punjab,OBC,1.2,65.05,8.64,51.11,Online,Visual
+398,ROLL0398,IT,MCA,Cloud,Female,19,Punjab,General,6.0,90.03,8.23,64.56,Traditional,Kinesthetic
+399,ROLL0399,IT,BCA,Data Science,Male,23,Bihar,General,1.6,78.56,9.64,53.9,Hybrid,Auditory
+400,ROLL0400,MCA,B.Tech,AI,Female,20,Haryana,ST,4.3,78.07,7.59,78.87,Hybrid,Auditory
+401,ROLL0401,ECE,BCA,Cyber Security,Female,26,Delhi,SC,5.0,67.82,6.75,63.71,Traditional,Auditory
+402,ROLL0402,MCA,MCA,Data Science,Male,25,UP,SC,6.2,85.38,9.19,64.95,Traditional,Auditory
+403,ROLL0403,BCA,MCA,Data Science,Female,20,Punjab,OBC,5.7,77.9,8.23,69.0,Hybrid,Auditory
+404,ROLL0404,MCA,MCA,Software Engg,Female,18,Haryana,ST,9.1,66.75,8.03,71.71,Hybrid,Auditory
+405,ROLL0405,ECE,MCA,Data Science,Female,23,Bihar,ST,1.3,74.55,8.93,51.15,Online,Auditory
+406,ROLL0406,MCA,MCA,Cloud,Male,24,Punjab,OBC,9.7,94.27,6.47,83.82,Hybrid,Visual
+407,ROLL0407,BCA,BCA,Cloud,Female,21,Delhi,OBC,9.7,76.71,9.94,84.84,Traditional,Visual
+408,ROLL0408,CSE,BCA,Data Science,Female,22,Haryana,ST,10.0,99.19,8.62,87.16,Traditional,Kinesthetic
+409,ROLL0409,CSE,BCA,Data Science,Male,26,UP,OBC,6.0,81.1,8.88,63.97,Traditional,Visual
+410,ROLL0410,ECE,MCA,Cloud,Male,26,Bihar,General,8.4,81.63,8.84,78.18,Hybrid,Kinesthetic
+411,ROLL0411,CSE,B.Tech,Cloud,Male,20,UP,OBC,5.2,92.87,7.84,65.14,Traditional,Auditory
+412,ROLL0412,ECE,B.Tech,Cloud,Female,25,Bihar,SC,8.9,81.02,6.98,65.5,Online,Auditory
+413,ROLL0413,ECE,BCA,Cyber Security,Female,19,UP,General,1.8,88.76,7.68,56.65,Traditional,Visual
+414,ROLL0414,MCA,MCA,Software Engg,Female,23,UP,ST,7.7,86.05,8.48,75.21,Online,Auditory
+415,ROLL0415,IT,B.Tech,Cyber Security,Female,20,Haryana,ST,7.6,92.25,9.37,70.35,Hybrid,Visual
+416,ROLL0416,BCA,BCA,AI,Male,26,Haryana,General,7.2,62.79,6.7,73.09,Hybrid,Auditory
+417,ROLL0417,ECE,MCA,Software Engg,Female,26,UP,OBC,6.9,99.67,6.29,69.58,Online,Kinesthetic
+418,ROLL0418,BCA,MCA,Software Engg,Female,26,Delhi,ST,2.9,74.42,6.27,55.73,Traditional,Kinesthetic
+419,ROLL0419,IT,BCA,Software Engg,Male,20,Bihar,SC,3.7,86.13,9.75,62.85,Traditional,Visual
+420,ROLL0420,MCA,B.Tech,Cyber Security,Female,23,Delhi,OBC,1.5,95.95,8.6,56.95,Hybrid,Auditory
+421,ROLL0421,BCA,B.Tech,Cloud,Male,21,Bihar,General,7.0,82.42,6.44,62.48,Hybrid,Kinesthetic
+422,ROLL0422,ECE,MCA,AI,Male,21,UP,General,4.4,65.15,7.65,51.82,Online,Auditory
+423,ROLL0423,CSE,MCA,Cyber Security,Female,21,UP,OBC,1.2,76.86,6.11,56.3,Hybrid,Visual
+424,ROLL0424,IT,BCA,Software Engg,Male,24,Punjab,General,9.8,84.85,8.24,83.82,Online,Kinesthetic
+425,ROLL0425,BCA,BCA,Cyber Security,Male,21,Punjab,OBC,5.8,85.4,7.8,65.5,Hybrid,Auditory
+426,ROLL0426,IT,MCA,Cloud,Female,25,UP,OBC,1.9,69.68,6.05,54.29,Traditional,Visual
+427,ROLL0427,CSE,B.Tech,Data Science,Female,26,Bihar,OBC,3.6,92.98,6.3,64.53,Online,Visual
+428,ROLL0428,BCA,MCA,Software Engg,Male,26,Haryana,ST,1.4,96.12,9.41,49.77,Traditional,Visual
+429,ROLL0429,BCA,MCA,AI,Male,18,Punjab,OBC,4.0,73.62,9.96,64.8,Hybrid,Auditory
+430,ROLL0430,MCA,B.Tech,Cyber Security,Male,19,Bihar,OBC,3.6,77.17,7.07,72.06,Online,Visual
+431,ROLL0431,MCA,B.Tech,Software Engg,Male,22,Haryana,SC,6.2,86.35,7.01,68.28,Traditional,Kinesthetic
+432,ROLL0432,ECE,B.Tech,Software Engg,Female,18,Punjab,OBC,1.8,96.39,8.68,47.79,Traditional,Auditory
+433,ROLL0433,IT,B.Tech,Cloud,Female,23,Bihar,OBC,1.6,98.23,6.1,52.21,Traditional,Visual
+434,ROLL0434,IT,B.Tech,AI,Female,21,Haryana,ST,4.9,90.96,8.41,65.91,Online,Visual
+435,ROLL0435,IT,BCA,Cyber Security,Male,21,Haryana,General,5.0,84.28,8.53,73.2,Online,Auditory
+436,ROLL0436,MCA,B.Tech,Cloud,Male,20,Delhi,OBC,7.1,65.27,6.94,75.01,Traditional,Visual
+437,ROLL0437,CSE,MCA,AI,Female,24,Haryana,General,6.9,98.02,8.4,70.92,Hybrid,Kinesthetic
+438,ROLL0438,BCA,B.Tech,Cloud,Female,23,Punjab,ST,4.7,95.66,6.01,72.58,Hybrid,Kinesthetic
+439,ROLL0439,CSE,MCA,Software Engg,Female,20,Bihar,General,1.4,65.6,7.11,47.17,Online,Kinesthetic
+440,ROLL0440,IT,BCA,Cyber Security,Male,23,Delhi,SC,5.0,78.97,8.36,64.58,Traditional,Auditory
+441,ROLL0441,BCA,BCA,AI,Male,24,Haryana,ST,8.7,61.98,9.33,73.68,Traditional,Auditory
+442,ROLL0442,BCA,B.Tech,Cyber Security,Female,23,UP,ST,8.2,82.88,8.05,78.48,Online,Visual
+443,ROLL0443,ECE,BCA,Cloud,Male,20,UP,OBC,9.4,75.88,6.35,73.77,Hybrid,Kinesthetic
+444,ROLL0444,CSE,BCA,Software Engg,Female,20,UP,ST,8.9,82.99,6.12,78.04,Hybrid,Visual
+445,ROLL0445,ECE,MCA,AI,Female,25,UP,General,5.1,97.18,6.66,72.7,Traditional,Auditory
+446,ROLL0446,IT,B.Tech,Software Engg,Male,18,UP,SC,9.2,88.56,8.43,74.05,Traditional,Kinesthetic
+447,ROLL0447,MCA,MCA,Cyber Security,Male,19,Delhi,SC,8.4,98.2,9.28,75.92,Online,Visual
+448,ROLL0448,MCA,MCA,Data Science,Male,21,Haryana,ST,3.3,86.61,9.2,56.83,Hybrid,Auditory
+449,ROLL0449,CSE,MCA,Data Science,Male,20,Haryana,General,4.3,64.84,7.68,62.24,Hybrid,Auditory
+450,ROLL0450,BCA,MCA,Software Engg,Male,26,Bihar,General,4.2,97.67,8.67,62.98,Hybrid,Kinesthetic
+451,ROLL0451,ECE,BCA,Software Engg,Male,26,Bihar,SC,6.8,95.52,8.39,64.7,Hybrid,Visual
+452,ROLL0452,ECE,BCA,AI,Female,22,UP,ST,6.5,94.95,8.9,69.53,Hybrid,Kinesthetic
+453,ROLL0453,MCA,MCA,Data Science,Female,18,Delhi,SC,9.1,62.66,8.14,68.81,Online,Auditory
+454,ROLL0454,IT,MCA,Data Science,Male,18,Delhi,General,1.8,75.97,9.64,52.17,Hybrid,Visual
+455,ROLL0455,ECE,MCA,Cloud,Male,19,Punjab,SC,2.9,78.66,9.27,57.86,Traditional,Kinesthetic
+456,ROLL0456,BCA,MCA,Cyber Security,Male,23,Punjab,ST,4.6,63.1,8.17,60.56,Online,Kinesthetic
+457,ROLL0457,CSE,B.Tech,Data Science,Female,26,Haryana,SC,8.1,77.86,9.19,75.74,Hybrid,Auditory
+458,ROLL0458,ECE,MCA,Cloud,Male,26,Haryana,ST,4.9,72.75,8.33,66.0,Hybrid,Kinesthetic
+459,ROLL0459,MCA,B.Tech,AI,Female,24,Bihar,OBC,1.2,75.72,8.1,47.27,Online,Auditory
+460,ROLL0460,ECE,BCA,Cyber Security,Female,21,UP,ST,2.3,95.6,7.38,57.12,Online,Auditory
+461,ROLL0461,IT,BCA,Data Science,Female,18,Haryana,OBC,4.1,80.69,7.52,64.48,Hybrid,Kinesthetic
+462,ROLL0462,ECE,MCA,Cyber Security,Male,21,Punjab,General,7.1,84.23,7.46,77.93,Online,Visual
+463,ROLL0463,IT,B.Tech,Software Engg,Male,23,Bihar,General,6.2,82.39,6.42,63.03,Online,Kinesthetic
+464,ROLL0464,MCA,B.Tech,Data Science,Male,23,Delhi,OBC,9.3,76.57,7.58,78.39,Hybrid,Visual
+465,ROLL0465,ECE,BCA,Cloud,Female,24,UP,OBC,7.8,78.34,7.16,72.93,Online,Visual
+466,ROLL0466,MCA,B.Tech,Cyber Security,Female,21,Bihar,SC,5.0,99.79,8.18,66.14,Traditional,Auditory
+467,ROLL0467,MCA,MCA,Cyber Security,Female,19,Delhi,General,1.3,98.83,9.09,53.81,Online,Visual
+468,ROLL0468,MCA,BCA,Cloud,Female,20,Punjab,General,2.5,69.88,9.35,59.49,Online,Visual
+469,ROLL0469,ECE,BCA,Cloud,Male,22,Haryana,SC,3.7,70.37,6.78,60.26,Online,Kinesthetic
+470,ROLL0470,CSE,B.Tech,Software Engg,Female,25,Punjab,ST,9.7,82.31,7.39,76.74,Online,Kinesthetic
+471,ROLL0471,MCA,B.Tech,Cloud,Female,20,Delhi,OBC,10.0,66.02,9.27,83.16,Hybrid,Kinesthetic
+472,ROLL0472,BCA,B.Tech,Cloud,Female,20,Delhi,SC,8.9,84.94,8.28,73.43,Traditional,Auditory
+473,ROLL0473,BCA,MCA,Data Science,Female,20,Bihar,SC,2.8,75.81,6.16,71.62,Hybrid,Kinesthetic
+474,ROLL0474,IT,BCA,AI,Female,23,Bihar,ST,2.2,83.72,8.4,49.09,Hybrid,Visual
+475,ROLL0475,CSE,MCA,AI,Female,18,Delhi,General,5.8,94.8,6.52,65.59,Online,Visual
+476,ROLL0476,ECE,B.Tech,Cloud,Male,23,UP,SC,7.1,78.67,6.14,72.7,Hybrid,Auditory
+477,ROLL0477,MCA,BCA,Software Engg,Male,24,Punjab,SC,2.3,78.51,9.92,62.53,Hybrid,Auditory
+478,ROLL0478,BCA,B.Tech,Data Science,Female,25,UP,OBC,4.4,71.43,6.81,62.94,Hybrid,Kinesthetic
+479,ROLL0479,CSE,B.Tech,Cloud,Male,22,UP,ST,5.0,84.23,9.67,71.81,Traditional,Auditory
+480,ROLL0480,IT,BCA,AI,Female,21,Bihar,SC,9.8,76.3,9.31,75.24,Online,Visual
+481,ROLL0481,ECE,B.Tech,Cloud,Male,25,Bihar,OBC,8.3,79.06,9.98,67.98,Online,Kinesthetic
+482,ROLL0482,IT,BCA,Software Engg,Female,24,Punjab,ST,1.6,95.34,7.79,59.62,Online,Auditory
+483,ROLL0483,IT,MCA,Software Engg,Female,22,Punjab,General,1.2,79.07,8.75,58.36,Traditional,Auditory
+484,ROLL0484,CSE,MCA,Cyber Security,Female,25,UP,SC,4.2,92.18,7.12,68.11,Hybrid,Visual
+485,ROLL0485,MCA,MCA,Cyber Security,Female,22,UP,SC,5.8,91.74,9.96,66.78,Online,Auditory
+486,ROLL0486,IT,MCA,AI,Male,22,UP,ST,7.7,65.71,9.01,71.32,Traditional,Auditory
+487,ROLL0487,CSE,B.Tech,Cloud,Female,24,Delhi,General,8.4,92.37,9.54,72.1,Traditional,Auditory
+488,ROLL0488,IT,BCA,Data Science,Female,23,UP,OBC,5.4,63.11,7.63,67.77,Hybrid,Kinesthetic
+489,ROLL0489,CSE,B.Tech,AI,Male,20,Delhi,OBC,3.8,81.97,8.53,70.03,Traditional,Visual
+490,ROLL0490,IT,MCA,Cloud,Male,24,Punjab,General,5.7,71.98,6.31,70.46,Hybrid,Kinesthetic
+491,ROLL0491,CSE,B.Tech,Cloud,Male,25,Bihar,ST,8.6,69.69,7.91,78.04,Online,Visual
+492,ROLL0492,IT,MCA,Data Science,Male,25,Haryana,General,3.7,69.3,7.12,57.32,Traditional,Kinesthetic
+493,ROLL0493,BCA,MCA,Cloud,Female,24,Bihar,SC,3.6,66.09,7.06,61.1,Hybrid,Visual
+494,ROLL0494,BCA,BCA,AI,Female,22,Bihar,General,3.0,85.62,9.92,57.29,Hybrid,Auditory
+495,ROLL0495,ECE,B.Tech,Software Engg,Male,21,Punjab,ST,2.9,76.64,9.04,61.69,Hybrid,Auditory
+496,ROLL0496,BCA,MCA,AI,Female,19,Punjab,ST,6.6,62.87,8.73,65.55,Traditional,Visual
+497,ROLL0497,MCA,MCA,Data Science,Male,24,UP,General,7.4,92.9,9.22,77.5,Traditional,Auditory
+498,ROLL0498,MCA,BCA,Cyber Security,Male,19,Punjab,SC,7.5,76.06,6.63,86.3,Traditional,Auditory
+499,ROLL0499,BCA,B.Tech,Data Science,Female,18,Delhi,ST,2.2,85.18,6.22,52.49,Online,Kinesthetic
+500,ROLL0500,IT,BCA,Cloud,Male,23,Punjab,ST,5.6,61.87,7.1,72.41,Online,Auditory
+501,ROLL0501,IT,MCA,Cloud,Male,26,Haryana,General,9.1,83.33,7.87,79.7,Online,Kinesthetic
+502,ROLL0502,ECE,BCA,Software Engg,Female,21,Haryana,SC,4.2,70.82,9.37,61.73,Traditional,Visual
+503,ROLL0503,MCA,B.Tech,Cloud,Male,20,Delhi,OBC,8.1,95.67,7.74,73.17,Hybrid,Auditory
+504,ROLL0504,MCA,MCA,Software Engg,Male,18,Haryana,SC,1.8,87.48,7.98,59.18,Online,Kinesthetic
+505,ROLL0505,ECE,B.Tech,Software Engg,Male,22,Punjab,ST,9.4,93.77,8.7,76.13,Online,Visual
+506,ROLL0506,MCA,MCA,Cloud,Male,26,Bihar,ST,9.7,90.44,9.8,76.06,Online,Auditory
+507,ROLL0507,IT,B.Tech,Software Engg,Male,22,UP,General,3.7,64.21,9.13,58.91,Traditional,Kinesthetic
+508,ROLL0508,IT,B.Tech,Cloud,Female,20,Haryana,ST,5.5,75.4,9.46,67.2,Online,Kinesthetic
+509,ROLL0509,CSE,B.Tech,Data Science,Male,26,Bihar,ST,5.1,68.36,7.47,62.76,Online,Visual
+510,ROLL0510,ECE,BCA,Cyber Security,Female,19,UP,ST,2.7,82.08,7.66,57.36,Traditional,Visual
+511,ROLL0511,IT,B.Tech,Software Engg,Female,24,Haryana,General,2.9,86.29,7.89,57.33,Hybrid,Auditory
+512,ROLL0512,CSE,B.Tech,Cyber Security,Female,24,Punjab,OBC,6.5,71.81,6.55,71.33,Traditional,Kinesthetic
+513,ROLL0513,MCA,BCA,Software Engg,Female,23,Delhi,ST,2.1,89.48,9.9,56.99,Online,Auditory
+514,ROLL0514,CSE,MCA,Software Engg,Female,20,Punjab,ST,2.8,95.61,7.15,56.7,Traditional,Auditory
+515,ROLL0515,ECE,B.Tech,Data Science,Female,22,Bihar,General,7.0,92.93,9.13,66.37,Hybrid,Kinesthetic
+516,ROLL0516,IT,MCA,Cyber Security,Female,20,Delhi,SC,9.2,93.53,8.84,78.11,Hybrid,Auditory
+517,ROLL0517,CSE,BCA,Cloud,Male,26,Punjab,General,5.4,76.17,8.12,65.81,Hybrid,Auditory
+518,ROLL0518,IT,B.Tech,Software Engg,Female,21,Bihar,General,9.7,80.76,8.71,79.18,Online,Auditory
+519,ROLL0519,MCA,B.Tech,AI,Male,26,Haryana,SC,5.1,70.69,6.88,61.48,Traditional,Visual
+520,ROLL0520,CSE,MCA,Software Engg,Male,22,UP,OBC,2.1,70.62,6.07,56.98,Traditional,Kinesthetic
+521,ROLL0521,IT,MCA,Cloud,Male,22,Delhi,OBC,4.1,89.56,6.89,67.08,Traditional,Visual
+522,ROLL0522,MCA,B.Tech,Data Science,Female,26,Punjab,General,6.8,98.97,9.39,80.0,Hybrid,Auditory
+523,ROLL0523,MCA,BCA,Cyber Security,Female,21,Bihar,SC,5.9,93.19,8.42,63.03,Hybrid,Visual
+524,ROLL0524,ECE,BCA,Data Science,Male,19,Bihar,General,9.1,88.41,9.75,73.97,Traditional,Kinesthetic
+525,ROLL0525,IT,MCA,Cloud,Female,23,Punjab,General,5.4,89.9,7.9,66.3,Online,Auditory
+526,ROLL0526,CSE,BCA,Software Engg,Male,26,Bihar,OBC,4.3,69.02,6.78,64.05,Traditional,Visual
+527,ROLL0527,IT,BCA,Cyber Security,Male,25,Haryana,SC,6.6,91.25,8.31,71.43,Online,Auditory
+528,ROLL0528,BCA,BCA,AI,Female,18,Haryana,SC,9.2,66.56,8.57,75.75,Hybrid,Kinesthetic
+529,ROLL0529,CSE,B.Tech,Software Engg,Male,26,Punjab,General,4.1,96.7,7.16,67.24,Hybrid,Auditory
+530,ROLL0530,MCA,B.Tech,Cyber Security,Female,21,Bihar,SC,7.2,87.6,9.72,71.22,Hybrid,Auditory
+531,ROLL0531,BCA,MCA,Cloud,Male,22,UP,SC,6.7,77.91,6.54,70.29,Traditional,Auditory
+532,ROLL0532,BCA,BCA,Data Science,Male,19,Bihar,ST,9.7,84.84,9.71,82.02,Hybrid,Kinesthetic
+533,ROLL0533,IT,B.Tech,Cloud,Male,25,Delhi,OBC,5.9,67.21,7.83,73.14,Online,Visual
+534,ROLL0534,ECE,BCA,Data Science,Male,19,UP,General,2.9,62.0,9.37,59.61,Traditional,Kinesthetic
+535,ROLL0535,BCA,MCA,Cyber Security,Male,22,Punjab,OBC,8.7,69.68,9.84,76.34,Online,Kinesthetic
+536,ROLL0536,BCA,MCA,Cyber Security,Male,23,UP,ST,4.9,83.74,6.29,66.36,Traditional,Kinesthetic
+537,ROLL0537,MCA,B.Tech,Data Science,Male,18,Punjab,OBC,1.1,60.57,9.32,49.19,Hybrid,Visual
+538,ROLL0538,BCA,B.Tech,Cyber Security,Male,24,UP,SC,9.6,80.86,9.91,85.38,Traditional,Kinesthetic
+539,ROLL0539,BCA,B.Tech,Data Science,Male,24,Punjab,ST,4.5,94.17,9.09,58.21,Traditional,Kinesthetic
+540,ROLL0540,CSE,BCA,AI,Male,23,Haryana,SC,8.0,98.41,9.05,70.25,Traditional,Visual
+541,ROLL0541,CSE,BCA,Cloud,Male,22,UP,ST,6.4,93.42,9.14,73.67,Hybrid,Visual
+542,ROLL0542,BCA,MCA,Cloud,Female,25,Bihar,ST,3.0,72.87,9.39,48.42,Online,Auditory
+543,ROLL0543,BCA,BCA,Cloud,Male,21,Delhi,General,8.3,70.15,6.98,79.32,Online,Visual
+544,ROLL0544,MCA,BCA,Cyber Security,Male,20,Haryana,ST,3.6,75.91,9.68,59.71,Hybrid,Auditory
+545,ROLL0545,ECE,MCA,AI,Female,20,Haryana,SC,5.5,80.51,7.93,62.84,Hybrid,Visual
+546,ROLL0546,ECE,MCA,Cloud,Female,18,Punjab,General,1.5,77.77,7.1,55.71,Hybrid,Kinesthetic
+547,ROLL0547,ECE,MCA,Software Engg,Female,19,Delhi,OBC,8.1,70.04,8.26,81.19,Hybrid,Visual
+548,ROLL0548,MCA,B.Tech,Cloud,Female,24,Punjab,OBC,9.1,95.09,9.9,71.08,Online,Visual
+549,ROLL0549,IT,MCA,Cyber Security,Male,21,UP,General,5.6,68.83,6.16,64.76,Hybrid,Visual
+550,ROLL0550,CSE,BCA,Cloud,Female,20,UP,SC,6.2,77.46,8.32,72.03,Online,Visual
+551,ROLL0551,BCA,BCA,Software Engg,Female,25,Delhi,OBC,3.9,93.59,6.58,66.1,Traditional,Auditory
+552,ROLL0552,BCA,BCA,Cloud,Male,21,Haryana,General,4.6,90.52,9.29,63.04,Traditional,Auditory
+553,ROLL0553,CSE,MCA,Cyber Security,Male,24,Delhi,OBC,5.5,68.19,8.36,63.75,Hybrid,Visual
+554,ROLL0554,BCA,BCA,Software Engg,Male,20,Delhi,SC,1.3,85.44,7.46,48.77,Traditional,Auditory
+555,ROLL0555,BCA,BCA,Data Science,Female,19,Haryana,ST,5.6,76.38,9.24,64.41,Traditional,Visual
+556,ROLL0556,IT,BCA,Cyber Security,Male,19,Haryana,SC,8.0,74.1,9.3,78.79,Online,Auditory
+557,ROLL0557,ECE,B.Tech,Software Engg,Female,22,Delhi,OBC,8.9,81.56,7.13,74.18,Hybrid,Auditory
+558,ROLL0558,BCA,B.Tech,Cloud,Female,23,Haryana,SC,7.9,60.0,7.67,73.29,Hybrid,Auditory
+559,ROLL0559,IT,MCA,Cyber Security,Female,23,Bihar,General,4.3,88.93,6.8,67.87,Traditional,Visual
+560,ROLL0560,MCA,BCA,AI,Male,21,UP,OBC,7.6,98.67,6.9,71.99,Hybrid,Kinesthetic
+561,ROLL0561,IT,BCA,Software Engg,Male,26,UP,OBC,7.7,93.94,7.69,67.79,Hybrid,Kinesthetic
+562,ROLL0562,BCA,BCA,Cyber Security,Male,23,UP,General,3.3,70.86,6.5,53.91,Traditional,Auditory
+563,ROLL0563,IT,MCA,Data Science,Male,24,Haryana,OBC,4.7,68.82,9.05,58.24,Online,Visual
+564,ROLL0564,CSE,MCA,Cloud,Female,26,UP,SC,5.9,88.37,6.67,68.41,Hybrid,Kinesthetic
+565,ROLL0565,CSE,MCA,Cloud,Female,26,UP,ST,3.4,85.14,7.93,62.58,Hybrid,Visual
+566,ROLL0566,BCA,B.Tech,Cloud,Male,26,Punjab,OBC,2.2,82.4,9.12,55.87,Hybrid,Auditory
+567,ROLL0567,MCA,MCA,Software Engg,Male,24,Haryana,OBC,2.5,98.9,7.8,55.73,Online,Visual
+568,ROLL0568,CSE,B.Tech,Cloud,Male,24,UP,General,5.2,96.84,8.78,63.71,Hybrid,Kinesthetic
+569,ROLL0569,IT,MCA,Cloud,Male,22,Bihar,SC,8.7,73.78,6.12,79.31,Hybrid,Kinesthetic
+570,ROLL0570,CSE,BCA,Cloud,Female,24,UP,OBC,8.7,88.05,8.91,70.53,Online,Auditory
+571,ROLL0571,CSE,BCA,Software Engg,Female,21,Bihar,OBC,5.9,72.48,7.93,55.52,Traditional,Auditory
+572,ROLL0572,ECE,BCA,Software Engg,Female,25,UP,General,4.5,61.01,9.36,64.22,Hybrid,Visual
+573,ROLL0573,IT,MCA,Data Science,Male,20,Delhi,General,8.2,84.64,9.37,75.26,Online,Kinesthetic
+574,ROLL0574,BCA,MCA,Software Engg,Male,22,Bihar,OBC,7.4,81.37,8.16,67.71,Online,Visual
+575,ROLL0575,ECE,B.Tech,Cloud,Female,20,Punjab,SC,5.5,88.74,9.45,68.96,Hybrid,Kinesthetic
+576,ROLL0576,ECE,MCA,Cloud,Male,26,Haryana,General,9.6,69.07,9.52,76.17,Hybrid,Visual
+577,ROLL0577,BCA,BCA,Software Engg,Male,22,Bihar,General,2.4,72.39,7.16,59.08,Online,Kinesthetic
+578,ROLL0578,MCA,MCA,Data Science,Female,19,Bihar,General,1.6,72.51,9.74,58.85,Traditional,Auditory
+579,ROLL0579,ECE,B.Tech,AI,Male,18,Bihar,SC,8.5,96.24,6.05,73.65,Traditional,Auditory
+580,ROLL0580,CSE,B.Tech,Data Science,Female,18,Bihar,ST,1.2,75.63,6.77,54.32,Hybrid,Kinesthetic
+581,ROLL0581,IT,B.Tech,Cloud,Female,18,UP,General,9.4,77.22,9.51,71.04,Traditional,Visual
+582,ROLL0582,IT,BCA,Cyber Security,Male,22,Haryana,SC,3.6,77.31,8.74,63.79,Hybrid,Visual
+583,ROLL0583,CSE,BCA,AI,Male,24,Haryana,SC,1.6,68.22,7.53,52.01,Traditional,Auditory
+584,ROLL0584,MCA,B.Tech,Software Engg,Male,25,UP,OBC,4.8,90.04,6.41,66.1,Traditional,Visual
+585,ROLL0585,CSE,B.Tech,AI,Female,18,Delhi,SC,3.5,77.28,9.92,60.66,Online,Kinesthetic
+586,ROLL0586,ECE,BCA,AI,Female,26,Bihar,SC,1.9,81.91,9.92,51.91,Hybrid,Visual
+587,ROLL0587,ECE,MCA,Software Engg,Female,20,Punjab,OBC,7.6,88.18,7.69,67.26,Hybrid,Visual
+588,ROLL0588,ECE,MCA,Data Science,Male,25,Punjab,SC,2.8,79.32,7.07,50.09,Traditional,Kinesthetic
+589,ROLL0589,MCA,BCA,Data Science,Male,23,Haryana,General,6.9,98.74,8.41,70.28,Online,Auditory
+590,ROLL0590,MCA,B.Tech,Cloud,Female,19,Bihar,ST,7.3,78.32,6.37,72.83,Online,Auditory
+591,ROLL0591,MCA,B.Tech,AI,Female,18,Bihar,ST,3.4,60.6,9.86,64.26,Hybrid,Visual
+592,ROLL0592,IT,BCA,Cyber Security,Male,19,Haryana,OBC,7.0,83.34,8.1,65.26,Traditional,Auditory
+593,ROLL0593,ECE,BCA,Data Science,Female,25,Punjab,General,8.8,97.87,6.42,79.16,Online,Auditory
+594,ROLL0594,CSE,BCA,Data Science,Female,18,Delhi,SC,6.3,88.05,8.72,70.6,Hybrid,Visual
+595,ROLL0595,BCA,MCA,AI,Female,21,UP,General,1.1,83.32,7.01,56.16,Online,Auditory
+596,ROLL0596,BCA,BCA,Cloud,Male,23,Haryana,OBC,7.5,84.69,8.96,72.19,Online,Visual
+597,ROLL0597,CSE,MCA,Software Engg,Male,22,Haryana,ST,9.8,64.08,6.03,75.08,Online,Kinesthetic
+598,ROLL0598,IT,B.Tech,AI,Male,26,UP,ST,9.2,77.36,7.03,76.9,Hybrid,Kinesthetic
+599,ROLL0599,ECE,B.Tech,Cloud,Female,19,Punjab,General,4.9,99.85,6.92,74.53,Online,Auditory
+600,ROLL0600,ECE,B.Tech,Software Engg,Male,24,Delhi,ST,7.4,63.66,6.8,74.9,Hybrid,Auditory
+601,ROLL0601,IT,B.Tech,AI,Female,18,Punjab,SC,1.5,96.46,6.12,49.63,Online,Auditory
+602,ROLL0602,MCA,BCA,Data Science,Male,19,Bihar,SC,7.1,63.25,9.81,61.91,Traditional,Kinesthetic
+603,ROLL0603,BCA,B.Tech,Software Engg,Male,23,Delhi,ST,8.2,92.92,9.73,67.6,Online,Auditory
+604,ROLL0604,MCA,BCA,Cloud,Female,20,Bihar,OBC,7.7,89.52,8.09,74.13,Online,Visual
+605,ROLL0605,ECE,B.Tech,AI,Female,18,Bihar,ST,7.9,77.1,6.82,70.72,Hybrid,Auditory
+606,ROLL0606,ECE,MCA,Cyber Security,Male,22,Haryana,General,9.1,86.66,9.15,82.67,Online,Auditory
+607,ROLL0607,CSE,B.Tech,AI,Male,19,Bihar,SC,4.7,94.95,8.55,64.09,Traditional,Auditory
+608,ROLL0608,CSE,B.Tech,Cloud,Female,19,Haryana,General,6.8,97.45,6.26,76.76,Online,Visual
+609,ROLL0609,IT,B.Tech,Cyber Security,Female,24,Punjab,SC,5.5,91.4,8.4,68.48,Hybrid,Visual
+610,ROLL0610,CSE,MCA,Software Engg,Male,18,Delhi,OBC,1.5,79.64,9.71,47.93,Hybrid,Visual
+611,ROLL0611,IT,MCA,Cyber Security,Male,22,Bihar,SC,7.9,76.39,8.62,70.2,Online,Auditory
+612,ROLL0612,IT,BCA,Software Engg,Female,20,Bihar,ST,8.1,97.7,8.99,71.84,Traditional,Auditory
+613,ROLL0613,MCA,B.Tech,Software Engg,Male,25,UP,General,8.3,87.41,6.44,69.86,Traditional,Kinesthetic
+614,ROLL0614,BCA,MCA,Cyber Security,Female,21,Punjab,ST,6.0,70.2,8.97,62.41,Online,Auditory
+615,ROLL0615,BCA,MCA,Cyber Security,Male,18,Delhi,OBC,8.9,93.12,6.86,79.51,Online,Kinesthetic
+616,ROLL0616,IT,MCA,Software Engg,Male,22,Haryana,OBC,5.6,97.64,9.51,69.83,Hybrid,Kinesthetic
+617,ROLL0617,CSE,MCA,Cloud,Female,22,Punjab,SC,9.1,63.11,9.32,78.84,Online,Kinesthetic
+618,ROLL0618,IT,BCA,Data Science,Male,20,Punjab,ST,7.1,93.52,9.44,60.52,Traditional,Kinesthetic
+619,ROLL0619,ECE,BCA,AI,Female,21,UP,ST,4.7,60.53,7.18,52.49,Traditional,Kinesthetic
+620,ROLL0620,IT,B.Tech,AI,Male,25,Punjab,OBC,3.1,64.7,6.66,53.97,Hybrid,Auditory
+621,ROLL0621,MCA,B.Tech,AI,Male,18,Bihar,OBC,8.8,81.28,9.16,78.27,Online,Visual
+622,ROLL0622,BCA,MCA,Cloud,Male,20,UP,ST,4.7,89.3,9.53,54.91,Traditional,Auditory
+623,ROLL0623,IT,B.Tech,Data Science,Male,25,UP,ST,3.0,80.77,8.43,52.11,Traditional,Kinesthetic
+624,ROLL0624,IT,MCA,AI,Female,18,Haryana,ST,6.5,82.28,7.66,66.68,Online,Auditory
+625,ROLL0625,CSE,B.Tech,AI,Female,20,Haryana,General,5.9,87.86,8.81,67.7,Hybrid,Visual
+626,ROLL0626,CSE,B.Tech,AI,Male,18,UP,General,5.9,83.02,6.09,61.21,Hybrid,Kinesthetic
+627,ROLL0627,MCA,BCA,AI,Female,22,Delhi,ST,5.5,97.33,7.76,66.55,Hybrid,Visual
+628,ROLL0628,IT,MCA,AI,Female,24,Delhi,ST,7.9,87.16,9.09,75.69,Traditional,Visual
+629,ROLL0629,CSE,BCA,Software Engg,Male,22,UP,General,4.8,60.72,9.17,64.17,Hybrid,Visual
+630,ROLL0630,CSE,BCA,Cloud,Male,23,Haryana,ST,3.0,88.59,9.53,55.18,Online,Auditory
+631,ROLL0631,CSE,BCA,Data Science,Male,20,Punjab,OBC,7.5,81.43,9.34,74.31,Hybrid,Auditory
+632,ROLL0632,ECE,MCA,Data Science,Male,20,UP,ST,2.1,71.42,8.13,57.99,Online,Kinesthetic
+633,ROLL0633,IT,BCA,Data Science,Male,26,Punjab,General,8.4,76.18,7.94,75.02,Online,Kinesthetic
+634,ROLL0634,ECE,B.Tech,Cloud,Male,25,Punjab,SC,8.2,96.07,6.81,73.61,Online,Auditory
+635,ROLL0635,CSE,MCA,Data Science,Male,19,UP,OBC,8.9,75.58,8.17,73.67,Traditional,Kinesthetic
+636,ROLL0636,ECE,BCA,Software Engg,Female,20,UP,General,5.6,99.57,6.93,67.86,Online,Visual
+637,ROLL0637,MCA,B.Tech,AI,Female,21,Punjab,ST,3.0,74.02,7.49,58.07,Hybrid,Kinesthetic
+638,ROLL0638,CSE,BCA,Software Engg,Female,19,Punjab,General,1.4,74.0,9.72,51.11,Online,Kinesthetic
+639,ROLL0639,BCA,MCA,Cloud,Male,26,Haryana,SC,7.0,79.36,6.02,73.99,Hybrid,Kinesthetic
+640,ROLL0640,IT,MCA,Cloud,Male,24,Delhi,ST,6.2,77.04,8.19,71.94,Online,Kinesthetic
+641,ROLL0641,ECE,BCA,Cloud,Female,24,Punjab,ST,7.1,90.34,6.06,74.64,Hybrid,Visual
+642,ROLL0642,CSE,MCA,Cloud,Female,18,UP,ST,7.0,73.88,7.56,66.41,Online,Kinesthetic
+643,ROLL0643,MCA,B.Tech,AI,Male,22,UP,SC,3.3,84.22,7.73,62.55,Online,Kinesthetic
+644,ROLL0644,MCA,B.Tech,AI,Male,23,Punjab,SC,6.7,66.26,7.9,72.16,Online,Kinesthetic
+645,ROLL0645,CSE,BCA,Cyber Security,Male,18,UP,ST,4.5,83.54,6.74,68.67,Online,Kinesthetic
+646,ROLL0646,ECE,B.Tech,Cloud,Female,24,UP,SC,6.3,65.35,7.78,70.33,Online,Visual
+647,ROLL0647,CSE,B.Tech,Cloud,Female,23,Bihar,ST,6.9,91.85,7.09,65.24,Hybrid,Kinesthetic
+648,ROLL0648,MCA,B.Tech,Software Engg,Female,22,Punjab,OBC,7.7,69.0,8.11,77.55,Online,Auditory
+649,ROLL0649,ECE,MCA,Cloud,Male,21,Haryana,General,7.3,68.75,8.38,76.14,Hybrid,Auditory
+650,ROLL0650,MCA,BCA,Software Engg,Male,22,Bihar,ST,5.2,99.33,9.15,59.44,Traditional,Kinesthetic
+651,ROLL0651,MCA,MCA,AI,Male,22,Punjab,OBC,7.7,66.02,6.87,64.6,Hybrid,Visual
+652,ROLL0652,CSE,BCA,Software Engg,Female,19,Punjab,ST,9.0,92.97,8.52,75.7,Online,Kinesthetic
+653,ROLL0653,MCA,B.Tech,Cloud,Female,24,UP,SC,8.1,77.16,6.8,82.93,Online,Auditory
+654,ROLL0654,BCA,BCA,AI,Male,18,Delhi,SC,10.0,93.02,9.38,80.52,Hybrid,Visual
+655,ROLL0655,MCA,B.Tech,Software Engg,Male,20,UP,ST,6.2,62.69,6.38,72.38,Hybrid,Kinesthetic
+656,ROLL0656,CSE,MCA,Cyber Security,Male,18,Haryana,ST,10.0,69.66,6.16,83.06,Traditional,Auditory
+657,ROLL0657,IT,B.Tech,Software Engg,Female,22,Haryana,ST,9.7,95.67,9.4,78.15,Traditional,Visual
+658,ROLL0658,BCA,B.Tech,Cloud,Female,19,Bihar,General,3.1,60.58,9.06,59.12,Traditional,Kinesthetic
+659,ROLL0659,MCA,B.Tech,Software Engg,Female,20,Bihar,SC,7.4,72.36,6.53,71.18,Hybrid,Visual
+660,ROLL0660,CSE,BCA,Software Engg,Female,26,Haryana,General,6.6,94.58,8.35,69.82,Online,Visual
+661,ROLL0661,CSE,BCA,AI,Female,26,Bihar,SC,1.6,85.53,8.93,50.61,Traditional,Visual
+662,ROLL0662,IT,BCA,Software Engg,Female,19,Delhi,General,3.1,83.87,9.71,61.34,Online,Visual
+663,ROLL0663,IT,MCA,Software Engg,Male,21,Punjab,SC,4.1,81.11,6.85,67.89,Online,Visual
+664,ROLL0664,IT,BCA,Data Science,Female,19,Bihar,SC,9.5,80.16,9.8,81.25,Hybrid,Auditory
+665,ROLL0665,CSE,B.Tech,Cloud,Female,24,Delhi,General,4.3,94.55,6.44,63.91,Online,Auditory
+666,ROLL0666,CSE,B.Tech,Data Science,Male,23,Delhi,ST,7.2,87.89,8.59,74.86,Online,Visual
+667,ROLL0667,IT,BCA,Cyber Security,Female,23,Punjab,General,2.4,85.44,8.4,60.01,Online,Auditory
+668,ROLL0668,BCA,MCA,Software Engg,Female,19,Punjab,ST,6.2,78.12,9.79,64.2,Hybrid,Kinesthetic
+669,ROLL0669,ECE,BCA,Cloud,Female,23,Delhi,General,1.2,91.16,8.44,57.83,Online,Visual
+670,ROLL0670,BCA,BCA,Software Engg,Male,19,Haryana,ST,7.2,96.41,8.56,74.1,Traditional,Auditory
+671,ROLL0671,MCA,MCA,AI,Female,25,UP,OBC,6.2,71.08,9.69,77.38,Traditional,Auditory
+672,ROLL0672,ECE,MCA,AI,Male,18,Delhi,OBC,6.3,88.11,6.27,76.77,Online,Kinesthetic
+673,ROLL0673,MCA,MCA,Software Engg,Female,25,UP,SC,6.5,95.24,9.53,63.85,Online,Visual
+674,ROLL0674,MCA,B.Tech,Data Science,Male,26,Haryana,OBC,2.8,89.5,7.15,61.51,Hybrid,Visual
+675,ROLL0675,ECE,MCA,AI,Male,25,UP,OBC,10.0,61.2,9.59,81.44,Online,Visual
+676,ROLL0676,BCA,B.Tech,Cloud,Female,24,Haryana,SC,9.5,91.04,6.51,78.87,Traditional,Auditory
+677,ROLL0677,BCA,BCA,Software Engg,Male,19,UP,ST,4.9,75.84,8.68,63.08,Hybrid,Kinesthetic
+678,ROLL0678,IT,BCA,Software Engg,Female,21,Punjab,General,1.6,68.43,6.92,58.08,Traditional,Visual
+679,ROLL0679,MCA,BCA,Software Engg,Male,22,Delhi,OBC,1.5,97.7,6.3,60.66,Online,Kinesthetic
+680,ROLL0680,MCA,BCA,Cloud,Female,25,Punjab,ST,7.8,98.71,7.76,60.71,Traditional,Kinesthetic
+681,ROLL0681,IT,MCA,Data Science,Female,21,UP,General,2.4,68.29,8.52,54.96,Traditional,Auditory
+682,ROLL0682,ECE,MCA,Software Engg,Male,23,UP,General,7.1,62.5,6.84,76.75,Traditional,Visual
+683,ROLL0683,IT,MCA,Data Science,Female,22,Bihar,General,9.1,91.07,6.31,81.56,Hybrid,Auditory
+684,ROLL0684,BCA,B.Tech,AI,Female,25,Delhi,General,5.3,91.22,7.21,73.4,Online,Auditory
+685,ROLL0685,CSE,B.Tech,Cloud,Male,26,Bihar,OBC,6.6,70.95,7.95,69.4,Traditional,Visual
+686,ROLL0686,IT,BCA,Data Science,Male,23,UP,General,7.4,71.28,7.46,68.03,Hybrid,Auditory
+687,ROLL0687,CSE,BCA,AI,Male,24,UP,General,7.5,82.97,8.67,74.91,Hybrid,Visual
+688,ROLL0688,BCA,B.Tech,Cyber Security,Female,21,Delhi,ST,8.6,99.58,9.56,77.64,Traditional,Auditory
+689,ROLL0689,CSE,BCA,Data Science,Male,23,Delhi,OBC,1.1,80.91,7.88,57.03,Traditional,Visual
+690,ROLL0690,CSE,B.Tech,Software Engg,Female,19,Haryana,General,8.5,74.46,9.44,85.28,Online,Auditory
+691,ROLL0691,CSE,B.Tech,Cyber Security,Female,18,Haryana,SC,2.1,87.94,7.66,60.93,Online,Kinesthetic
+692,ROLL0692,MCA,B.Tech,Cyber Security,Female,23,Bihar,General,8.4,80.41,8.94,75.36,Online,Auditory
+693,ROLL0693,IT,B.Tech,AI,Female,23,Delhi,SC,3.1,82.11,7.49,54.84,Hybrid,Visual
+694,ROLL0694,CSE,MCA,Data Science,Male,20,Punjab,OBC,8.7,66.61,9.42,78.11,Traditional,Auditory
+695,ROLL0695,IT,BCA,Data Science,Male,20,Delhi,General,2.6,93.03,7.14,52.28,Traditional,Kinesthetic
+696,ROLL0696,MCA,MCA,AI,Male,22,UP,OBC,9.5,95.76,7.35,79.6,Traditional,Auditory
+697,ROLL0697,BCA,MCA,Cyber Security,Female,24,Punjab,General,2.6,86.91,6.88,59.84,Hybrid,Kinesthetic
+698,ROLL0698,ECE,BCA,Cloud,Male,19,UP,ST,6.3,90.07,8.49,67.36,Online,Auditory
+699,ROLL0699,ECE,BCA,Data Science,Female,18,Delhi,General,1.5,75.06,6.93,56.43,Hybrid,Auditory
+700,ROLL0700,MCA,B.Tech,AI,Female,24,Haryana,General,3.6,69.48,9.79,52.47,Online,Auditory
+701,ROLL0701,BCA,B.Tech,AI,Female,18,Delhi,OBC,3.6,68.3,6.95,60.45,Traditional,Visual
+702,ROLL0702,IT,B.Tech,Cyber Security,Male,23,UP,OBC,8.0,88.1,8.46,78.45,Online,Auditory
+703,ROLL0703,BCA,BCA,Software Engg,Male,19,UP,SC,4.9,83.88,10.0,62.07,Traditional,Auditory
+704,ROLL0704,MCA,MCA,Cyber Security,Female,24,Delhi,General,2.5,61.22,6.82,64.44,Hybrid,Kinesthetic
+705,ROLL0705,ECE,MCA,Data Science,Male,22,UP,General,6.8,69.07,8.68,78.07,Hybrid,Kinesthetic
+706,ROLL0706,CSE,MCA,Data Science,Male,21,Delhi,ST,1.5,61.4,8.2,53.61,Hybrid,Kinesthetic
+707,ROLL0707,IT,B.Tech,AI,Male,18,Haryana,ST,9.4,99.86,9.18,74.31,Hybrid,Auditory
+708,ROLL0708,MCA,B.Tech,Data Science,Male,18,Delhi,OBC,8.0,96.6,6.76,77.47,Traditional,Kinesthetic
+709,ROLL0709,MCA,B.Tech,Cloud,Female,18,Punjab,ST,6.5,67.99,6.22,79.06,Online,Kinesthetic
+710,ROLL0710,ECE,MCA,Software Engg,Male,24,Delhi,OBC,3.1,87.1,8.26,63.62,Traditional,Visual
+711,ROLL0711,MCA,BCA,Cyber Security,Male,25,UP,OBC,9.3,74.64,7.27,75.74,Online,Auditory
+712,ROLL0712,IT,MCA,AI,Male,18,Haryana,General,8.0,69.38,7.38,81.82,Hybrid,Visual
+713,ROLL0713,CSE,MCA,AI,Female,23,Bihar,General,4.0,71.75,6.17,68.04,Traditional,Visual
+714,ROLL0714,BCA,B.Tech,Cyber Security,Female,24,UP,General,7.1,72.7,9.39,79.81,Hybrid,Visual
+715,ROLL0715,MCA,MCA,Cloud,Male,21,Punjab,General,6.4,80.25,7.4,67.94,Traditional,Kinesthetic
+716,ROLL0716,IT,MCA,Software Engg,Female,20,Punjab,General,7.1,81.72,7.39,74.55,Hybrid,Kinesthetic
+717,ROLL0717,BCA,BCA,Software Engg,Female,19,Bihar,General,3.8,73.6,6.32,53.2,Traditional,Auditory
+718,ROLL0718,CSE,B.Tech,Cloud,Female,25,Haryana,General,9.9,81.64,9.94,77.74,Online,Visual
+719,ROLL0719,MCA,MCA,Software Engg,Male,26,Delhi,SC,4.4,97.15,6.25,57.72,Hybrid,Kinesthetic
+720,ROLL0720,CSE,MCA,Software Engg,Male,23,Punjab,OBC,9.2,67.58,6.02,79.09,Traditional,Kinesthetic
+721,ROLL0721,ECE,B.Tech,Data Science,Female,22,Punjab,OBC,7.0,90.05,9.02,75.33,Traditional,Auditory
+722,ROLL0722,MCA,B.Tech,Cloud,Male,20,UP,General,2.0,97.66,9.14,56.83,Hybrid,Kinesthetic
+723,ROLL0723,IT,BCA,Data Science,Female,21,UP,ST,2.9,86.54,7.64,63.36,Traditional,Kinesthetic
+724,ROLL0724,BCA,BCA,Cloud,Male,18,Haryana,General,7.8,71.8,7.2,72.22,Traditional,Visual
+725,ROLL0725,CSE,B.Tech,Cloud,Male,21,Bihar,SC,5.0,89.19,9.76,70.09,Hybrid,Kinesthetic
+726,ROLL0726,ECE,MCA,Software Engg,Male,23,Haryana,General,2.1,89.4,8.13,57.76,Hybrid,Auditory
+727,ROLL0727,BCA,MCA,Cloud,Female,25,Delhi,SC,7.1,98.0,6.55,75.18,Online,Kinesthetic
+728,ROLL0728,MCA,MCA,Software Engg,Male,24,Bihar,ST,2.0,81.87,9.61,62.86,Online,Auditory
+729,ROLL0729,BCA,BCA,AI,Male,20,Haryana,SC,6.9,97.26,9.28,80.25,Traditional,Kinesthetic
+730,ROLL0730,BCA,MCA,Cloud,Female,25,Haryana,ST,4.7,82.42,9.77,68.15,Online,Auditory
+731,ROLL0731,CSE,MCA,Data Science,Male,25,Bihar,General,8.4,92.04,6.42,69.55,Traditional,Kinesthetic
+732,ROLL0732,MCA,MCA,Software Engg,Male,19,Haryana,ST,1.8,83.4,6.91,67.46,Online,Kinesthetic
+733,ROLL0733,BCA,B.Tech,Cyber Security,Female,25,Haryana,OBC,7.6,61.3,8.63,68.04,Online,Visual
+734,ROLL0734,ECE,B.Tech,Cloud,Male,26,Bihar,General,3.7,97.53,9.27,61.49,Hybrid,Auditory
+735,ROLL0735,BCA,MCA,Data Science,Male,23,UP,ST,1.3,91.28,6.96,54.02,Online,Kinesthetic
+736,ROLL0736,BCA,BCA,AI,Male,23,Delhi,OBC,3.0,84.56,7.01,56.66,Traditional,Visual
+737,ROLL0737,IT,B.Tech,Cloud,Male,18,Punjab,OBC,9.1,89.81,6.31,78.0,Traditional,Kinesthetic
+738,ROLL0738,IT,MCA,Cyber Security,Male,18,Punjab,General,4.0,68.36,6.34,62.95,Online,Visual
+739,ROLL0739,ECE,BCA,AI,Female,23,Delhi,SC,4.2,96.52,8.26,61.09,Traditional,Visual
+740,ROLL0740,ECE,BCA,Cyber Security,Male,25,Punjab,ST,7.9,91.26,7.1,72.37,Hybrid,Kinesthetic
+741,ROLL0741,MCA,MCA,Software Engg,Female,22,Punjab,General,9.4,64.75,9.73,79.88,Traditional,Kinesthetic
+742,ROLL0742,ECE,MCA,Cyber Security,Male,19,Bihar,ST,3.8,69.99,8.62,71.19,Hybrid,Kinesthetic
+743,ROLL0743,ECE,MCA,Software Engg,Female,24,Delhi,ST,9.7,82.49,8.86,78.43,Hybrid,Kinesthetic
+744,ROLL0744,MCA,MCA,Data Science,Male,20,Punjab,OBC,5.6,90.94,6.18,63.27,Hybrid,Kinesthetic
+745,ROLL0745,CSE,BCA,Cloud,Male,25,Delhi,ST,1.7,74.19,8.2,60.9,Online,Auditory
+746,ROLL0746,IT,B.Tech,Software Engg,Male,19,UP,General,3.9,77.53,9.6,60.02,Traditional,Auditory
+747,ROLL0747,IT,B.Tech,Data Science,Male,21,Haryana,General,2.0,74.2,7.65,61.79,Hybrid,Visual
+748,ROLL0748,ECE,MCA,Cloud,Female,21,Punjab,General,6.0,61.17,9.63,74.43,Traditional,Kinesthetic
+749,ROLL0749,CSE,B.Tech,Software Engg,Male,25,UP,SC,4.8,66.73,9.52,56.83,Online,Kinesthetic
+750,ROLL0750,CSE,MCA,AI,Male,19,Bihar,General,9.7,70.49,7.25,80.71,Hybrid,Kinesthetic
+751,ROLL0751,IT,MCA,Software Engg,Female,20,Haryana,OBC,9.0,97.37,9.67,83.85,Online,Auditory
+752,ROLL0752,MCA,B.Tech,Cloud,Female,22,Punjab,SC,1.8,72.59,6.17,62.55,Hybrid,Kinesthetic
+753,ROLL0753,CSE,MCA,AI,Female,23,Haryana,ST,4.9,89.26,9.3,65.87,Online,Visual
+754,ROLL0754,MCA,B.Tech,Software Engg,Male,24,Delhi,OBC,9.5,69.49,6.43,77.26,Online,Kinesthetic
+755,ROLL0755,ECE,BCA,Cyber Security,Male,21,Delhi,SC,5.5,77.35,7.0,57.89,Hybrid,Kinesthetic
+756,ROLL0756,IT,MCA,Software Engg,Female,18,Delhi,ST,2.9,95.37,8.24,60.51,Hybrid,Visual
+757,ROLL0757,CSE,BCA,Cyber Security,Male,25,Punjab,OBC,7.3,72.97,6.94,74.16,Hybrid,Kinesthetic
+758,ROLL0758,BCA,MCA,Software Engg,Male,24,Punjab,ST,8.2,97.87,7.6,72.77,Traditional,Auditory
+759,ROLL0759,MCA,MCA,Software Engg,Female,18,Bihar,OBC,3.4,99.61,6.1,68.45,Traditional,Visual
+760,ROLL0760,IT,B.Tech,Cloud,Male,20,UP,SC,4.9,72.18,6.79,70.05,Traditional,Visual
+761,ROLL0761,IT,B.Tech,AI,Female,26,Punjab,SC,9.0,76.79,7.99,77.93,Online,Visual
+762,ROLL0762,ECE,BCA,Cyber Security,Female,24,UP,OBC,8.2,88.97,8.76,69.32,Online,Auditory
+763,ROLL0763,BCA,BCA,Data Science,Female,22,Haryana,SC,8.2,62.1,6.64,71.7,Hybrid,Visual
+764,ROLL0764,BCA,MCA,Data Science,Female,19,Delhi,General,8.5,98.99,6.54,74.38,Online,Auditory
+765,ROLL0765,ECE,MCA,AI,Female,19,Delhi,SC,9.3,76.79,6.2,78.32,Online,Kinesthetic
+766,ROLL0766,BCA,MCA,Data Science,Male,26,Haryana,General,8.7,89.25,9.79,73.5,Hybrid,Kinesthetic
+767,ROLL0767,IT,BCA,AI,Female,24,Haryana,SC,8.1,72.26,6.16,65.64,Traditional,Auditory
+768,ROLL0768,CSE,B.Tech,Data Science,Female,25,UP,SC,1.1,62.48,8.14,60.77,Hybrid,Visual
+769,ROLL0769,BCA,BCA,Data Science,Female,18,Haryana,General,9.1,74.99,8.2,76.8,Online,Visual
+770,ROLL0770,ECE,B.Tech,AI,Male,25,Haryana,SC,3.0,72.7,7.04,55.99,Online,Visual
+771,ROLL0771,BCA,MCA,Cloud,Female,24,Delhi,SC,9.4,63.81,7.8,82.41,Online,Visual
+772,ROLL0772,BCA,MCA,Cloud,Male,22,Punjab,SC,2.9,90.1,6.21,56.85,Hybrid,Auditory
+773,ROLL0773,MCA,B.Tech,AI,Female,22,Punjab,OBC,7.5,79.38,8.78,65.21,Hybrid,Visual
+774,ROLL0774,CSE,BCA,Cyber Security,Male,21,Bihar,General,8.2,90.41,6.62,75.96,Online,Auditory
+775,ROLL0775,CSE,B.Tech,Data Science,Female,23,UP,ST,7.6,73.86,7.63,72.41,Traditional,Kinesthetic
+776,ROLL0776,BCA,MCA,Software Engg,Male,23,Bihar,SC,1.3,75.68,8.79,53.45,Hybrid,Auditory
+777,ROLL0777,CSE,MCA,Cyber Security,Female,20,Haryana,ST,3.3,95.44,9.58,54.89,Traditional,Kinesthetic
+778,ROLL0778,IT,MCA,Software Engg,Male,21,Bihar,ST,6.8,95.0,9.16,66.64,Traditional,Visual
+779,ROLL0779,BCA,BCA,Cloud,Female,22,UP,OBC,7.1,92.97,7.59,73.71,Hybrid,Auditory
+780,ROLL0780,IT,B.Tech,Cloud,Female,26,Delhi,OBC,1.7,61.4,9.96,51.62,Online,Auditory
+781,ROLL0781,BCA,MCA,Cloud,Female,26,Haryana,SC,2.4,99.54,9.91,60.23,Hybrid,Auditory
+782,ROLL0782,CSE,B.Tech,Cyber Security,Male,19,Bihar,General,5.6,85.52,9.94,72.38,Online,Auditory
+783,ROLL0783,IT,MCA,Cyber Security,Male,24,Bihar,ST,4.9,77.86,8.48,64.75,Online,Visual
+784,ROLL0784,MCA,BCA,AI,Female,24,Punjab,OBC,9.4,87.56,9.29,88.72,Online,Visual
+785,ROLL0785,IT,MCA,Cloud,Male,18,Haryana,OBC,1.9,84.13,8.09,54.72,Traditional,Visual
+786,ROLL0786,CSE,BCA,AI,Male,25,Delhi,ST,6.9,91.24,9.17,62.39,Traditional,Auditory
+787,ROLL0787,CSE,MCA,Cyber Security,Male,18,Punjab,ST,5.6,62.44,7.15,70.22,Online,Kinesthetic
+788,ROLL0788,IT,MCA,Software Engg,Male,22,Bihar,SC,6.6,89.88,6.87,69.52,Hybrid,Auditory
+789,ROLL0789,MCA,BCA,Software Engg,Male,19,UP,ST,6.9,68.49,6.49,67.41,Online,Auditory
+790,ROLL0790,ECE,MCA,Cyber Security,Female,26,Punjab,ST,2.7,83.77,7.65,59.81,Online,Kinesthetic
+791,ROLL0791,BCA,B.Tech,Data Science,Male,21,Punjab,OBC,5.2,60.55,6.33,60.25,Hybrid,Kinesthetic
+792,ROLL0792,CSE,B.Tech,AI,Male,19,Haryana,General,2.6,71.84,8.66,67.36,Online,Auditory
+793,ROLL0793,CSE,BCA,AI,Female,22,Bihar,ST,1.5,95.62,8.31,54.56,Online,Visual
+794,ROLL0794,BCA,B.Tech,AI,Male,23,Bihar,SC,6.4,73.64,9.67,83.54,Hybrid,Visual
+795,ROLL0795,CSE,BCA,Cyber Security,Female,21,Bihar,ST,2.3,88.59,7.17,66.41,Traditional,Visual
+796,ROLL0796,MCA,B.Tech,AI,Male,21,Punjab,SC,6.4,72.32,9.35,70.42,Online,Kinesthetic
+797,ROLL0797,CSE,MCA,Cyber Security,Male,21,UP,ST,9.5,71.83,6.0,74.09,Hybrid,Auditory
+798,ROLL0798,MCA,BCA,Software Engg,Male,23,Haryana,General,3.9,65.11,7.77,58.14,Online,Visual
+799,ROLL0799,BCA,B.Tech,Cloud,Female,22,Delhi,SC,7.2,96.11,9.35,71.18,Hybrid,Visual
+800,ROLL0800,CSE,BCA,AI,Male,18,Bihar,SC,1.9,76.08,8.92,39.76,Hybrid,Auditory
+801,ROLL0801,MCA,MCA,Software Engg,Male,23,Delhi,ST,1.1,72.91,8.22,59.96,Hybrid,Auditory
+802,ROLL0802,CSE,MCA,AI,Male,25,Delhi,ST,7.0,99.55,6.9,72.13,Traditional,Auditory
+803,ROLL0803,BCA,B.Tech,Software Engg,Female,20,Bihar,General,1.9,72.6,6.39,62.79,Hybrid,Kinesthetic
+804,ROLL0804,CSE,BCA,Cloud,Female,22,UP,SC,9.0,78.55,7.28,64.56,Traditional,Kinesthetic
+805,ROLL0805,BCA,BCA,Cyber Security,Female,20,Punjab,ST,3.8,76.11,8.69,55.63,Online,Auditory
+806,ROLL0806,ECE,MCA,AI,Male,21,Haryana,OBC,4.3,89.54,8.67,68.59,Traditional,Auditory
+807,ROLL0807,CSE,B.Tech,Software Engg,Male,26,Delhi,OBC,7.3,90.14,9.49,80.71,Traditional,Auditory
+808,ROLL0808,BCA,BCA,Cyber Security,Female,23,Bihar,SC,3.6,77.72,8.47,60.8,Online,Visual
+809,ROLL0809,MCA,BCA,Cyber Security,Female,24,Delhi,General,3.1,69.04,8.2,50.27,Hybrid,Visual
+810,ROLL0810,IT,BCA,AI,Female,20,Delhi,General,6.3,81.65,6.34,69.88,Traditional,Kinesthetic
+811,ROLL0811,ECE,MCA,Data Science,Male,19,UP,General,8.5,99.02,7.9,77.4,Online,Visual
+812,ROLL0812,CSE,B.Tech,Data Science,Female,23,Delhi,OBC,5.5,87.57,7.01,65.6,Traditional,Kinesthetic
+813,ROLL0813,ECE,B.Tech,Cyber Security,Female,25,Haryana,General,6.9,66.16,9.91,65.18,Online,Visual
+814,ROLL0814,BCA,BCA,Cyber Security,Male,23,UP,OBC,1.7,96.31,9.99,55.78,Traditional,Auditory
+815,ROLL0815,MCA,MCA,Data Science,Female,23,Haryana,ST,6.0,74.34,9.65,62.87,Traditional,Auditory
+816,ROLL0816,MCA,BCA,Data Science,Female,23,Punjab,ST,6.7,97.23,8.7,76.25,Traditional,Kinesthetic
+817,ROLL0817,ECE,B.Tech,Cloud,Male,26,UP,OBC,6.0,91.6,7.27,58.87,Hybrid,Kinesthetic
+818,ROLL0818,MCA,B.Tech,Cloud,Female,20,Delhi,General,1.6,73.57,8.02,59.52,Online,Auditory
+819,ROLL0819,ECE,B.Tech,Cyber Security,Female,25,Punjab,General,6.9,99.91,7.81,64.93,Hybrid,Auditory
+820,ROLL0820,CSE,MCA,Software Engg,Male,22,Haryana,OBC,9.9,60.01,8.46,71.26,Hybrid,Auditory
+821,ROLL0821,CSE,MCA,Cloud,Female,26,UP,OBC,5.0,85.93,6.25,67.0,Traditional,Auditory
+822,ROLL0822,BCA,B.Tech,Cyber Security,Female,19,UP,OBC,2.6,70.5,8.1,58.46,Hybrid,Visual
+823,ROLL0823,IT,B.Tech,Software Engg,Male,18,UP,ST,4.6,73.52,6.51,58.21,Online,Kinesthetic
+824,ROLL0824,MCA,BCA,Cloud,Male,24,UP,General,6.6,87.93,6.86,68.01,Online,Visual
+825,ROLL0825,MCA,B.Tech,Data Science,Female,19,Bihar,OBC,6.4,94.88,8.31,74.73,Hybrid,Kinesthetic
+826,ROLL0826,MCA,B.Tech,Cloud,Male,26,Delhi,SC,5.8,87.14,8.37,64.58,Online,Auditory
+827,ROLL0827,IT,MCA,AI,Female,21,Bihar,OBC,4.6,71.85,6.57,62.69,Traditional,Kinesthetic
+828,ROLL0828,IT,BCA,Data Science,Female,24,UP,OBC,6.5,80.95,7.28,63.75,Traditional,Visual
+829,ROLL0829,IT,MCA,Data Science,Male,24,UP,General,5.5,68.03,7.26,59.54,Hybrid,Visual
+830,ROLL0830,BCA,B.Tech,Cloud,Male,23,Bihar,OBC,7.1,72.92,9.95,66.24,Traditional,Visual
+831,ROLL0831,ECE,B.Tech,Cloud,Female,22,Delhi,OBC,7.5,61.61,7.62,85.67,Traditional,Kinesthetic
+832,ROLL0832,CSE,B.Tech,Data Science,Male,23,UP,ST,1.1,95.8,6.6,55.96,Hybrid,Auditory
+833,ROLL0833,ECE,MCA,Cyber Security,Female,19,Haryana,ST,6.6,73.67,9.5,60.14,Hybrid,Visual
+834,ROLL0834,BCA,MCA,Cyber Security,Male,20,Bihar,ST,6.8,75.24,6.22,74.75,Traditional,Kinesthetic
+835,ROLL0835,IT,BCA,AI,Male,19,Haryana,ST,2.7,78.37,9.01,56.78,Traditional,Auditory
+836,ROLL0836,IT,MCA,AI,Male,19,Haryana,General,3.4,80.14,6.27,53.38,Hybrid,Kinesthetic
+837,ROLL0837,IT,BCA,Cyber Security,Female,24,Bihar,ST,8.4,85.26,9.14,67.59,Online,Kinesthetic
+838,ROLL0838,ECE,BCA,Cyber Security,Female,26,Bihar,SC,6.4,68.82,8.5,77.93,Online,Visual
+839,ROLL0839,ECE,BCA,Cyber Security,Male,24,Delhi,OBC,1.2,92.78,9.3,50.16,Traditional,Kinesthetic
+840,ROLL0840,CSE,BCA,Cyber Security,Male,20,Delhi,ST,4.4,85.01,6.05,67.78,Traditional,Kinesthetic
+841,ROLL0841,IT,BCA,Software Engg,Female,20,UP,ST,2.7,68.09,7.55,57.46,Traditional,Auditory
+842,ROLL0842,MCA,B.Tech,Cyber Security,Female,21,Haryana,General,9.0,70.82,6.78,74.2,Traditional,Auditory
+843,ROLL0843,BCA,BCA,Cloud,Female,26,Haryana,ST,1.1,61.03,8.21,54.3,Traditional,Kinesthetic
+844,ROLL0844,IT,MCA,AI,Female,24,Bihar,General,6.0,98.39,6.19,68.04,Hybrid,Kinesthetic
+845,ROLL0845,BCA,B.Tech,Cloud,Female,25,UP,OBC,1.4,67.41,8.17,52.14,Online,Auditory
+846,ROLL0846,MCA,BCA,Cloud,Female,18,UP,General,3.7,63.09,6.68,61.76,Hybrid,Visual
+847,ROLL0847,IT,MCA,Software Engg,Male,26,Bihar,ST,8.2,90.27,8.72,80.13,Hybrid,Kinesthetic
+848,ROLL0848,IT,BCA,Cloud,Male,19,Punjab,SC,2.3,75.29,8.22,61.51,Hybrid,Kinesthetic
+849,ROLL0849,CSE,BCA,Cyber Security,Female,26,Bihar,SC,7.1,66.79,6.22,77.04,Online,Visual
+850,ROLL0850,ECE,B.Tech,Cyber Security,Male,26,UP,General,4.7,60.96,7.34,60.46,Hybrid,Auditory
+851,ROLL0851,ECE,B.Tech,Software Engg,Male,22,Punjab,ST,1.9,98.27,8.4,51.12,Hybrid,Visual
+852,ROLL0852,ECE,BCA,Cloud,Male,19,Punjab,General,1.9,67.16,9.19,61.37,Hybrid,Visual
+853,ROLL0853,ECE,BCA,Data Science,Female,26,Haryana,SC,6.3,64.49,7.33,67.28,Hybrid,Auditory
+854,ROLL0854,CSE,MCA,Data Science,Male,23,Haryana,OBC,6.8,93.75,7.3,77.64,Online,Kinesthetic
+855,ROLL0855,IT,MCA,Software Engg,Female,25,Bihar,OBC,7.6,79.59,8.52,76.18,Hybrid,Kinesthetic
+856,ROLL0856,IT,MCA,Cyber Security,Male,18,Bihar,SC,8.2,73.37,8.92,81.82,Traditional,Kinesthetic
+857,ROLL0857,IT,MCA,AI,Female,19,Bihar,ST,8.5,92.17,9.47,76.3,Traditional,Auditory
+858,ROLL0858,IT,BCA,AI,Male,24,Haryana,ST,6.9,78.39,8.7,68.87,Traditional,Kinesthetic
+859,ROLL0859,CSE,B.Tech,Cloud,Male,22,Punjab,SC,6.1,62.37,8.53,59.65,Traditional,Visual
+860,ROLL0860,IT,BCA,Software Engg,Male,24,Haryana,ST,9.9,68.33,7.42,89.12,Hybrid,Kinesthetic
+861,ROLL0861,IT,B.Tech,Data Science,Female,18,UP,SC,5.4,76.74,7.43,73.69,Hybrid,Auditory
+862,ROLL0862,BCA,BCA,Cyber Security,Female,19,Delhi,SC,6.9,67.95,7.26,79.99,Hybrid,Auditory
+863,ROLL0863,ECE,BCA,AI,Female,23,UP,ST,1.6,93.1,7.02,51.82,Hybrid,Visual
+864,ROLL0864,CSE,B.Tech,Software Engg,Female,22,Delhi,ST,4.0,89.79,7.65,61.82,Traditional,Auditory
+865,ROLL0865,IT,MCA,Cloud,Male,22,Punjab,SC,7.6,84.4,7.95,70.81,Hybrid,Visual
+866,ROLL0866,IT,BCA,Software Engg,Male,19,Bihar,ST,1.5,87.76,6.73,51.44,Traditional,Visual
+867,ROLL0867,BCA,BCA,Software Engg,Female,19,Haryana,General,4.7,96.32,6.97,62.74,Traditional,Auditory
+868,ROLL0868,MCA,BCA,Data Science,Female,25,Delhi,General,9.5,66.98,7.89,75.44,Online,Kinesthetic
+869,ROLL0869,CSE,B.Tech,Cloud,Male,18,Punjab,OBC,1.3,88.58,7.45,52.09,Hybrid,Auditory
+870,ROLL0870,BCA,B.Tech,Software Engg,Female,19,Punjab,SC,2.8,60.9,9.45,55.64,Traditional,Kinesthetic
+871,ROLL0871,BCA,MCA,Cyber Security,Male,20,Bihar,ST,9.0,83.88,9.24,84.79,Hybrid,Auditory
+872,ROLL0872,IT,B.Tech,Cloud,Male,25,Haryana,OBC,3.3,73.1,6.66,57.71,Traditional,Auditory
+873,ROLL0873,ECE,MCA,Cyber Security,Female,26,Delhi,General,3.2,72.26,8.22,51.82,Online,Kinesthetic
+874,ROLL0874,ECE,B.Tech,Data Science,Female,26,Delhi,General,1.7,63.51,6.69,64.41,Hybrid,Visual
+875,ROLL0875,ECE,MCA,Software Engg,Female,26,Punjab,OBC,2.9,71.33,7.6,65.38,Traditional,Visual
+876,ROLL0876,MCA,B.Tech,Cyber Security,Female,26,UP,SC,3.6,70.64,7.33,66.71,Hybrid,Kinesthetic
+877,ROLL0877,BCA,BCA,Cyber Security,Female,21,Bihar,SC,9.0,78.34,8.26,83.3,Online,Visual
+878,ROLL0878,CSE,MCA,AI,Male,25,Punjab,OBC,10.0,88.81,7.15,85.73,Online,Kinesthetic
+879,ROLL0879,CSE,B.Tech,Cyber Security,Female,22,UP,ST,6.7,72.79,6.23,68.14,Traditional,Visual
+880,ROLL0880,MCA,BCA,Data Science,Female,19,Delhi,OBC,3.2,90.32,9.04,52.79,Traditional,Visual
+881,ROLL0881,CSE,MCA,Data Science,Male,22,Delhi,OBC,7.1,97.27,8.48,63.6,Hybrid,Visual
+882,ROLL0882,ECE,MCA,Data Science,Female,24,Bihar,ST,7.9,87.67,9.86,66.73,Online,Auditory
+883,ROLL0883,IT,B.Tech,Cyber Security,Female,23,Bihar,ST,2.2,86.87,8.92,49.74,Online,Auditory
+884,ROLL0884,CSE,BCA,Software Engg,Male,21,Delhi,SC,4.3,65.89,6.83,64.66,Online,Auditory
+885,ROLL0885,BCA,B.Tech,Data Science,Female,25,Haryana,General,7.7,69.29,7.62,68.93,Online,Kinesthetic
+886,ROLL0886,IT,B.Tech,Software Engg,Female,20,Punjab,General,8.4,91.8,7.29,72.01,Online,Auditory
+887,ROLL0887,IT,MCA,Cloud,Male,26,Punjab,General,8.6,67.31,9.83,68.26,Hybrid,Visual
+888,ROLL0888,ECE,B.Tech,Data Science,Male,19,Punjab,General,9.1,70.7,9.25,71.52,Traditional,Visual
+889,ROLL0889,BCA,BCA,Cloud,Male,19,Punjab,SC,3.9,92.35,9.5,65.61,Hybrid,Visual
+890,ROLL0890,BCA,MCA,Cyber Security,Male,23,Punjab,ST,3.5,96.47,6.39,58.34,Online,Auditory
+891,ROLL0891,IT,B.Tech,Cyber Security,Male,20,Delhi,SC,7.1,73.26,8.0,72.1,Traditional,Visual
+892,ROLL0892,CSE,B.Tech,Software Engg,Male,20,Delhi,SC,3.8,62.55,6.71,72.46,Traditional,Auditory
+893,ROLL0893,BCA,B.Tech,AI,Male,21,UP,OBC,9.6,73.15,8.65,82.46,Traditional,Visual
+894,ROLL0894,ECE,BCA,Data Science,Male,18,UP,General,3.6,91.33,9.21,63.75,Traditional,Auditory
+895,ROLL0895,BCA,MCA,Data Science,Female,25,Delhi,OBC,6.4,63.28,8.59,76.57,Hybrid,Visual
+896,ROLL0896,MCA,BCA,AI,Female,24,Punjab,OBC,8.7,98.38,6.87,82.76,Online,Auditory
+897,ROLL0897,CSE,MCA,Software Engg,Male,21,UP,SC,4.5,66.73,9.35,56.78,Online,Kinesthetic
+898,ROLL0898,BCA,B.Tech,Cyber Security,Male,22,Bihar,SC,6.2,72.31,7.91,69.66,Online,Kinesthetic
+899,ROLL0899,CSE,BCA,Cloud,Female,18,Punjab,ST,9.8,97.3,9.74,75.57,Traditional,Visual
+900,ROLL0900,IT,B.Tech,Data Science,Male,23,UP,SC,3.7,65.57,8.45,49.11,Online,Auditory
+901,ROLL0901,MCA,B.Tech,Cyber Security,Male,25,Haryana,OBC,9.0,61.89,9.85,82.33,Hybrid,Kinesthetic
+902,ROLL0902,IT,B.Tech,Software Engg,Female,19,Delhi,General,7.3,85.19,9.45,79.16,Hybrid,Kinesthetic
+903,ROLL0903,CSE,MCA,Cloud,Female,18,Haryana,ST,8.0,75.72,6.56,74.12,Traditional,Kinesthetic
+904,ROLL0904,IT,BCA,AI,Male,19,Punjab,ST,1.5,70.23,8.11,53.18,Traditional,Kinesthetic
+905,ROLL0905,IT,B.Tech,AI,Female,25,UP,ST,2.5,78.5,6.13,56.4,Hybrid,Auditory
+906,ROLL0906,ECE,MCA,AI,Male,26,Bihar,SC,4.6,78.96,7.81,58.87,Online,Kinesthetic
+907,ROLL0907,CSE,B.Tech,Data Science,Male,19,Delhi,OBC,6.4,76.61,7.69,66.09,Hybrid,Kinesthetic
+908,ROLL0908,MCA,MCA,Data Science,Male,24,Delhi,SC,6.8,76.76,7.83,73.31,Online,Visual
+909,ROLL0909,MCA,MCA,Software Engg,Male,20,Delhi,OBC,7.8,80.51,7.28,77.37,Online,Visual
+910,ROLL0910,ECE,B.Tech,Data Science,Female,26,Haryana,ST,1.5,68.17,7.67,53.89,Online,Visual
+911,ROLL0911,MCA,B.Tech,Cyber Security,Female,23,UP,General,1.9,82.15,8.05,59.84,Traditional,Kinesthetic
+912,ROLL0912,MCA,MCA,Cyber Security,Male,18,Punjab,OBC,7.6,95.05,8.89,69.99,Traditional,Kinesthetic
+913,ROLL0913,IT,MCA,AI,Female,18,Delhi,OBC,7.4,72.31,6.97,72.84,Traditional,Kinesthetic
+914,ROLL0914,IT,B.Tech,Cyber Security,Male,23,Haryana,General,7.5,64.42,6.14,71.38,Traditional,Auditory
+915,ROLL0915,IT,BCA,Data Science,Female,25,Haryana,General,2.0,69.31,9.0,59.94,Online,Kinesthetic
+916,ROLL0916,BCA,MCA,AI,Female,24,Bihar,General,8.2,73.65,7.78,67.47,Traditional,Visual
+917,ROLL0917,CSE,B.Tech,Software Engg,Female,19,Haryana,SC,8.3,95.1,9.09,74.43,Online,Kinesthetic
+918,ROLL0918,ECE,BCA,Data Science,Female,24,UP,OBC,5.1,99.55,7.93,65.47,Online,Auditory
+919,ROLL0919,ECE,B.Tech,AI,Female,26,UP,SC,7.8,69.94,8.15,74.84,Hybrid,Kinesthetic
+920,ROLL0920,BCA,BCA,Cyber Security,Male,20,Punjab,General,1.1,76.14,6.94,50.49,Traditional,Auditory
+921,ROLL0921,IT,MCA,Cyber Security,Female,24,Punjab,ST,1.2,96.17,6.27,54.18,Traditional,Visual
+922,ROLL0922,CSE,BCA,Software Engg,Female,20,UP,General,2.7,82.22,7.17,52.52,Hybrid,Visual
+923,ROLL0923,BCA,B.Tech,Data Science,Female,19,Punjab,OBC,4.3,77.55,9.91,65.96,Traditional,Auditory
+924,ROLL0924,IT,BCA,Cyber Security,Female,18,UP,ST,8.6,73.57,8.84,79.77,Online,Kinesthetic
+925,ROLL0925,ECE,B.Tech,AI,Female,24,Delhi,ST,3.8,86.96,9.38,62.57,Hybrid,Auditory
+926,ROLL0926,ECE,BCA,Cyber Security,Female,18,Bihar,ST,2.1,62.82,9.64,58.52,Traditional,Visual
+927,ROLL0927,CSE,BCA,AI,Male,23,Bihar,OBC,8.4,81.79,6.31,74.19,Online,Auditory
+928,ROLL0928,BCA,B.Tech,Cyber Security,Male,18,UP,General,1.1,80.47,9.08,54.4,Hybrid,Kinesthetic
+929,ROLL0929,CSE,MCA,Cyber Security,Male,21,UP,OBC,8.4,95.53,6.8,70.23,Hybrid,Auditory
+930,ROLL0930,BCA,B.Tech,Data Science,Male,19,Bihar,SC,7.8,77.82,8.37,68.32,Traditional,Visual
+931,ROLL0931,CSE,MCA,AI,Female,21,Punjab,ST,2.5,72.41,8.01,60.77,Online,Visual
+932,ROLL0932,BCA,MCA,Software Engg,Male,20,Punjab,ST,7.0,64.73,7.61,75.05,Traditional,Visual
+933,ROLL0933,BCA,MCA,Cyber Security,Male,21,Bihar,SC,4.4,76.54,6.16,62.53,Online,Auditory
+934,ROLL0934,MCA,MCA,Data Science,Male,19,Delhi,General,2.6,75.69,9.79,59.86,Hybrid,Visual
+935,ROLL0935,BCA,MCA,Software Engg,Female,20,Haryana,SC,7.9,64.35,9.93,80.27,Traditional,Auditory
+936,ROLL0936,CSE,MCA,Software Engg,Female,26,Bihar,SC,6.6,67.68,6.58,66.97,Online,Auditory
+937,ROLL0937,IT,BCA,Cyber Security,Male,26,UP,ST,5.8,89.83,9.3,69.76,Traditional,Kinesthetic
+938,ROLL0938,IT,BCA,Cyber Security,Female,24,Punjab,ST,4.0,72.55,8.54,63.09,Online,Visual
+939,ROLL0939,BCA,BCA,Software Engg,Male,18,Bihar,SC,6.6,92.99,8.76,61.95,Hybrid,Auditory
+940,ROLL0940,MCA,BCA,Software Engg,Male,25,Delhi,ST,2.8,69.5,7.2,59.98,Traditional,Kinesthetic
+941,ROLL0941,ECE,B.Tech,AI,Male,19,UP,SC,6.3,81.04,9.04,64.46,Hybrid,Visual
+942,ROLL0942,ECE,MCA,Data Science,Male,26,Delhi,OBC,5.3,75.13,8.07,68.98,Online,Kinesthetic
+943,ROLL0943,ECE,BCA,Cyber Security,Male,22,UP,General,7.2,61.01,8.76,69.77,Online,Visual
+944,ROLL0944,IT,MCA,Cyber Security,Male,25,UP,ST,4.2,63.48,6.81,61.84,Traditional,Visual
+945,ROLL0945,IT,B.Tech,Cloud,Female,26,Haryana,General,2.3,71.92,6.36,51.59,Traditional,Auditory
+946,ROLL0946,MCA,B.Tech,Cyber Security,Female,25,Delhi,ST,4.1,64.46,8.28,62.07,Hybrid,Kinesthetic
+947,ROLL0947,CSE,B.Tech,Cloud,Male,18,UP,OBC,7.4,69.61,7.78,70.08,Hybrid,Auditory
+948,ROLL0948,BCA,MCA,Data Science,Female,19,Punjab,SC,2.8,66.65,9.67,57.3,Online,Kinesthetic
+949,ROLL0949,CSE,BCA,AI,Male,25,Delhi,OBC,2.8,95.61,6.46,58.4,Online,Kinesthetic
+950,ROLL0950,BCA,BCA,Cloud,Male,22,Delhi,ST,6.4,95.24,6.2,68.32,Hybrid,Visual
+951,ROLL0951,ECE,B.Tech,Software Engg,Female,18,Haryana,ST,8.9,63.48,7.95,71.23,Traditional,Auditory
+952,ROLL0952,IT,B.Tech,Cloud,Female,20,Haryana,General,5.0,79.56,7.41,69.39,Hybrid,Kinesthetic
+953,ROLL0953,BCA,BCA,Data Science,Female,24,Punjab,ST,6.1,90.49,9.25,64.3,Hybrid,Kinesthetic
+954,ROLL0954,IT,BCA,AI,Male,23,Bihar,ST,8.5,99.43,9.17,65.96,Traditional,Kinesthetic
+955,ROLL0955,CSE,B.Tech,Cyber Security,Female,18,Bihar,General,6.6,89.67,9.22,68.14,Hybrid,Visual
+956,ROLL0956,MCA,MCA,AI,Male,25,Delhi,ST,1.2,62.5,7.55,59.07,Hybrid,Auditory
+957,ROLL0957,CSE,BCA,Software Engg,Female,24,Bihar,General,7.7,74.28,8.54,76.03,Traditional,Auditory
+958,ROLL0958,CSE,B.Tech,Data Science,Male,20,Bihar,General,5.4,61.07,7.52,62.52,Traditional,Kinesthetic
+959,ROLL0959,IT,MCA,Software Engg,Male,18,Punjab,ST,9.7,88.61,9.83,74.68,Hybrid,Auditory
+960,ROLL0960,MCA,MCA,Data Science,Male,22,Delhi,SC,7.4,70.09,7.79,59.26,Online,Auditory
+961,ROLL0961,IT,BCA,Data Science,Male,19,Delhi,General,2.9,60.04,6.16,63.5,Traditional,Visual
+962,ROLL0962,MCA,BCA,Data Science,Female,25,Punjab,OBC,2.4,89.12,8.4,59.51,Hybrid,Kinesthetic
+963,ROLL0963,CSE,B.Tech,Software Engg,Female,23,UP,ST,7.9,99.02,8.29,79.95,Traditional,Kinesthetic
+964,ROLL0964,ECE,MCA,Cyber Security,Female,21,Delhi,General,5.5,67.14,6.43,59.84,Online,Auditory
+965,ROLL0965,ECE,B.Tech,Cyber Security,Male,23,Haryana,ST,8.3,83.89,7.57,80.72,Online,Auditory
+966,ROLL0966,MCA,BCA,Data Science,Male,24,Haryana,General,2.9,94.06,6.34,58.26,Online,Visual
+967,ROLL0967,MCA,MCA,AI,Female,22,Haryana,General,8.6,67.27,7.72,78.38,Traditional,Kinesthetic
+968,ROLL0968,MCA,BCA,Cyber Security,Female,22,UP,OBC,2.1,65.62,7.15,52.13,Traditional,Auditory
+969,ROLL0969,MCA,B.Tech,Cloud,Female,24,Haryana,General,7.7,93.46,8.82,73.77,Traditional,Kinesthetic
+970,ROLL0970,MCA,MCA,AI,Female,24,Bihar,General,9.6,88.77,9.72,80.0,Hybrid,Kinesthetic
+971,ROLL0971,CSE,BCA,Software Engg,Male,20,Haryana,ST,3.3,62.11,8.9,58.06,Online,Visual
+972,ROLL0972,MCA,B.Tech,Software Engg,Female,19,UP,ST,5.3,62.29,6.7,62.38,Hybrid,Visual
+973,ROLL0973,BCA,B.Tech,AI,Female,18,Haryana,SC,4.4,84.69,9.88,64.98,Traditional,Kinesthetic
+974,ROLL0974,CSE,B.Tech,Data Science,Female,26,UP,OBC,7.5,67.35,7.31,73.46,Hybrid,Visual
+975,ROLL0975,CSE,BCA,Software Engg,Female,22,Delhi,OBC,6.4,79.59,8.11,70.41,Traditional,Auditory
+976,ROLL0976,BCA,MCA,AI,Female,23,Bihar,General,8.2,67.43,6.34,64.19,Hybrid,Auditory
+977,ROLL0977,ECE,BCA,AI,Male,23,Haryana,OBC,7.7,92.2,6.55,65.53,Online,Auditory
+978,ROLL0978,IT,B.Tech,Cloud,Male,24,Haryana,OBC,8.5,94.5,7.26,71.49,Online,Auditory
+979,ROLL0979,MCA,BCA,Software Engg,Male,25,Delhi,General,1.4,61.99,8.49,53.29,Hybrid,Auditory
+980,ROLL0980,IT,B.Tech,Cloud,Male,24,Haryana,SC,9.8,80.72,8.46,77.12,Traditional,Kinesthetic
+981,ROLL0981,IT,MCA,Cyber Security,Male,26,Bihar,OBC,5.4,77.17,6.3,62.62,Online,Kinesthetic
+982,ROLL0982,CSE,BCA,Cyber Security,Female,24,Haryana,ST,7.9,62.48,8.31,70.65,Hybrid,Kinesthetic
+983,ROLL0983,MCA,BCA,Cyber Security,Male,19,UP,ST,1.3,62.11,9.34,59.79,Traditional,Kinesthetic
+984,ROLL0984,IT,MCA,Software Engg,Male,20,Delhi,OBC,1.9,75.73,8.47,54.64,Traditional,Kinesthetic
+985,ROLL0985,ECE,B.Tech,Cyber Security,Female,22,Bihar,OBC,6.2,82.84,7.33,65.21,Traditional,Kinesthetic
+986,ROLL0986,MCA,MCA,AI,Female,21,Haryana,SC,1.9,90.66,9.87,54.11,Traditional,Kinesthetic
+987,ROLL0987,MCA,BCA,AI,Female,20,Bihar,OBC,5.6,71.38,8.07,69.09,Traditional,Visual
+988,ROLL0988,IT,B.Tech,Data Science,Female,25,Delhi,General,2.8,70.61,6.68,62.7,Online,Visual
+989,ROLL0989,IT,MCA,Software Engg,Female,23,UP,OBC,4.8,64.53,6.69,58.22,Hybrid,Auditory
+990,ROLL0990,CSE,BCA,Cloud,Female,19,Punjab,General,3.2,73.73,9.41,60.47,Online,Kinesthetic
+991,ROLL0991,IT,MCA,Cyber Security,Female,22,UP,General,1.1,98.55,7.51,49.61,Traditional,Auditory
+992,ROLL0992,CSE,B.Tech,AI,Female,24,Punjab,SC,4.5,94.04,7.38,64.41,Online,Visual
+993,ROLL0993,CSE,MCA,Cyber Security,Female,21,Haryana,SC,6.2,90.65,7.63,70.24,Online,Visual
+994,ROLL0994,IT,MCA,Cloud,Female,25,UP,General,6.6,65.25,7.24,74.0,Hybrid,Kinesthetic
+995,ROLL0995,BCA,B.Tech,Software Engg,Male,22,Punjab,ST,9.2,90.42,8.71,73.03,Online,Auditory
+996,ROLL0996,MCA,BCA,Data Science,Male,22,Punjab,ST,4.4,68.36,8.78,60.32,Traditional,Visual
+997,ROLL0997,BCA,BCA,Software Engg,Male,24,Delhi,SC,10.0,78.01,7.01,85.85,Online,Kinesthetic
+998,ROLL0998,BCA,B.Tech,Data Science,Male,25,Delhi,General,9.6,73.67,9.94,77.84,Online,Visual
+999,ROLL0999,CSE,MCA,AI,Male,18,Haryana,OBC,6.1,60.84,6.14,74.86,Traditional,Kinesthetic
+1000,ROLL1000,ECE,BCA,AI,Female,23,UP,ST,1.8,81.53,9.65,54.28,Traditional,Kinesthetic
+1001,ROLL1001,ECE,MCA,Data Science,Male,23,Delhi,ST,6.6,64.83,9.91,68.64,Traditional,Kinesthetic
+1002,ROLL1002,CSE,BCA,Software Engg,Male,25,Bihar,General,3.5,73.29,8.8,53.87,Online,Visual
+1003,ROLL1003,BCA,MCA,Data Science,Female,20,Bihar,OBC,9.3,99.9,6.13,74.08,Online,Visual
+1004,ROLL1004,CSE,MCA,Cyber Security,Female,19,Delhi,OBC,3.2,68.14,9.82,54.28,Online,Kinesthetic
+1005,ROLL1005,IT,MCA,AI,Female,26,Haryana,General,1.4,73.55,7.62,57.46,Traditional,Auditory
+1006,ROLL1006,MCA,MCA,Cloud,Male,26,Bihar,General,8.8,67.23,9.79,69.8,Hybrid,Visual
+1007,ROLL1007,ECE,B.Tech,Software Engg,Female,21,Bihar,OBC,3.9,90.25,7.58,56.28,Online,Kinesthetic
+1008,ROLL1008,IT,MCA,AI,Female,18,Delhi,ST,3.7,78.97,6.67,71.68,Hybrid,Auditory
+1009,ROLL1009,MCA,BCA,AI,Female,23,Delhi,SC,4.6,62.3,8.33,72.22,Online,Auditory
+1010,ROLL1010,ECE,B.Tech,Software Engg,Male,24,Haryana,ST,1.7,71.29,8.34,60.1,Hybrid,Auditory
+1011,ROLL1011,BCA,MCA,Data Science,Male,25,Punjab,General,1.1,87.67,8.65,52.75,Traditional,Auditory
+1012,ROLL1012,IT,MCA,Software Engg,Male,18,Punjab,SC,3.8,80.58,9.43,59.46,Hybrid,Kinesthetic
+1013,ROLL1013,BCA,MCA,Software Engg,Male,21,Bihar,SC,7.5,83.28,9.19,71.85,Traditional,Visual
+1014,ROLL1014,ECE,B.Tech,Cyber Security,Female,19,Delhi,OBC,7.8,87.56,9.45,78.92,Online,Auditory
+1015,ROLL1015,MCA,BCA,Data Science,Female,24,Delhi,OBC,5.3,62.75,8.2,70.85,Online,Visual
+1016,ROLL1016,CSE,B.Tech,Software Engg,Female,22,Delhi,ST,2.4,62.49,9.29,56.11,Traditional,Auditory
+1017,ROLL1017,IT,MCA,Data Science,Female,21,Delhi,OBC,4.6,80.11,9.36,69.77,Online,Visual
+1018,ROLL1018,ECE,BCA,Software Engg,Male,24,Bihar,OBC,3.7,91.2,7.89,68.93,Hybrid,Kinesthetic
+1019,ROLL1019,IT,B.Tech,Software Engg,Male,24,UP,General,1.1,63.01,7.5,43.4,Hybrid,Kinesthetic
+1020,ROLL1020,ECE,B.Tech,Software Engg,Male,20,Delhi,SC,9.0,78.41,8.84,74.49,Hybrid,Kinesthetic
+1021,ROLL1021,BCA,BCA,Data Science,Female,18,Punjab,SC,5.7,64.99,9.85,73.49,Traditional,Visual
+1022,ROLL1022,BCA,MCA,Software Engg,Female,21,Punjab,OBC,1.2,90.98,6.54,56.87,Traditional,Visual
+1023,ROLL1023,BCA,MCA,Cyber Security,Male,18,Punjab,ST,6.5,77.13,6.11,71.48,Hybrid,Kinesthetic
+1024,ROLL1024,BCA,MCA,AI,Male,26,Haryana,General,9.9,70.03,8.04,81.02,Hybrid,Kinesthetic
+1025,ROLL1025,MCA,MCA,AI,Male,23,Bihar,SC,9.0,73.43,8.46,61.96,Online,Auditory
+1026,ROLL1026,IT,BCA,Data Science,Male,23,UP,SC,9.0,70.51,7.89,79.86,Hybrid,Kinesthetic
+1027,ROLL1027,IT,BCA,Software Engg,Male,20,Delhi,General,9.6,92.95,8.84,84.96,Hybrid,Visual
+1028,ROLL1028,MCA,BCA,Cloud,Male,23,Delhi,General,1.7,66.18,7.76,56.78,Hybrid,Kinesthetic
+1029,ROLL1029,BCA,BCA,AI,Female,24,Haryana,OBC,1.6,62.97,6.46,54.39,Traditional,Kinesthetic
+1030,ROLL1030,IT,MCA,Cyber Security,Male,26,UP,ST,4.5,70.35,7.39,68.95,Traditional,Auditory
+1031,ROLL1031,IT,B.Tech,AI,Female,18,UP,OBC,1.1,92.43,9.79,53.53,Online,Visual
+1032,ROLL1032,BCA,B.Tech,Software Engg,Male,20,UP,General,1.2,81.37,8.75,56.39,Traditional,Kinesthetic
+1033,ROLL1033,IT,BCA,Data Science,Female,21,Bihar,ST,7.6,99.82,7.15,82.74,Online,Auditory
+1034,ROLL1034,ECE,BCA,Data Science,Male,21,Haryana,SC,1.9,62.23,6.52,67.1,Online,Kinesthetic
+1035,ROLL1035,CSE,BCA,AI,Female,26,Punjab,SC,6.4,69.09,8.18,69.95,Hybrid,Visual
+1036,ROLL1036,IT,B.Tech,Cyber Security,Male,20,Bihar,General,7.0,65.33,9.41,80.66,Traditional,Auditory
+1037,ROLL1037,MCA,MCA,AI,Female,20,Punjab,SC,1.1,95.83,6.12,54.19,Hybrid,Visual
+1038,ROLL1038,CSE,BCA,Cloud,Male,18,Punjab,SC,4.0,88.22,6.75,51.5,Hybrid,Auditory
+1039,ROLL1039,CSE,MCA,Software Engg,Male,19,UP,General,3.1,65.74,6.74,59.57,Hybrid,Auditory
+1040,ROLL1040,MCA,BCA,Software Engg,Male,25,Delhi,ST,6.9,94.9,6.98,63.98,Hybrid,Visual
+1041,ROLL1041,IT,B.Tech,Cyber Security,Female,26,Bihar,SC,6.2,88.72,7.49,68.14,Online,Auditory
+1042,ROLL1042,ECE,MCA,Data Science,Male,20,Haryana,General,8.8,69.76,9.87,71.96,Online,Auditory
+1043,ROLL1043,BCA,MCA,Software Engg,Female,19,Haryana,General,6.0,80.56,8.76,65.58,Traditional,Kinesthetic
+1044,ROLL1044,IT,MCA,Data Science,Male,21,Haryana,SC,5.7,87.51,7.09,71.72,Online,Kinesthetic
+1045,ROLL1045,CSE,BCA,Software Engg,Female,22,Haryana,OBC,3.1,64.26,9.29,61.36,Online,Auditory
+1046,ROLL1046,CSE,MCA,Data Science,Female,24,Haryana,General,7.4,60.27,9.06,69.19,Online,Auditory
+1047,ROLL1047,ECE,MCA,Cloud,Female,24,UP,ST,4.7,77.79,8.31,69.9,Hybrid,Kinesthetic
+1048,ROLL1048,CSE,B.Tech,Cloud,Male,20,Delhi,General,5.5,60.31,7.97,71.37,Traditional,Visual
+1049,ROLL1049,CSE,B.Tech,Cloud,Male,20,UP,SC,2.9,93.66,6.12,58.0,Online,Auditory
+1050,ROLL1050,ECE,BCA,Cyber Security,Male,18,Punjab,SC,9.4,87.09,6.48,84.23,Hybrid,Kinesthetic
+1051,ROLL1051,CSE,MCA,Cloud,Female,23,Haryana,General,6.6,81.79,6.5,64.88,Online,Auditory
+1052,ROLL1052,IT,MCA,Cloud,Female,20,Punjab,OBC,7.8,88.9,6.03,69.44,Online,Kinesthetic
+1053,ROLL1053,CSE,BCA,Cloud,Male,22,Punjab,General,2.3,94.65,9.49,49.73,Traditional,Kinesthetic
+1054,ROLL1054,CSE,MCA,AI,Female,26,Punjab,SC,1.6,72.68,7.07,44.27,Online,Visual
+1055,ROLL1055,MCA,B.Tech,Cloud,Female,25,Delhi,SC,8.0,94.33,9.38,80.97,Traditional,Auditory
+1056,ROLL1056,ECE,MCA,Data Science,Male,21,Haryana,ST,3.1,85.43,9.97,54.07,Traditional,Kinesthetic
+1057,ROLL1057,CSE,BCA,Cloud,Male,20,Delhi,SC,3.0,67.04,9.46,53.51,Hybrid,Kinesthetic
+1058,ROLL1058,BCA,MCA,AI,Male,21,Bihar,ST,3.6,77.85,8.91,59.96,Hybrid,Visual
+1059,ROLL1059,ECE,B.Tech,Cloud,Female,18,Bihar,SC,8.7,62.1,6.42,81.8,Online,Visual
+1060,ROLL1060,ECE,BCA,AI,Male,20,Bihar,OBC,4.6,77.25,8.28,76.29,Online,Auditory
+1061,ROLL1061,IT,MCA,Software Engg,Male,21,Haryana,OBC,5.3,73.35,8.32,66.75,Hybrid,Kinesthetic
+1062,ROLL1062,CSE,MCA,Data Science,Female,24,Delhi,OBC,5.7,62.05,6.93,71.88,Online,Kinesthetic
+1063,ROLL1063,BCA,MCA,AI,Female,26,Punjab,ST,3.7,97.19,6.5,58.85,Hybrid,Auditory
+1064,ROLL1064,CSE,BCA,AI,Male,23,Bihar,SC,6.0,71.92,7.82,68.77,Traditional,Auditory
+1065,ROLL1065,IT,B.Tech,Data Science,Male,26,Delhi,ST,7.4,64.25,9.1,75.16,Hybrid,Visual
+1066,ROLL1066,CSE,BCA,Data Science,Female,18,UP,OBC,4.9,61.55,8.0,68.1,Traditional,Auditory
+1067,ROLL1067,IT,BCA,Cyber Security,Male,22,Punjab,General,6.8,78.33,8.11,70.88,Online,Visual
+1068,ROLL1068,IT,BCA,Software Engg,Female,19,Delhi,OBC,8.8,79.97,7.19,74.78,Hybrid,Kinesthetic
+1069,ROLL1069,ECE,MCA,Data Science,Male,26,Punjab,General,3.0,64.13,8.34,74.46,Online,Kinesthetic
+1070,ROLL1070,CSE,B.Tech,Cloud,Male,24,Haryana,OBC,3.4,96.43,7.74,52.88,Hybrid,Auditory
+1071,ROLL1071,MCA,B.Tech,Cyber Security,Male,22,Delhi,ST,8.5,85.04,6.3,72.46,Online,Kinesthetic
+1072,ROLL1072,CSE,BCA,Software Engg,Male,22,Delhi,ST,2.2,75.47,9.28,54.58,Hybrid,Auditory
+1073,ROLL1073,CSE,BCA,Cyber Security,Female,20,Punjab,SC,8.5,88.41,6.45,70.99,Traditional,Kinesthetic
+1074,ROLL1074,CSE,BCA,Cyber Security,Female,21,Haryana,SC,4.9,78.56,9.16,69.43,Hybrid,Visual
+1075,ROLL1075,BCA,B.Tech,Software Engg,Female,23,Delhi,ST,6.9,99.93,6.3,68.39,Traditional,Visual
+1076,ROLL1076,CSE,B.Tech,Cloud,Male,19,Bihar,ST,9.8,62.61,9.29,72.44,Online,Kinesthetic
+1077,ROLL1077,MCA,BCA,AI,Female,23,UP,OBC,8.9,80.57,8.16,80.88,Online,Kinesthetic
+1078,ROLL1078,MCA,BCA,Cyber Security,Female,22,UP,General,6.3,68.51,6.39,65.08,Traditional,Auditory
+1079,ROLL1079,IT,MCA,Software Engg,Male,23,Delhi,OBC,8.7,78.54,9.14,79.47,Online,Visual
+1080,ROLL1080,IT,B.Tech,Cyber Security,Male,22,Delhi,SC,9.2,99.24,8.65,76.8,Hybrid,Auditory
+1081,ROLL1081,MCA,B.Tech,Cyber Security,Female,18,Punjab,ST,7.0,88.61,7.07,67.19,Hybrid,Visual
+1082,ROLL1082,ECE,B.Tech,AI,Female,25,Delhi,SC,1.1,65.59,8.86,51.43,Hybrid,Auditory
+1083,ROLL1083,BCA,B.Tech,Data Science,Female,23,Punjab,OBC,9.8,79.76,9.48,79.44,Online,Auditory
+1084,ROLL1084,BCA,MCA,Cloud,Male,22,Punjab,OBC,8.5,95.08,6.97,84.14,Online,Auditory
+1085,ROLL1085,MCA,B.Tech,Data Science,Male,25,Delhi,General,7.0,73.36,7.02,69.84,Traditional,Visual
+1086,ROLL1086,BCA,MCA,AI,Male,26,Punjab,OBC,1.4,93.75,7.75,54.52,Hybrid,Kinesthetic
+1087,ROLL1087,ECE,BCA,Data Science,Male,21,Delhi,General,5.7,83.3,8.74,71.25,Online,Visual
+1088,ROLL1088,CSE,BCA,AI,Male,24,Haryana,ST,2.7,67.37,6.23,62.71,Traditional,Auditory
+1089,ROLL1089,ECE,B.Tech,Data Science,Female,22,Delhi,OBC,4.6,64.99,8.1,62.97,Traditional,Kinesthetic
+1090,ROLL1090,IT,BCA,Software Engg,Female,25,UP,ST,3.9,73.98,8.39,60.61,Online,Kinesthetic
+1091,ROLL1091,ECE,MCA,Cloud,Female,22,Bihar,SC,9.7,77.63,7.04,81.62,Online,Visual
+1092,ROLL1092,ECE,B.Tech,Data Science,Female,19,Punjab,ST,9.0,87.58,7.14,80.96,Hybrid,Kinesthetic
+1093,ROLL1093,CSE,B.Tech,Cyber Security,Female,23,UP,OBC,7.1,94.34,9.85,65.57,Traditional,Visual
+1094,ROLL1094,BCA,BCA,Cloud,Female,22,UP,OBC,4.0,84.09,7.29,64.33,Online,Visual
+1095,ROLL1095,MCA,BCA,Data Science,Female,18,Punjab,ST,8.0,88.13,9.34,71.69,Online,Kinesthetic
+1096,ROLL1096,MCA,BCA,Cyber Security,Male,26,UP,General,1.2,77.28,6.13,57.38,Traditional,Auditory
+1097,ROLL1097,IT,MCA,Cloud,Male,18,Bihar,General,2.5,88.49,6.7,57.33,Online,Visual
+1098,ROLL1098,BCA,B.Tech,Cloud,Male,21,Punjab,ST,1.1,96.85,9.9,45.33,Online,Auditory
+1099,ROLL1099,MCA,BCA,AI,Male,26,Haryana,OBC,9.2,65.86,8.58,74.65,Hybrid,Kinesthetic
+1100,ROLL1100,MCA,MCA,Software Engg,Male,21,Haryana,ST,4.2,93.31,7.97,60.31,Traditional,Visual
+1101,ROLL1101,BCA,MCA,AI,Male,19,Bihar,SC,5.0,76.22,9.94,59.85,Online,Auditory
+1102,ROLL1102,IT,MCA,Software Engg,Male,24,Bihar,SC,6.1,70.09,9.66,63.08,Hybrid,Kinesthetic
+1103,ROLL1103,CSE,MCA,Data Science,Male,21,Bihar,General,8.9,67.87,9.79,79.14,Online,Visual
+1104,ROLL1104,IT,BCA,Software Engg,Female,18,Bihar,General,5.9,87.36,6.76,61.37,Online,Visual
+1105,ROLL1105,CSE,B.Tech,Cloud,Male,20,UP,OBC,5.2,62.84,9.27,69.77,Hybrid,Auditory
+1106,ROLL1106,IT,B.Tech,Data Science,Female,21,Haryana,OBC,8.2,65.66,6.52,65.41,Online,Kinesthetic
+1107,ROLL1107,BCA,BCA,Software Engg,Female,26,Delhi,ST,8.6,81.8,6.35,72.65,Traditional,Kinesthetic
+1108,ROLL1108,IT,MCA,Software Engg,Female,24,UP,ST,4.3,69.18,6.87,60.43,Traditional,Visual
+1109,ROLL1109,BCA,MCA,AI,Female,20,UP,SC,1.2,64.11,6.69,55.71,Online,Kinesthetic
+1110,ROLL1110,IT,MCA,Cloud,Male,21,Punjab,General,8.5,99.66,6.65,61.63,Online,Kinesthetic
+1111,ROLL1111,MCA,B.Tech,Data Science,Female,20,Bihar,General,1.1,78.68,8.74,50.95,Online,Auditory
+1112,ROLL1112,CSE,BCA,Cyber Security,Female,22,Haryana,ST,8.2,64.28,9.12,72.85,Online,Auditory
+1113,ROLL1113,MCA,BCA,AI,Male,18,Haryana,OBC,8.4,77.93,7.96,70.77,Online,Auditory
+1114,ROLL1114,IT,B.Tech,AI,Female,21,Haryana,SC,9.6,69.57,8.5,79.61,Online,Visual
+1115,ROLL1115,MCA,BCA,Cloud,Male,23,UP,OBC,1.6,70.72,9.65,61.77,Online,Auditory
+1116,ROLL1116,BCA,B.Tech,Cloud,Female,19,UP,OBC,7.5,61.12,7.5,76.7,Online,Kinesthetic
+1117,ROLL1117,CSE,MCA,Cloud,Male,23,Bihar,SC,5.1,63.82,9.59,64.46,Hybrid,Visual
+1118,ROLL1118,ECE,B.Tech,Data Science,Male,26,Punjab,OBC,1.2,96.38,7.08,54.55,Hybrid,Kinesthetic
+1119,ROLL1119,MCA,B.Tech,Cloud,Male,25,Haryana,ST,8.2,63.07,7.65,69.04,Traditional,Kinesthetic
+1120,ROLL1120,MCA,BCA,Cyber Security,Male,26,Punjab,ST,5.5,91.8,6.54,70.28,Online,Kinesthetic
+1121,ROLL1121,ECE,BCA,Software Engg,Male,26,Punjab,ST,1.6,89.37,8.09,58.07,Traditional,Kinesthetic
+1122,ROLL1122,BCA,MCA,AI,Male,20,Punjab,ST,3.3,63.7,7.6,56.57,Hybrid,Kinesthetic
+1123,ROLL1123,ECE,MCA,Cyber Security,Female,26,UP,General,6.7,76.65,6.67,68.41,Hybrid,Visual
+1124,ROLL1124,BCA,BCA,Cyber Security,Female,19,Bihar,ST,6.9,89.1,9.15,69.84,Hybrid,Auditory
+1125,ROLL1125,CSE,B.Tech,Data Science,Male,26,Delhi,General,3.8,79.33,6.25,62.24,Hybrid,Auditory
+1126,ROLL1126,ECE,B.Tech,Software Engg,Male,23,Punjab,General,7.8,80.0,6.51,73.59,Hybrid,Visual
+1127,ROLL1127,BCA,B.Tech,Cyber Security,Male,18,Delhi,ST,5.8,99.85,7.9,66.01,Online,Auditory
+1128,ROLL1128,IT,MCA,Cyber Security,Male,24,Delhi,ST,9.0,76.44,8.42,83.46,Online,Kinesthetic
+1129,ROLL1129,MCA,MCA,Data Science,Female,22,Haryana,OBC,9.2,66.18,8.51,77.96,Hybrid,Kinesthetic
+1130,ROLL1130,IT,BCA,AI,Male,25,UP,SC,3.1,68.46,8.94,58.13,Hybrid,Visual
+1131,ROLL1131,ECE,BCA,Cloud,Female,25,Haryana,ST,8.9,98.36,6.77,81.4,Traditional,Auditory
+1132,ROLL1132,CSE,MCA,Software Engg,Male,20,Punjab,OBC,7.2,97.82,8.53,77.81,Hybrid,Auditory
+1133,ROLL1133,CSE,BCA,Cyber Security,Male,20,Punjab,General,5.7,60.3,7.69,64.83,Traditional,Auditory
+1134,ROLL1134,BCA,MCA,Cyber Security,Female,25,Punjab,OBC,3.4,99.29,7.53,68.83,Traditional,Visual
+1135,ROLL1135,CSE,B.Tech,Cyber Security,Female,18,Bihar,SC,3.1,85.12,9.32,51.58,Hybrid,Kinesthetic
+1136,ROLL1136,CSE,B.Tech,Software Engg,Male,22,Bihar,ST,5.9,62.12,8.8,65.0,Traditional,Visual
+1137,ROLL1137,MCA,BCA,Software Engg,Female,23,Haryana,General,6.6,74.35,9.98,59.71,Hybrid,Kinesthetic
+1138,ROLL1138,CSE,MCA,Cloud,Male,25,Punjab,General,3.6,94.76,9.62,46.64,Online,Visual
+1139,ROLL1139,MCA,MCA,Cloud,Female,23,UP,General,6.3,88.77,8.47,72.35,Hybrid,Kinesthetic
+1140,ROLL1140,ECE,MCA,Software Engg,Male,23,UP,ST,9.6,81.32,8.53,76.21,Online,Visual
+1141,ROLL1141,MCA,MCA,AI,Male,22,Bihar,ST,9.1,78.26,6.6,76.93,Online,Kinesthetic
+1142,ROLL1142,IT,B.Tech,Software Engg,Male,26,Bihar,ST,3.7,62.03,7.87,64.91,Traditional,Visual
+1143,ROLL1143,ECE,MCA,Cyber Security,Male,25,Punjab,OBC,9.3,88.42,7.68,73.62,Hybrid,Kinesthetic
+1144,ROLL1144,MCA,B.Tech,Cloud,Female,20,UP,General,8.7,74.35,8.52,76.28,Online,Kinesthetic
+1145,ROLL1145,BCA,MCA,AI,Female,21,Punjab,OBC,2.0,98.63,6.7,49.71,Hybrid,Auditory
+1146,ROLL1146,MCA,BCA,Data Science,Female,19,Punjab,OBC,8.0,86.94,8.46,77.66,Traditional,Auditory
+1147,ROLL1147,BCA,MCA,AI,Female,23,Delhi,OBC,1.9,80.37,6.1,48.8,Online,Kinesthetic
+1148,ROLL1148,ECE,B.Tech,Data Science,Male,20,Delhi,SC,7.6,87.39,6.85,70.5,Hybrid,Kinesthetic
+1149,ROLL1149,BCA,BCA,Cyber Security,Male,18,Haryana,SC,6.7,61.66,6.83,69.08,Online,Kinesthetic
+1150,ROLL1150,CSE,MCA,Cloud,Female,24,Bihar,SC,9.7,73.66,7.35,82.34,Online,Auditory
+1151,ROLL1151,BCA,MCA,Cyber Security,Male,19,Delhi,OBC,10.0,94.33,7.63,81.56,Hybrid,Auditory
+1152,ROLL1152,MCA,MCA,Cloud,Female,22,Bihar,SC,4.3,90.79,9.24,58.47,Traditional,Auditory
+1153,ROLL1153,CSE,MCA,Data Science,Male,21,Delhi,SC,8.6,65.57,8.08,81.85,Online,Auditory
+1154,ROLL1154,IT,MCA,Software Engg,Female,23,Bihar,ST,2.9,92.55,6.87,64.21,Online,Visual
+1155,ROLL1155,ECE,B.Tech,Software Engg,Female,19,Delhi,General,9.7,65.91,9.76,80.47,Hybrid,Auditory
+1156,ROLL1156,BCA,MCA,Software Engg,Male,22,Delhi,General,5.8,83.03,8.58,60.96,Online,Visual
+1157,ROLL1157,IT,B.Tech,Cyber Security,Female,20,Haryana,General,9.8,81.46,8.01,83.75,Online,Kinesthetic
+1158,ROLL1158,CSE,BCA,AI,Female,21,Delhi,SC,1.4,83.97,7.37,48.97,Online,Auditory
+1159,ROLL1159,ECE,MCA,AI,Female,19,UP,ST,5.9,78.38,8.0,68.75,Traditional,Visual
+1160,ROLL1160,IT,BCA,Software Engg,Male,20,Punjab,ST,7.9,68.41,7.29,71.26,Online,Visual
+1161,ROLL1161,MCA,MCA,AI,Male,20,UP,SC,6.8,66.9,9.49,64.98,Hybrid,Auditory
+1162,ROLL1162,IT,MCA,Data Science,Female,24,UP,ST,6.8,90.5,8.34,72.19,Traditional,Kinesthetic
+1163,ROLL1163,ECE,MCA,Cloud,Female,25,Bihar,OBC,3.3,92.15,9.27,59.91,Traditional,Kinesthetic
+1164,ROLL1164,BCA,B.Tech,Software Engg,Female,21,Bihar,OBC,7.6,94.66,8.08,74.87,Online,Kinesthetic
+1165,ROLL1165,MCA,MCA,Software Engg,Male,26,Delhi,General,5.9,63.58,7.67,70.62,Hybrid,Kinesthetic
+1166,ROLL1166,ECE,BCA,Data Science,Female,19,Haryana,ST,1.9,60.64,8.46,53.85,Online,Kinesthetic
+1167,ROLL1167,CSE,MCA,Cyber Security,Male,19,Haryana,General,7.3,63.87,7.1,77.44,Online,Visual
+1168,ROLL1168,ECE,MCA,Cyber Security,Male,24,Delhi,ST,2.1,94.66,8.37,52.51,Online,Auditory
+1169,ROLL1169,ECE,B.Tech,Data Science,Male,18,Haryana,ST,4.8,66.43,8.8,62.38,Traditional,Kinesthetic
+1170,ROLL1170,IT,MCA,Software Engg,Female,18,Haryana,OBC,1.7,67.67,7.9,56.43,Traditional,Visual
+1171,ROLL1171,MCA,B.Tech,Data Science,Female,19,Bihar,General,4.2,81.17,8.34,59.63,Online,Visual
+1172,ROLL1172,ECE,BCA,Data Science,Female,19,UP,SC,5.4,93.87,9.33,71.74,Traditional,Visual
+1173,ROLL1173,MCA,BCA,Cyber Security,Female,26,Bihar,OBC,6.3,97.38,8.9,72.07,Hybrid,Auditory
+1174,ROLL1174,ECE,B.Tech,Cloud,Female,18,Haryana,ST,2.0,69.55,9.8,67.96,Online,Kinesthetic
+1175,ROLL1175,BCA,MCA,Cloud,Male,18,UP,General,1.3,72.93,8.18,43.65,Online,Auditory
+1176,ROLL1176,CSE,MCA,AI,Male,26,UP,General,7.1,73.15,7.11,75.0,Traditional,Auditory
+1177,ROLL1177,BCA,B.Tech,Cyber Security,Male,23,Delhi,OBC,5.5,71.04,8.92,67.62,Traditional,Kinesthetic
+1178,ROLL1178,MCA,MCA,Software Engg,Male,18,Haryana,OBC,4.8,91.03,7.35,61.5,Online,Visual
+1179,ROLL1179,CSE,MCA,Software Engg,Female,23,Delhi,SC,9.5,96.68,8.33,85.12,Hybrid,Auditory
+1180,ROLL1180,BCA,MCA,AI,Female,18,Haryana,ST,2.7,92.84,7.72,57.32,Online,Visual
+1181,ROLL1181,CSE,BCA,AI,Male,26,Delhi,SC,5.7,69.37,6.49,68.2,Hybrid,Auditory
+1182,ROLL1182,CSE,BCA,Cyber Security,Female,22,UP,OBC,3.9,61.39,6.51,56.72,Online,Kinesthetic
+1183,ROLL1183,IT,MCA,Cyber Security,Male,20,Bihar,OBC,7.3,86.36,9.96,76.24,Hybrid,Visual
+1184,ROLL1184,ECE,B.Tech,AI,Female,18,Delhi,General,2.8,64.4,7.53,52.47,Hybrid,Visual
+1185,ROLL1185,IT,MCA,AI,Female,22,Punjab,SC,8.1,80.39,7.2,71.96,Traditional,Kinesthetic
+1186,ROLL1186,BCA,B.Tech,AI,Female,19,Bihar,ST,2.8,95.21,6.78,54.61,Online,Kinesthetic
+1187,ROLL1187,ECE,B.Tech,Cloud,Male,19,Delhi,General,6.6,85.53,8.8,59.53,Traditional,Visual
+1188,ROLL1188,ECE,BCA,Cloud,Male,24,Punjab,General,2.0,95.04,9.13,67.77,Hybrid,Auditory
+1189,ROLL1189,CSE,B.Tech,Cyber Security,Male,24,Punjab,General,1.9,61.1,7.61,50.84,Online,Auditory
+1190,ROLL1190,BCA,BCA,Data Science,Male,22,UP,ST,1.6,67.49,6.13,57.37,Online,Kinesthetic
+1191,ROLL1191,CSE,B.Tech,AI,Male,19,Bihar,General,7.7,99.82,8.66,77.18,Traditional,Auditory
+1192,ROLL1192,CSE,BCA,Cloud,Male,25,Delhi,SC,7.6,95.55,6.25,72.74,Traditional,Kinesthetic
+1193,ROLL1193,IT,B.Tech,Cloud,Male,19,UP,ST,4.7,99.46,6.22,61.43,Traditional,Auditory
+1194,ROLL1194,IT,BCA,Cloud,Male,19,Haryana,General,9.0,60.4,9.53,77.75,Traditional,Auditory
+1195,ROLL1195,CSE,BCA,Software Engg,Male,23,UP,SC,3.9,83.74,6.84,58.29,Hybrid,Auditory
+1196,ROLL1196,CSE,BCA,Cloud,Male,23,Bihar,General,3.3,63.7,6.4,64.74,Online,Auditory
+1197,ROLL1197,BCA,B.Tech,Cloud,Male,26,UP,SC,8.0,97.5,8.77,71.67,Hybrid,Visual
+1198,ROLL1198,BCA,B.Tech,Software Engg,Female,22,Haryana,SC,9.6,84.44,6.01,75.67,Traditional,Kinesthetic
+1199,ROLL1199,ECE,B.Tech,AI,Female,25,Bihar,General,9.3,86.01,6.36,72.83,Hybrid,Visual
+1200,ROLL1200,ECE,BCA,Cyber Security,Male,21,UP,ST,7.1,95.55,8.77,62.86,Online,Auditory

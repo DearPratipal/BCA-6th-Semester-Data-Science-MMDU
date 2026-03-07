@@ -4,6 +4,7 @@ data <- read.csv("data.csv")
 # Display first few rows
 cat("First 6 rows of the data:\n")
 head(data)
+str(data)
 
 # Display summary statistics
 cat("\nSummary Statistics:\n")
